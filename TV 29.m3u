@@ -1,0 +1,517 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="General",Watania 1
+http://live.watania1.tn:1935/live/watanya1.stream/chunklist_w1911898418.m3u8
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/640px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" group-title="General",Watania 2
+http://live.watania2.tn:1935/live/watanya2.stream/chunklist_w339670187.m3u8
+#EXTINF:-1 tvg-id="Al Hiwah Ettounsi.tn" tvg-name="Al Hiwah Ettounsi" tvg-logo="https://scontent-cdt1-1.xx.fbcdn.net/v/t1.6435-9/97158403_3888852684518752_6134861423668363264_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nAPeWxYaQDoAX9VNCgu&tn=xj3DDkxvrZHxwjkk&_nc_ht=scontent-cdt1-1.xx&oh=00_AfD-RNYjw5EVu7dBt-i_wtZsj4dV_S9TD5UQHMcf_s0VQQ&oe=63F24D0A" group-title="General",Al Hiwah Ettounsi
+https://stream-05.ix7.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5656GKtIx93ta5HfdVss60yHgx_wXjOy0k9D2_bq79y7QL)/dm/3/x7ooijz/s/live-4.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-name="National Geographic Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="General",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="DW Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/280px-Deutsche_Welle_symbol_2012.svg.png" group-title="General",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="MBCEgypt.ae" tvg-name="MBC Masr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="General",MBC Masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-name="MBC Masr 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="General",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="General",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_MBC_Drama_+.png" group-title="General",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Plus Drama" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="General",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-name="Dubai One" tvg-logo="https://scontent-cdt1-1.xx.fbcdn.net/v/t39.30808-6/299619557_607354994089423_5389974253277327250_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=37ie_Lg0KGoAX_3o3q2&_nc_ht=scontent-cdt1-1.xx&oh=00_AfAkeNaHtAsweg3K6oNXitA7CaiURy-iVMLW1Wcl1Zta_g&oe=63DAB455" group-title="General",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="General",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="MBC Iraq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="General",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="Sama Dubai" tvg-name="Sama Dubai" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="General",Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-name="Abu Dhabi" tvg-logo="http://showflix.org:5890/images/e292c5f7488665c404e74a5b546405f4.png" group-title="General",Abu Dhabi
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-name="Abu Dhabi Emirates" tvg-logo="http://showflix.org:5890/images/45946a859b60ae149117e97aab9bd6c6.png" group-title="General",Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-name="Rotana Cinema" tvg-logo="http://showflix.org:5890/images/db51754796b781d7fc9e719d2415910d.png" group-title="General",Rotana Cinema
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-name="Rotana Cinema" tvg-logo="http://showflix.org:5890/images/db51754796b781d7fc9e719d2415910d.png" group-title="General",Rotana Cinema
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaPlus.sa" tvg-name="Rotana+" tvg-logo="https://i.discogs.com/4IO0EDwwAcyWIJWX90w_-Ie5rRLttA-y0Ca3nLuO-xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1NzY4/LTE1Mjc3NDQ0NjEt/MTE0MC5qcGVn.jpeg" group-title="General",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic" tvg-logo="http://showflix.org:5890/images/4b9cc6bbfb758e6e152a160121f32751.png" group-title="General",Rotana Classic
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-name="Al Sharqiya Min Kabla" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="General",Al Sharqiya Min Kabla
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al alraby" tvg-name="Al alraby" tvg-logo="https://4.bp.blogspot.com/-a6m-SS1ltDA/XI4R1gyF5NI/AAAAAAAAJEA/76oZ3228KzcBd0Q75tbTdTkwUHZZ-H22QCK4BGAYYCw/s640/logo+alaraby+tv+channel+arabic.png" group-title="General",Al alraby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png" group-title="General",Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="General",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-name="Al Mamlaka TV" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="General",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-id="AlRayyan.qa" tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="General",Al Rayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Yas.ae" tvg-name="Yas" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="General",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlKhalij.sa" tvg-name="Al Khalij" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="General",Al Khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-name="Wanasah" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="General",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-name="Elsharq TV" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="Zee Aflam" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="General",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="AlRayyanAlQadeem.qa" tvg-name="Al Rayyan Al Qadeem" tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="General",Al Rayyan Al Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-name="Weyyak Action" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="General",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-name="Weyyak Drama" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="General",Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakMix.ae" tvg-name="Weyyak Mix" tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" group-title="General",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakNawaem.ae" tvg-name="Weyyak Nawaem" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="General",Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC International" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="General",LBC International
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon" tvg-logo="https://i.imgur.com/lAsc9Eq.png" group-title="General",MTV Lebanon
+https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports 1" tvg-logo="http://showflix.org:5890/images/90e58e96abf56342b93f889d50269d9e.png" group-title="Sports",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="Abu Dhabi Sports 2" tvg-logo="http://showflix.org:5890/images/f1f8c46c2d40a73e39db539b22762aa3.png" group-title="Sports",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-name="Abu Dhabi Sports 3" tvg-logo="http://showflix.org:5890/images/4e31028e3a47595d7907c05f304e0e7f.png" group-title="Sports",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="SSC SPORTS 1 HD" tvg-logo="https://1.bp.blogspot.com/-3vQPqt_FDsM/YRVplKYYkWI/AAAAAAAAAK8/YgRPvYLgZ0Y_rU83K9DFgsr6721uAomXgCLcBGAsYHQ/s1138/da6d9a57-ac75-48ab-8594-452b9bee55a3_16x9_1200x676.jpg" group-title="Sports",SSC SPORTS 1 HD
+http://showflix.org:5890/achraf/achraf/127657
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="SSC SPORTS 2 HD" tvg-logo="https://1.bp.blogspot.com/-3vQPqt_FDsM/YRVplKYYkWI/AAAAAAAAAK8/YgRPvYLgZ0Y_rU83K9DFgsr6721uAomXgCLcBGAsYHQ/s1138/da6d9a57-ac75-48ab-8594-452b9bee55a3_16x9_1200x676.jpg" group-title="Sports",SSC SPORTS 2 HD
+http://showflix.org:5890/achraf/achraf/127658
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="SSC SPORTS 3 HD" tvg-logo="https://1.bp.blogspot.com/-3vQPqt_FDsM/YRVplKYYkWI/AAAAAAAAAK8/YgRPvYLgZ0Y_rU83K9DFgsr6721uAomXgCLcBGAsYHQ/s1138/da6d9a57-ac75-48ab-8594-452b9bee55a3_16x9_1200x676.jpg" group-title="Sports",SSC SPORTS 3 HD
+http://showflix.org:5890/achraf/achraf/127663
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="SSC SPORTS 4 HD" tvg-logo="https://1.bp.blogspot.com/-3vQPqt_FDsM/YRVplKYYkWI/AAAAAAAAAK8/YgRPvYLgZ0Y_rU83K9DFgsr6721uAomXgCLcBGAsYHQ/s1138/da6d9a57-ac75-48ab-8594-452b9bee55a3_16x9_1200x676.jpg" group-title="Sports",SSC SPORTS 4 HD
+http://showflix.org:5890/achraf/achraf/127664
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="SSC SPORTS 5 HD" tvg-logo="https://1.bp.blogspot.com/-3vQPqt_FDsM/YRVplKYYkWI/AAAAAAAAAK8/YgRPvYLgZ0Y_rU83K9DFgsr6721uAomXgCLcBGAsYHQ/s1138/da6d9a57-ac75-48ab-8594-452b9bee55a3_16x9_1200x676.jpg" group-title="Sports",SSC SPORTS 5 HD
+http://showflix.org:5890/achraf/achraf/127665
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="SSC SPORTS 6 HD" tvg-logo="https://1.bp.blogspot.com/-3vQPqt_FDsM/YRVplKYYkWI/AAAAAAAAAK8/YgRPvYLgZ0Y_rU83K9DFgsr6721uAomXgCLcBGAsYHQ/s1138/da6d9a57-ac75-48ab-8594-452b9bee55a3_16x9_1200x676.jpg" group-title="Sports",SSC SPORTS 6 HD
+http://showflix.org:5890/achraf/achraf/127666
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Kass 1" tvg-logo="http://showflix.org:5890/images/7456a7a1e2a3a66cde0a435e1cf066aa.png" group-title="Sports",Al Kass 1
+https://msalkasslivecustom.azureedge.net/livehttporigin/smil:alkass1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Kass 2" tvg-logo="http://showflix.org:5890/images/3fed111148243198f8bbe6a31fe5d8d2.png" group-title="Sports",Al Kass 2
+https://streamalkass.azureedge.net/f1887b7c-9c01-4c28-a5d2-b55044f77772/6a8e4b09-6c68-4d8e-bccf-0ec9da5b8c6f.ism/manifest
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Kass 4" tvg-logo="https://picon-13398.kxcdn.com/alkassfourhd.jpg" group-title="Sports",Al Kass 4
+https://streamalkass.azureedge.net/2aaba6cc-50e6-4c05-a62a-7b202304b501/39a12d60-62f7-4799-af98-3d57fa35e0a6.ism/manifest
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Kass 5" tvg-logo="https://3.bp.blogspot.com/-Ke34lpz7i5c/WvMauIcBTvI/AAAAAAAAO48/FtriW7jrvwkY4Ycb82WelRcZTs2Q2SUXACLcBGAs/s1600/alkass5.png" group-title="Sports",Al Kass 5
+https://msalkasslive.azureedge.net/969a4da6-9b92-4ee0-969d-e6e8d5eb90f8/28710ce6-2312-4b92-9c07-e3adf1953581.ism/manifest
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Al Kass Online" tvg-logo="https://tvtvtv.ru/icons/al_kass_online.png" group-title="Sports",Al Kass Online
+https://streamalkass.azureedge.net/b6c0a6c3-6e0a-4c41-b7ba-de87e98d0030/de5ce750-d6b5-4a2d-8d4c-a598ec6a18e1.ism/manifest
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-name="Dubai Racing" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="Sports",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-name="Dubai Racing 2" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png" group-title="Sports",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-name="Dubai Racing 3" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="Dubai Sports 1" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_1.png" group-title="Sports",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="Dubai Sports 2" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="Sports",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="Dubai Sports 3" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="Sports",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="SharjahSportsTV.ae" tvg-name="Sharjah Sports TV" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AtfalWaMawaheb.sa" tvg-name="Atfal Wa Mawaheb" tvg-logo="https://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="Kids",Atfal Wa Mawaheb
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.us" tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Gulli Arabe" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Gulli_Bil_Arabi_138_138.jpg" group-title="Kids",Gulli Arabe
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 tvg-id="MajidTV.ae" tvg-name="Majid TV" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-name="MBC 3 EUR" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 EUR
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.ae" tvg-name="MBC 3 USA" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 USA
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-1 tvg-id="SAT7KIDS.cy" tvg-name="SAT-7 KIDS (720p)" tvg-logo="https://sat7.faulio.com/storage/mediagallery/95/5e/fullhd_d189d6e5e0a948de4608cd2823cc0b2e37ed2de5.png" group-title="Kids",SAT-7 KIDS (720p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Spacetoon.sy" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport Premium 01" tvg-logo="http://showflix.org:5890/images/664e959174fde9763f371b9988aa84e0.png" group-title="Bein Sports",beIN Sport Premium 01
+http://hdhd.tk:80/l0009/l0009/31630
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport Premium 02" tvg-logo="http://showflix.org:5890/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="Bein Sports",beIN Sport Premium 02
+http://hdhd.tk:80/l0009/l0009/31634
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport Premium 03" tvg-logo="http://showflix.org:5890/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="Bein Sports",beIN Sport Premium 03
+http://hdhd.tk:80/l0009/l0009/31636
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport 1" tvg-logo="http://showflix.org:5890/images/9bf1fe5edcd55b12291930b8aecd5d66.png" group-title="Bein Sports",beIN Sport 1
+http://hdhd.tk:80/l0009/l0009/31629
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport 2" tvg-logo="http://showflix.org:5890/images/c57174675a461d1c41ec9d6b934efe22.png" group-title="Bein Sports",beIN Sport 2
+http://hdhd.tk:80/l0009/l0009/31632
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport 3" tvg-logo="http://showflix.org:5890/images/a8996d70bbeff41beb408580908519e3.png" group-title="Bein Sports",beIN Sport 3
+http://hdhd.tk:80/l0009/l0009/31636
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport 4" tvg-logo="http://showflix.org:5890/images/9c01d43a879e30fbc3779fc2fd210de2.png" group-title="Bein Sports",beIN Sport 4
+http://hdhd.tk:80/l0009/l0009/31639
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport 5" tvg-logo="http://showflix.org:5890/images/eb65cc982d454336ad382866398e85e6.png" group-title="Bein Sports",beIN Sport 5
+http://hdhd.tk:80/l0009/l0009/31640
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport 06" tvg-logo="http://showflix.org:5890/images/34528f5a08d39074433cde07d40feb16.png" group-title="Bein Sports",beIN Sport 06
+http://hdhd.tk:80/l0009/l0009/31641
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="beIN Sport 07" tvg-logo="http://showflix.org:5890/images/0fdddd8893a8e7f323b6fe2bdcbd415b.png" group-title="Bein Sports",beIN Sport 07
+http://hdhd.tk:80/l0009/l0009/31642
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 HD" group-title="France",FR: TF1 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1859
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="FR: 13eme rue HD" tvg-logo="Logo N/A" group-title="France",FR: 13eme rue HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37930
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6ter HD" tvg-logo="Logo N/A" group-title="France",FR: 6ter HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37932
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: A+" tvg-logo="Logo N/A" group-title="France",FR: A+
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37945
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB 1" tvg-logo="Logo N/A" group-title="France",FR: AB 1
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37948
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 HD" tvg-logo="Logo N/A" group-title="France",FR: C8 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38046
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AB 3" tvg-logo="Logo N/A" group-title="France",FR: AB 3
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37949
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AB Xplore HD" tvg-logo="Logo N/A" group-title="France",FR: AB Xplore HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37946
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Alsace 20 HD" tvg-logo="Logo N/A" group-title="France",FR: Alsace 20 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37952
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Altice Studio HD" tvg-logo="Logo N/A" group-title="France",FR: Altice Studio HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37953
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: Animaux" tvg-logo="Logo N/A" group-title="France",FR: Animaux
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37960
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: Arte HD" tvg-logo="Logo N/A" group-title="France",FR: Arte HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37962
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="FR: Baby TV" tvg-logo="Logo N/A" group-title="France",FR: Baby TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/69748
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR: Bet" tvg-logo="Logo N/A" group-title="France",FR: Bet
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38000
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="FR: BFM Business" tvg-logo="Logo N/A" group-title="France",FR: BFM Business
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38001
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: BFM Grand Lille" tvg-logo="Logo N/A" group-title="France",FR: BFM Grand Lille
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/67664
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: BFM Paris" tvg-logo="Logo N/A" group-title="France",FR: BFM Paris
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38005
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR: BFM TV" tvg-logo="Logo N/A" group-title="France",FR: BFM TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38003
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Bip TV" tvg-logo="Logo N/A" group-title="France",FR: Bip TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/67662
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="FR: Boing" tvg-logo="Logo N/A" group-title="France",FR: Boing
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38007
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="FR: Boomerang HD" tvg-logo="Logo N/A" group-title="France",FR: Boomerang HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38009
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: C News HD" tvg-logo="Logo N/A" group-title="France",FR: C News HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38044
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: C Star HD" tvg-logo="Logo N/A" group-title="France",FR: C Star HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38045
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="FR: Canal J" tvg-logo="Logo N/A" group-title="France",FR: Canal J
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38052
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="FR: Cartoon Network HD" tvg-logo="Logo N/A" group-title="France",FR: Cartoon Network HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38090
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: CGTN" tvg-logo="Logo N/A" group-title="France",FR: CGTN
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38091
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR: Cherie 25 HD" tvg-logo="Logo N/A" group-title="France",FR: Cherie 25 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38096
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="FR: Comedie+ HD" tvg-logo="Logo N/A" group-title="France",FR: Comedie+ HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38125
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="FR: Crime District HD" tvg-logo="Logo N/A" group-title="France",FR: Crime District HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38127
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: D5 TV" tvg-logo="Logo N/A" group-title="France",FR: D5 TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38129
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: DBM" tvg-logo="Logo N/A" group-title="France",FR: DBM
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/67663
+#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="FR: Discovery Channel" tvg-logo="Logo N/A" group-title="France",FR: Discovery Channel
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1883
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR: Discovery Science" tvg-logo="Logo N/A" group-title="France",FR: Discovery Science
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1749
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR: Disney Channel" tvg-logo="Logo N/A" group-title="France",FR: Disney Channel
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38140
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="FR: Disney Junior" tvg-logo="Logo N/A" group-title="France",FR: Disney Junior
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38145
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Disney+" tvg-logo="Logo N/A" group-title="France",FR: Disney+
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38143
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: DJAZZ TV HD" tvg-logo="Logo N/A" group-title="France",FR: DJAZZ TV HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38147
+#EXTINF:-1 tvg-id="Eentertainment.fr" tvg-name="FR: E!" tvg-logo="Logo N/A" group-title="France",FR: E!
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38149
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: euronews" tvg-logo="Logo N/A" group-title="France",FR: euronews
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1741
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: France 2" tvg-logo="Logo N/A" group-title="France",FR: France 2
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38173
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR: France 24" tvg-logo="Logo N/A" group-title="France",FR: France 24
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1870
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: France 3" tvg-logo="Logo N/A" group-title="France",FR: France 3
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38175
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: France 4" tvg-logo="Logo N/A" group-title="France",FR: France 4
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38176
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: France 5" tvg-logo="Logo N/A" group-title="France",FR: France 5
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38177
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FR: France Info HD" tvg-logo="Logo N/A" group-title="France",FR: France Info HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38179
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Francophonie" tvg-logo="Logo N/A" group-title="France",FR: Francophonie
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38183
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR: Game One HD" tvg-logo="Logo N/A" group-title="France",FR: Game One HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38187
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: Gulli HD" tvg-logo="Logo N/A" group-title="France",FR: Gulli HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1805
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Historie" tvg-logo="Logo N/A" group-title="France",FR: Historie
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38199
+#EXTINF:-1 tvg-id="i24News.fr" tvg-name="FR: i24 News" tvg-logo="Logo N/A" group-title="France",FR: i24 News
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38201
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: IL TV" tvg-logo="Logo N/A" group-title="France",FR: IL TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38202
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Investigation Discovery HD" tvg-logo="Logo N/A" group-title="France",FR: Investigation Discovery HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38138
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="FR: J One" tvg-logo="Logo N/A" group-title="France",FR: J One
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/4046
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: KTO HD" tvg-logo="Logo N/A" group-title="France",FR: KTO HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38214
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: La Chaine Normande" tvg-logo="Logo N/A" group-title="France",FR: La Chaine Normande
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38220
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: La Trois HD" tvg-logo="Logo N/A" group-title="France",FR: La Trois HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38223
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: La Une HD" tvg-logo="Logo N/A" group-title="France",FR: La Une HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1822
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI" tvg-logo="Logo N/A" group-title="France",FR: LCI
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1823
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="FR: LCP" tvg-logo="Logo N/A" group-title="France",FR: LCP
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38226
+#EXTINF:-1 tvg-id="MYSPORTSD.ch" tvg-name="FR: LFM TV" tvg-logo="Logo N/A" group-title="France",FR: LFM TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38231
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6" tvg-logo="Logo N/A" group-title="France",FR: M6
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1824
+#EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-name="FR: M6 Music" tvg-logo="Logo N/A" group-title="France",FR: M6 Music
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/73194
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR: Mangas HD" tvg-logo="Logo N/A" group-title="France",FR: Mangas HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38238
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="FR: MCM HD" tvg-logo="Logo N/A" group-title="France",FR: MCM HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38241
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Melody HD" tvg-logo="Logo N/A" group-title="France",FR: Melody HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38245
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="FR: Mezzo HD" tvg-logo="Logo N/A" group-title="France",FR: Mezzo HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38246
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="FR: Mezzo Live HD" tvg-logo="Logo N/A" group-title="France",FR: Mezzo Live HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38247
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="FR: MTV HD" tvg-logo="Logo N/A" group-title="France",FR: MTV HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38256
+#EXTINF:-1 tvg-id="MTVHits.fr" tvg-name="FR: MTV Hits HD" tvg-logo="Logo N/A" group-title="France",FR: MTV Hits HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38257
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR: My Comedy HD" tvg-logo="Logo N/A" group-title="France",FR: My Comedy HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38260
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: My Cuisine HD" tvg-logo="Logo N/A" group-title="France",FR: My Cuisine HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38261
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="FR: Nat Geo Wild  HD" tvg-logo="Logo N/A" group-title="France",FR: Nat Geo Wild  HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1752
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: National Geographic HD" tvg-logo="Logo N/A" group-title="France",FR: National Geographic HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1751
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Nautical" tvg-logo="Logo N/A" group-title="France",FR: Nautical
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38266
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: nickelodeon HD" tvg-logo="Logo N/A" group-title="France",FR: nickelodeon HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38272
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="FR: nickelodeon Junior HD" tvg-logo="Logo N/A" group-title="France",FR: nickelodeon Junior HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38274
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: nickelodeon Teen HD" tvg-logo="Logo N/A" group-title="France",FR: nickelodeon Teen HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38275
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="FR: Novelas TV" tvg-logo="Logo N/A" group-title="France",FR: Novelas TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38279
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12" tvg-logo="Logo N/A" group-title="France",FR: NRJ 12
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38280
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="FR: NRJ Hits" tvg-logo="Logo N/A" group-title="France",FR: NRJ Hits
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1828
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR: Paris Premiere HD" tvg-logo="Logo N/A" group-title="France",FR: Paris Premiere HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38316
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="FR: Piwi+ HD" tvg-logo="Logo N/A" group-title="France",FR: Piwi+ HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38320
+#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" tvg-name="FR: Planete+ A&E HD" tvg-logo="Logo N/A" group-title="France",FR: Planete+ A&E HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1840
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="FR: Planete+ CI HD" tvg-logo="Logo N/A" group-title="France",FR: Planete+ CI HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38324
+#EXTINF:-1 tvg-id="PLANETE.fr" tvg-name="FR: Planete+ HD" tvg-logo="Logo N/A" group-title="France",FR: Planete+ HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38326
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Polar+ HD" tvg-logo="Logo N/A" group-title="France",FR: Polar+ HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38333
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="FR: RFM TV HD" tvg-logo="Logo N/A" group-title="France",FR: RFM TV HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38338
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC Decouverte HD" tvg-logo="Logo N/A" group-title="France",FR: RMC Decouverte HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38345
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RMC Story HD" tvg-logo="Logo N/A" group-title="France",FR: RMC Story HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38368
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RT France HD" tvg-logo="Logo N/A" group-title="France",FR: RT France HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38375
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR: RTL 9 HD" tvg-logo="Logo N/A" group-title="France",FR: RTL 9 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38377
+#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-name="FR: Science ET VIE HD" tvg-logo="Logo N/A" group-title="France",FR: Science ET VIE HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38385
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="FR: Seasons HD" tvg-logo="Logo N/A" group-title="France",FR: Seasons HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38386
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="FR: Teletoon+ HD" tvg-logo="Logo N/A" group-title="France",FR: Teletoon+ HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38404
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: Teva HD" tvg-logo="Logo N/A" group-title="France",FR: Teva HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38405
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: TFX HD" tvg-logo="Logo N/A" group-title="France",FR: TFX HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38413
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="FR: Tiji HD" tvg-logo="Logo N/A" group-title="France",FR: Tiji HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38414
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Tipik HD" tvg-logo="Logo N/A" group-title="France",FR: Tipik HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1821
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TMC" tvg-logo="Logo N/A" group-title="France",FR: TMC
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38419
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Toonami HD" tvg-logo="Logo N/A" group-title="France",FR: Toonami HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38420
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: Toute l Histoire HD" tvg-logo="Logo N/A" group-title="France",FR: Toute l Histoire HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38423
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Trace Africa HD" tvg-logo="Logo N/A" group-title="France",FR: Trace Africa HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38424
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Trace Caribbean HD" tvg-logo="Logo N/A" group-title="France",FR: Trace Caribbean HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38433
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Trace Gospel HD" tvg-logo="Logo N/A" group-title="France",FR: Trace Gospel HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38426
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="FR: Trace Latina" tvg-logo="Logo N/A" group-title="France",FR: Trace Latina
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38428
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Trace Mziki HD" tvg-logo="Logo N/A" group-title="France",FR: Trace Mziki HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38429
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="FR: Trace Urban HD" tvg-logo="Logo N/A" group-title="France",FR: Trace Urban HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38434
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="FR: Trek HD" tvg-logo="Logo N/A" group-title="France",FR: Trek HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38435
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: TV 7 Colmar HD" tvg-logo="Logo N/A" group-title="France",FR: TV 7 Colmar HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38438
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: TV 78" tvg-logo="Logo N/A" group-title="France",FR: TV 78
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/67673
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="FR: TV Breizh HD" tvg-logo="Logo N/A" group-title="France",FR: TV Breizh HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38442
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: TV3V" tvg-logo="Logo N/A" group-title="France",FR: TV3V
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38443
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="FR: TV5 Monde" tvg-logo="Logo N/A" group-title="France",FR: TV5 Monde
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38448
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR: Ushuaia" tvg-logo="Logo N/A" group-title="France",FR: Ushuaia
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38454
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Viceland HD" tvg-logo="Logo N/A" group-title="France",FR: Viceland HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38458
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9 HD" tvg-logo="Logo N/A" group-title="France",FR: W9 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38464
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="FR: WEO HD" tvg-logo="Logo N/A" group-title="France",FR: WEO HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38467
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: Action" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Action
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37951
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="FR: Canal+ Cinema" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Canal+ Cinema
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38049
+#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="FR: Canal+ Decale" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Canal+ Decale
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1775
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="FR: Canal+ Family HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Canal+ Family HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38077
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="FR: Canal+ HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Canal+ HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/90281
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: Canal+ Series HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Canal+ Series HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1777
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="FR: Cine+ Classic" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Cine+ Classic
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38097
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="FR: Cine+ Club" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Cine+ Club
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38102
+#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="FR: Cine+ Emotion" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Cine+ Emotion
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38103
+#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="FR: Cine+ Famiz" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Cine+ Famiz
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38098
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="FR: Cine+ Frisson" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Cine+ Frisson
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38099
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="FR: Cine+ Premier" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Cine+ Premier
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38100
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="FR: OCS Choc HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: OCS Choc HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38287
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="FR: OCS City HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: OCS City HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38288
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="FR: OCS Geants HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: OCS Geants HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1832
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="FR: OCS Max HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: OCS Max HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1833
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="FR: Paramount Channel Decale HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Paramount Channel Decale HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38313
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: Paramount Channel HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Paramount Channel HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38314
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="FR: Serie Club HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Serie Club HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1850
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR: Syfy" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Syfy
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38395
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TCM Cinema" tvg-logo="Logo N/A" group-title="FR: Movies",FR: TCM Cinema
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1879
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR: TF1 Series Films HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: TF1 Series Films HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38409
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Warner TV HD" tvg-logo="Logo N/A" group-title="FR: Movies",FR: Warner TV HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38466
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Auto Moto HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Auto Moto HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37963
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="FR: beIN Sports 1 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports 1 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37973
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="FR: beIN Sports 2 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports 2 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/800
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="FR: beIN Sports 3 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports 3 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37975
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="FR: beIN Sports Max 4 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports Max 4 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37991
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="FR: beIN Sports Max 5 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports Max 5 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37992
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="FR: beIN Sports Max 6 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports Max 6 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37993
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="FR: beIN Sports Max 7 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports Max 7 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37994
+#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="FR: beIN Sports Max 8 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports Max 8 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37995
+#EXTINF:-1 tvg-id="BeInSportMax9.fr" tvg-name="FR: beIN Sports Max 9 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports Max 9 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37996
+#EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="FR: beIN Sports Max 10 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: beIN Sports Max 10 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37989
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: Blue Sport Zoom" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Blue Sport Zoom
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/89383
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="FR: Canal+  Sport HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Canal+  Sport HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1778
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="FR: Chasse et Peche HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Chasse et Peche HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38095
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="FR: Equidia HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Equidia HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/3535
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR: Eurosport 1 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Eurosport 1 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38161
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="FR: Eurosport 2 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Eurosport 2 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1877
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="FR: Foot+ 24/24" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Foot+ 24/24
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38169
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="FR: Golf Channel HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Golf Channel HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38192
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="FR: Infosport+" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Infosport+
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/1819
+#EXTINF:-1 tvg-id="KombatSport.fr" tvg-name="FR: Kombat Sport HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: Kombat Sport HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38213
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="FR: LEquipe" tvg-logo="Logo N/A" group-title="FR: Sports",FR: LEquipe
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38156
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport 1 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38349
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport 2 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38341
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="FR: RMC Sport 3 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport 3 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38352
+#EXTINF:-1 tvg-id="RMCSport4K.fr" tvg-name="FR: RMC Sport 4 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport 4 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37851
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport Live 5 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38356
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport Live 6 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38357
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RMC Sport Live 7 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport Live 7 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38358
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport Live 8 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38359
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport Live 9 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38360
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: RMC Sport Live 10 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38361
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 1 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 1 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93353
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 2 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 2 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93354
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 3 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 3 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93355
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 4 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 4 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93356
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 5 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 5 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93357
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 6 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 6 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93358
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 7 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 7 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93359
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FR: AMAZON PRIME VIDEO 8 HD" tvg-logo="Logo N/A" group-title="FR: Sports",FR: AMAZON PRIME VIDEO 8 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/93360
