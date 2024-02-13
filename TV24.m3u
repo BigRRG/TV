@@ -317,8 +317,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/249868.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/249871.m3u8
 #EXTINF:-1 tvg-id="HannibalTV.tn" tvg-name="[TN] HANNIBAL" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/HANNIBAL.png" group-title="TUNISA",[TN] HANNIBAL
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/249878.m3u8
-#EXTINF:-1 tvg-name="[TN] MOSAIQUE FM" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MOSAIQUE-FM.png" group-title="TUNISA",[TN] MOSAIQUE FM
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/719568.m3u8
 #EXTINF:-1 tvg-name="[TN] NESSMA EJDIDA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/NESSMATV.png" group-title="TUNISA",[TN] NESSMA EJDIDA
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/689592.m3u8
 #EXTINF:-1 tvg-name="[TN] AL JANOUBIA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ALJANOUBIA-1.png" group-title="TUNISA",[TN] AL JANOUBIA
@@ -335,6 +333,8 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/668458.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/249867.m3u8
 #EXTINF:-1 tvg-name="[TN] TUNISNA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TUNISNA-1.png" group-title="TUNISA",[TN] TUNISNA
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/249872.m3u8
+#EXTINF:-1 tvg-name="[TN] MOSAIQUE FM" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MOSAIQUE-FM.png" group-title="TUNISA",[TN] MOSAIQUE FM
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/719568.m3u8
 #EXTINF:-1 tvg-name="[TN] TUNISIE IMMOBILIER TV UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/IMMOBILIER.png" group-title="TUNISA",[TN] TUNISIE IMMOBILIER TV UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/249866.m3u8
 #EXTINF:-1 tvg-name="[TN] AL MUSTAKILA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ALMUSTAKILA.png" group-title="TUNISA",[TN] AL MUSTAKILA
@@ -365,30 +365,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/651426.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/651427.m3u8
 #EXTINF:-1 tvg-name="Diwan FM" group-title="TUNISA",Diwan FM
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/651428.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="[AR] MBC 1" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC1-1.png" group-title="MBC",[AR] MBC 1
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250039.m3u8
-#EXTINF:-1 tvg-id="MBC2En.ae" tvg-name="[AR] MBC 2" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC2-1.png" group-title="MBC",[AR] MBC 2
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250040.m3u8
-#EXTINF:-1 tvg-id="MBC3En.ae" tvg-name="[AR] MBC 3" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC3-1.png" group-title="MBC",[AR] MBC 3
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250041.m3u8
-#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="[AR] MBC 4" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC4-1.png" group-title="MBC",[AR] MBC 4
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250042.m3u8
-#EXTINF:-1 tvg-id="MBC5En.ae" tvg-name="[AR] MBC 5 ?" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC5.png" group-title="MBC",[AR] MBC 5 
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250043.m3u8
-#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="[AR] MBC DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCDRAMA-1.png" group-title="MBC",[AR] MBC DRAMA
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250044.m3u8
-#EXTINF:-1 tvg-id="MBCIraqEn.iq" tvg-name="[AR] MBC IRAQ" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCIRAQ-1.png" group-title="MBC",[AR] MBC IRAQ
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250048.m3u8
-#EXTINF:-1 tvg-id="MBCActionEn.sa" tvg-name="[AR] MBC ACTION" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCACTION-1.png" group-title="MBC",[AR] MBC ACTION
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250046.m3u8
-#EXTINF:-1 tvg-id="MBCMaxEn.ae" tvg-name="[AR] MBC MAX" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCMAX-.png" group-title="MBC",[AR] MBC MAX
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250045.m3u8
-#EXTINF:-1 tvg-id="MBCBollywoodEn.sa" tvg-name="[AR] MBC BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCBOLLYWOOD-1.png" group-title="MBC",[AR] MBC BOLLYWOOD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250047.m3u8
-#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="[AR] MBC MASR " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCMASR-1.png" group-title="MBC",[AR] MBC MASR 
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250049.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="[AR] MBC MASR 2 " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCMASR2-1.png" group-title="MBC",[AR] MBC MASR 2 
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250050.m3u8
 #EXTINF:-1 tvg-id="MBC1En.ae" tvg-name="[AR] MBC 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC1-1.png" group-title="MBC",[AR] MBC 1 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457188.m3u8
 #EXTINF:-1 tvg-id="MBC2En.ae" tvg-name="[AR] MBC 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC2-1.png" group-title="MBC",[AR] MBC 2 UHD
@@ -415,8 +391,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457183.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457182.m3u8
 #EXTINF:-1 tvg-name="[AR] MBC FM UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/mbc-fm.png" group-title="MBC",[AR] MBC FM UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457173.m3u8
-#EXTINF:-1 tvg-name="[AR] MBC FM" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/mbc-fm.png" group-title="MBC",[AR] MBC FM
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250051.m3u8
 #EXTINF:-1 tvg-id="MBCIraqEn.iq" tvg-name="[AR] MBC IRAQ UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCIRAQ-1.png" group-title="MBC",[AR] MBC IRAQ UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457178.m3u8
 #EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="[AR] MBC MASER UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCMASR-1.png" group-title="MBC",[AR] MBC MASER UHD
