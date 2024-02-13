@@ -89,32 +89,22 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/559736.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/653614.m3u8
 #EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORTS FRENCH 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-2-FRE.png" group-title="BEIN SPORTS",BEIN SPORTS FRENCH 2 4K
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/653613.m3u8
-#EXTINF:-1 tvg-name="[AR] AL KASS 1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-KASS-1-HD.jpg" group-title="Arabic SPORT",[AR] AL KASS 1 HEVC
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584498.m3u8
-#EXTINF:-1 tvg-name="AR - ALKASS EXTRA 1 4K" group-title="Arabic SPORT",AR - ALKASS EXTRA 1 4K
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/1030438.m3u8
-#EXTINF:-1 tvg-name="AR - ALKASS EXTRA 1 HD" group-title="Arabic SPORT",AR - ALKASS EXTRA 1 HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/1030436.m3u8
 #EXTINF:-1 tvg-id="AlKass1Ar.qa" tvg-name="[AR] AL KASS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",[AR] AL KASS 1 HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584499.m3u8
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584498.m3u8
 #EXTINF:-1 tvg-id="AlKass2Ar.qa" tvg-name="[AR] AL KASS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",[AR] AL KASS 2 HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584497.m3u8
-#EXTINF:-1 tvg-name="[AR] AL KASS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",[AR] AL KASS 3 HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/631033.m3u8
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584496.m3u8
 #EXTINF:-1 tvg-name="[AR] AL KASS 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",[AR] AL KASS 3 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/631032.m3u8
 #EXTINF:-1 tvg-id="AlKass4Ar.qa" tvg-name="[AR] AL KASS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",[AR] AL KASS 4 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584495.m3u8
 #EXTINF:-1 tvg-id="AlKass5Ar.qa" tvg-name="[AR] AL KASS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",[AR] AL KASS 5 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584493.m3u8
-#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="AR - AL KASS 5 4K" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",AR - AL KASS 5 4K
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/854509.m3u8
 #EXTINF:-1 tvg-name="[AR] AL KASS 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",[AR] AL KASS 6 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/631034.m3u8
-#EXTINF:-1 tvg-name="[AR] AL KASS 2 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/alkass2.png" group-title="Arabic SPORT",[AR] AL KASS 2 HEVC
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584496.m3u8
-#EXTINF:-1 tvg-name="[AR] AL KASS 4 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-KASS-4-HD.jpg" group-title="Arabic SPORT",[AR] AL KASS 4 HEVC
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/584494.m3u8
+#EXTINF:-1 tvg-name="AR - ALKASS EXTRA 1 4K" group-title="Arabic SPORT",AR - ALKASS EXTRA 1 4K
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/1030438.m3u8
+#EXTINF:-1 tvg-name="AR - ALKASS EXTRA 1 HD" group-title="Arabic SPORT",AR - ALKASS EXTRA 1 HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/1030436.m3u8
 #EXTINF:-1 tvg-name="[AR] AL KASS 9 4K (LIVE EVENT ONLY)" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ALKASS.jpg" group-title="Arabic SPORT",[AR] AL KASS 9 4K (LIVE EVENT ONLY)
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/881895.m3u8
 #EXTINF:-1 tvg-name="[AR] AL KASS 9 HD (LIVE EVENT ONLY)" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ALKASS.jpg" group-title="Arabic SPORT",[AR] AL KASS 9 HD (LIVE EVENT ONLY)
