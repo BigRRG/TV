@@ -97,8 +97,28 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/767896.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/602731.m3u8
 #EXTINF:-1 tvg-name="MBC MASR 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/mbcmasr2.png" group-title="Arabic",MBC MASR 2
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/602729.m3u8
+#EXTINF:-1 tvg-name="ON E" tvg-logo="http://logo.protv.cc/picons-dino/logos/ON-E.jpg" group-title="Arabic",ON E
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620211.m3u8
+#EXTINF:-1 tvg-name="DUBAI TV" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DUBAI-TV.png" group-title="Arabic",DUBAI TV
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257313.m3u8
+#EXTINF:-1 tvg-name="SAMA DUBAI " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/SAMA-DUBAI.png" group-title="Arabic",SAMA DUBAI
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257314.m3u8
+#EXTINF:-1 tvg-id="Alaraby.eg" tvg-name="AL ARABY" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ALARABYHD.png" group-title="Arabic",AL ARABY
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250184.m3u8
+#EXTINF:-1 tvg-name="AL ARABY 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/alaraby2.png" group-title="Arabic",AL ARABY 2
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/683164.m3u8
+#EXTINF:-1 tvg-name="RAYYAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyan.png" group-title="Arabic",RAYYAN
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570335.m3u8
+#EXTINF:-1 tvg-name="SHAHID KHALIJEAH" tvg-logo="http://logo.protv.cc/picons/logos/SHAHID-LOGO.png" group-title="Arabic",SHAHID KHALIJEAH
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/815889.m3u8
 #EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="AL HAYAT" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/El_Hayat_TV.png" group-title="Arabic",AL HAYAT
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620286.m3u8
+#EXTINF:-1 tvg-name="DMC" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="Arabic",DMC
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620242.m3u8
+#EXTINF:-1 tvg-name="QATAR TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartvhd.png" group-title="Arabic",QATAR TV
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570339.m3u8
+#EXTINF:-1 tvg-name="QATAR TV 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatar2.png" group-title="Arabic",QATAR TV 2
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570338.m3u8
 #EXTINF:-1 tvg-name="MBC ELIFE" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCELIFE.png" group-title="Arabic",MBC ELIFE
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/657001.m3u8
 #EXTINF:-1 tvg-name="MBC 1 " tvg-logo="http://logo.protv.cc/picons-dino/logos/mbc1.png" group-title="Arabic",MBC 1 
@@ -120,23 +140,19 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457182.m3u8
 #EXTINF:-1 tvg-name="MBC VARIETY" tvg-logo="http://logo.protv.cc/picons-dino/logos/MBC-VARIETY-HD.jpg" group-title="Arabic",MBC VARIETY
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/602723.m3u8
 #EXTINF:-1 tvg-name="MBC MAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/mbcmax.png" group-title="Arabic",MBC MAX
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/602721.m3u8
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457181.m3u8
 #EXTINF:-1 tvg-name="ZOOMOO " tvg-logo="http://logo.protv.cc/picons-dino/logos/zoomoohd.png" group-title="Arabic",ZOOMOO 
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/602701.m3u8
 #EXTINF:-1 tvg-name="[AR] MBC FM UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/mbc-fm.png" group-title="Arabic",[AR] MBC FM UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457173.m3u8
 #EXTINF:-1 tvg-id="MBCIraqEn.iq" tvg-name="[AR] MBC IRAQ UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCIRAQ-1.png" group-title="Arabic",[AR] MBC IRAQ UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457178.m3u8
-#EXTINF:-1 tvg-id="MBCMaxEn.ae" tvg-name="[AR] MBC MAX UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCMAX-.png" group-title="Arabic",[AR] MBC MAX UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457181.m3u8
 #EXTINF:-1 tvg-name="[AR] MBC PANORAMA FM UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/Panorama-fm.png" group-title="Arabic",[AR] MBC PANORAMA FM UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457174.m3u8
 #EXTINF:-1 tvg-name="[AR] MBC VARIETY PLUS UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC-Variety-HD.png" group-title="Arabic",[AR] MBC VARIETY PLUS UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/556858.m3u8
 #EXTINF:-1 tvg-name="[AR] MBC PERSIA UHD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/MBC_Persia.png" group-title="Arabic",[AR] MBC PERSIA UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/457175.m3u8
-#EXTINF:-1 tvg-name="[AR] SHAHID KHALIJEAH HD" tvg-logo="http://logo.protv.cc/picons/logos/SHAHID-LOGO.png" group-title="Arabic",[AR] SHAHID KHALIJEAH HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/815889.m3u8
 #EXTINF:-1 tvg-id="HekayatEn.sa" tvg-name="[AR] ART HEKAYAT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ARTHEKAYAT.png" group-title="Arabic",[AR] ART HEKAYAT 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/559857.m3u8
 #EXTINF:-1 tvg-id="Hekayat2En.sa" tvg-name="[AR] ART HEKAYAT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ARTHEKAYAT.png" group-title="Arabic",[AR] ART HEKAYAT 2 HD
@@ -159,8 +175,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/593683.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/593682.m3u8
 #EXTINF:-1 tvg-name="[AR] SHAHID TAREEKHI FHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/SHAHID1.png" group-title="Arabic",[AR] SHAHID TAREEKHI FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/784130.m3u8
-#EXTINF:-1 tvg-name="[AR] SHAHID HASSINO HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/SHAHID1.png" group-title="Arabic",[AR] SHAHID HASSINO HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/784129.m3u8
 #EXTINF:-1 tvg-name="[AR] SHAHID HASSINO FHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/SHAHID1.png" group-title="Arabic",[AR] SHAHID HASSINO FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/784128.m3u8
 #EXTINF:-1 tvg-name="[AR] SHAHID AL MASRAH HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/SHAHID1.png" group-title="Arabic",[AR] SHAHID AL MASRAH HD
@@ -261,14 +275,8 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257483.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257484.m3u8
 #EXTINF:-1 tvg-name="##### QATAR  VIP #####" tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Qatar-icon.png" group-title="Autre",##### QATAR  VIP #####
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570340.m3u8
-#EXTINF:-1 tvg-name="[AR] RAYYAN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyan.png" group-title="Autre",[AR] RAYYAN UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570335.m3u8
 #EXTINF:-1 tvg-name="[AR] AL RAYYAN AL QADEEM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyanalqadeem.png" group-title="Autre",[AR] AL RAYYAN AL QADEEM UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570334.m3u8
-#EXTINF:-1 tvg-name="[AR] QATAR TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartvhd.png" group-title="Autre",[AR] QATAR TV UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570339.m3u8
-#EXTINF:-1 tvg-name="[AR] QATAR 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatar2.png" group-title="Autre",[AR] QATAR 2 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570338.m3u8
 #EXTINF:-1 tvg-name="[AR] QATAR TODAY 1 SOON" tvg-logo="http://logo.protv.cc/picons-dino/logos/QATAR-TODAY.jpeg" group-title="Autre",[AR] QATAR TODAY 1 SOON
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/570337.m3u8
 #EXTINF:-1 tvg-name="[AR] BIN OTHAIMEEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/BIN-OTHAIMEEN.png" group-title="Autre",[AR] BIN OTHAIMEEN
@@ -713,8 +721,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620251.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620250.m3u8
 #EXTINF:-1 tvg-name="[EG] DMC DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="EGYPT",[EG] DMC DRAMA
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620243.m3u8
-#EXTINF:-1 tvg-name="[EG] DMC FHD ?" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="EGYPT",[EG] DMC FHD ?
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620242.m3u8
 #EXTINF:-1 tvg-name="[EG] DRAMA AL BADAWYA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DRAMA-ALBADAWYA.png" group-title="EGYPT",[EG] DRAMA AL BADAWYA
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620240.m3u8
 #EXTINF:-1 tvg-name="[EG] DMC" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="EGYPT",[EG] DMC
@@ -763,8 +769,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620215.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620213.m3u8
 #EXTINF:-1 tvg-name="[EG] ON DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ON-DRAMA.png" group-title="EGYPT",[EG] ON DRAMA
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620212.m3u8
-#EXTINF:-1 tvg-name="[EG] ON E UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ON-E.jpg" group-title="EGYPT",[EG] ON E UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620211.m3u8
 #EXTINF:-1 tvg-name="[EG] ONE E" tvg-logo="http://logo.protv.cc/picons-dino/logos/ON-E.jpg" group-title="EGYPT",[EG] ONE E
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620210.m3u8
 #EXTINF:-1 tvg-name="[EG] OSCAR TV" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/OSCAR.png" group-title="EGYPT",[EG] OSCAR TV
@@ -799,16 +803,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/620190.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/643771.m3u8
 #EXTINF:-1 tvg-name="[EG] AL MDEEH TV" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL_MDEEH_TV.png" group-title="EGYPT",[EG] AL MDEEH TV
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/646897.m3u8
-#EXTINF:-1 tvg-name="[AR] QATAR TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartv.png" group-title="QATAR",[AR] QATAR TV
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/665321.m3u8
-#EXTINF:-1 tvg-name="[AR] QATAR 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartv2.png" group-title="QATAR",[AR] QATAR 2 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/665322.m3u8
-#EXTINF:-1 tvg-name="[AR] RAYYAN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyan.png" group-title="QATAR",[AR] RAYYAN UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/665325.m3u8
-#EXTINF:-1 tvg-name="[AR] AL RAYYAN Al QADEEM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyanalqadeem.png" group-title="QATAR",[AR] AL RAYYAN Al QADEEM UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/665326.m3u8
-#EXTINF:-1 tvg-name="[AR] AL ARABY 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/alaraby2.png" group-title="QATAR",[AR] AL ARABY 2
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/683164.m3u8
 #EXTINF:-1 tvg-name="[AR] HBO ACTION" tvg-logo="http://logo.protv.cc/picons-dino/logos/HBO-MAX.png" group-title="HBO",[AR] HBO ACTION
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/909099.m3u8
 #EXTINF:-1 tvg-name="[AR] HBO ANIMATION" tvg-logo="http://logo.protv.cc/picons-dino/logos/HBO-MAX.png" group-title="HBO",[AR] HBO ANIMATION
@@ -835,8 +829,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257318.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/767895.m3u8
 #EXTINF:-1 tvg-name="[AE] DUBAI ONE ?" tvg-logo="http://logo.protv.cc/picons-dino/logos/DUBAI-ONE-NP.png" group-title="UAE",[AE] DUBAI ONE ?
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257316.m3u8
-#EXTINF:-1 tvg-name="[AE] DUBAI TV HD ?" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DUBAI-TV.png" group-title="UAE",[AE] DUBAI TV HD ?
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257313.m3u8
 #EXTINF:-1 tvg-name="[AE] DUBAI ZAMAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/DUBAI-ZAMAN-NP.png" group-title="UAE",[AE] DUBAI ZAMAN
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257315.m3u8
 #EXTINF:-1 tvg-name="[AE] SHARJAH HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sharjah---tv.png" group-title="UAE",[AE] SHARJAH HD
@@ -867,8 +859,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/663467.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/767894.m3u8
 #EXTINF:-1 tvg-name="[AE] ABU DHABI SPORT 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/ABU-DHABISPORT-1-HD.png" group-title="UAE",[AE] ABU DHABI SPORT 1
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257488.m3u8
-#EXTINF:-1 tvg-name="[AE] SAMA DUBAI HD ?" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/SAMA-DUBAI.png" group-title="UAE",[AE] SAMA DUBAI HD ?
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257314.m3u8
 #EXTINF:-1 tvg-name="##### [AR] ISLAMIC #####" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ISLAMIC.png" group-title="ISLAMIC",##### [AR] ISLAMIC #####
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250106.m3u8
 #EXTINF:-1 tvg-name="خالد الجليل" tvg-logo="http://logo.protv.cc/picons/logos/logos/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84.png" group-title="ISLAMIC",خالد الجليل
@@ -1077,266 +1067,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/724242.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/724241.m3u8
 #EXTINF:-1 tvg-name="[OSN] W UHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/OSN.png" group-title="OSN",[OSN] W UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/724240.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 1 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 1 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594505.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 2 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 2 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594504.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 3 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 3 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594503.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 4 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 4 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594502.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 5 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 5 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594501.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 6 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 6 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594500.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 7 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 7 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594499.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 8 MOVIES UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 8 MOVIES UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594498.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 1 KIDS UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 1 KIDS UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594497.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 2 KIDS UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 2 KIDS UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594496.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN OD 3 KIDS UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BEIN-CONNECT.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN OD 3 KIDS UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594495.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BARAM UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BARAEM.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BARAM UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594494.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BARAM HEVC" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BARAEM.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BARAM HEVC
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594493.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BARAM HD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BARAEM.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BARAM HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594492.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BARAM SD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/BARAEM.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BARAM SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594491.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BOX OFFICE 1 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/97.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BOX OFFICE 1 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594489.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BOX OFFICE 1 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/97.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BOX OFFICE 1 HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594488.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BOX OFFICE 2 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/99.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BOX OFFICE 2 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594486.m3u8
-#EXTINF:-1 tvg-name="[AR] BEIN BOX OFFICE 2 HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/99.png" group-title="BEIN PREMIUM PLAY",[AR] BEIN BOX OFFICE 2 HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/594485.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 1 4K" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 1 4K
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587715.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 1 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 1 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587713.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 2 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 2 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587712.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 3 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 3 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587711.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 4 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 4 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587710.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 5 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 5 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587709.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 6 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 6 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587708.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 7 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 7 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587707.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 8 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 8 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587706.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 9 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 9 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587705.m3u8
-#EXTINF:-1 tvg-name="[NF] NETFLIX MOVIES 10 UHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/90.png" group-title="NETFLIX",[NF] NETFLIX MOVIES 10 UHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/587704.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 1 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 1 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458291.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 2 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 2 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458292.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 3 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 3 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458293.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 4 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 4 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458294.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 5 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 5 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458295.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 6 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 6 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458296.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 7 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 7 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458297.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 8 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 8 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458298.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 9 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 9 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458299.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 10 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 10 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458300.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 11 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 11 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458301.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 12 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 12 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458302.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 13 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 13 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458303.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 14 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 14 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458304.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 15 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 15 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458305.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 16 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 16 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458306.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 17 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 17 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458307.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 18 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 18 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458308.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 19 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 19 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458309.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 20 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 20 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458310.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 21 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 21 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458311.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 22 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 22 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458312.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 23 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 23 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458313.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 24 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 24 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458314.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 25 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 25 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458315.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 26 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 26 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458316.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 27 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 27 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458317.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 28 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 28 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458318.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 29 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 29 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458319.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 30 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 30 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458320.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 31 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 31 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458321.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 32 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 32 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458322.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 33 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 33 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458323.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 34 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 34 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458324.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 35 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 35 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458325.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 36 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 36 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458326.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 37 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 37 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458327.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 38 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 38 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458328.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 39 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 39 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458329.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 40 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 40 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458330.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 41 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 41 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458331.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 42 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 42 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458332.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 43 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 43 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458333.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 44 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 44 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458334.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 45 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 45 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458335.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 46 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 46 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458336.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 47 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 47 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458337.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 48 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 48 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458338.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 49 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 49 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458339.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 50 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 50 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458340.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 51 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 51 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458341.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 52 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 52 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458342.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 53 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 53 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458343.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 54 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 54 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458344.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 55 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 55 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458345.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 56 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 56 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458346.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 57 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 57 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458347.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 58 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 58 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458348.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 59 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 59 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458349.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 60 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 60 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458350.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 61 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 61 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458351.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 62 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 62 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458352.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 63 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 63 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458353.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 64 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 64 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458354.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 65 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 65 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458355.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 66 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 66 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458356.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 67 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 67 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458357.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 68 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 68 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458358.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 69 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 69 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458359.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 70 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 70 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458360.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 71 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 71 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458361.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 72 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 72 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458362.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 73 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 73 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458363.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 74 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 74 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458364.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 75 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 75 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458365.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 76 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 76 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458366.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 77 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 77 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458367.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 78 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 78 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458368.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 79 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 79 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458369.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 80 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 80 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458370.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 81 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 81 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458371.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 82 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 82 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458372.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 83 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 83 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458373.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 84 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 84 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458374.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 85 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 85 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458375.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 86 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 86 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458376.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 87 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 87 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458377.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 88 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 88 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458378.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 89 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 89 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458379.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 90 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 90 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458380.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 91 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 91 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458381.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 92 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 92 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458382.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 93 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 93 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458383.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 94 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 94 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458384.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 95 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 95 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458385.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 96 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 96 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458386.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 97 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 97 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458387.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 98 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 98 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458388.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 99 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 99 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458389.m3u8
-#EXTINF:-1 tvg-name="[AR] BOX OFFICE 100 FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/73.png" group-title="PREMIUM PLAY",[AR] BOX OFFICE 100 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/458390.m3u8
 #EXTINF:-1 tvg-name="[AR] ROTANA COMEDY HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/Rotana%20comedy.png" group-title="ROTANA | ART",[AR] ROTANA COMEDY HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/257302.m3u8
 #EXTINF:-1 tvg-id="RotanaDramaEn.eg" tvg-name="[AR] ROTANA DRAMA HD ?" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ROTANADRAMA.png" group-title="ROTANA | ART",[AR] ROTANA DRAMA HD ?
@@ -1801,12 +1531,6 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820864.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820863.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] RMC STORY FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCSTORYFHD.png" group-title="France TV",[FR] RMC STORY FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820862.m3u8
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="[FR] CNEWS FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CNEWSTV.png" group-title="France TV",[FR] CNEWS FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820861.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="[FR] BFM TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BFM-TV-FHD.png" group-title="France TV",[FR] BFM TV FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820860.m3u8
-#EXTINF:-1 tvg-name="[FR] STAR ACADEMY 2022" tvg-logo="http://logo.protv.cc/picons-dino/logos/STARACADEMY-FR-TV.png" group-title="France TV",[FR] STAR ACADEMY 2022
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820879.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="[FR] CANAL+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-FHD.png" group-title="France TV",[FR] CANAL+ FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820858.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_cinema.png" group-title="France TV",[FR] CANAL+ CINEMA FHD
@@ -2033,535 +1757,541 @@ http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820742.m3u8
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/820741.m3u8
 #EXTINF:-1 tvg-name="[FR] STAR ACADEMY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/star-academy.png" group-title="France TV",[FR] STAR ACADEMY HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/988159.m3u8
-#EXTINF:-1 tvg-name="[FR] STAR ACADEMY SD" tvg-logo="http://logo.protv.cc/picons/logos/france/star-academy.png" group-title="France TV",[FR] STAR ACADEMY SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/988158.m3u8
-#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="[FR] WARNER TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/WARNER.png" group-title="FR CINEMA",[FR] WARNER TV HD
+#EXTINF:-1 tvg-name="##### FR CINEMA #####" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ISLAMIC.png" group-title="France TV",##### FR CINEMA #####
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250106.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="[FR] WARNER TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/WARNER.png" group-title="France TV",[FR] WARNER TV HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831968.m3u8
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR] SYFY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SYFYHD.png" group-title="FR CINEMA",[FR] SYFY HD
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR] SYFY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SYFYHD.png" group-title="France TV",[FR] SYFY HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831959.m3u8
-#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="[FR] E! HD" tvg-logo="http://logo.protv.cc/picons/logos/france/e-entertainment-television.png" group-title="FR CINEMA",[FR] E! HD
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="[FR] E! HD" tvg-logo="http://logo.protv.cc/picons/logos/france/e-entertainment-television.png" group-title="France TV",[FR] E! HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831952.m3u8
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_cinema.png" group-title="FR CINEMA",[FR] CANAL+ CINEMA HD
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_cinema.png" group-title="France TV",[FR] CANAL+ CINEMA HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831975.m3u8
-#EXTINF:-1 tvg-name="[FR] CANAL+ BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL+-BOX-OFFICE-FHD.png" group-title="FR CINEMA",[FR] CANAL+ BOX OFFICE HD
+#EXTINF:-1 tvg-name="[FR] CANAL+ BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL+-BOX-OFFICE-FHD.png" group-title="France TV",[FR] CANAL+ BOX OFFICE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832223.m3u8
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Kids.png" group-title="FR CINEMA",[FR] CANAL+ KIDS HD
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Kids.png" group-title="France TV",[FR] CANAL+ KIDS HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831974.m3u8
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL+ SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/france/canal_series.png" group-title="FR CINEMA",[FR] CANAL+ SERIES HD
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL+ SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/france/canal_series.png" group-title="France TV",[FR] CANAL+ SERIES HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831973.m3u8
-#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="[FR] CINE+ PREMIER HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEPREMIER.png" group-title="FR CINEMA",[FR] CINE+ PREMIER HD
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="[FR] CINE+ PREMIER HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEPREMIER.png" group-title="France TV",[FR] CINE+ PREMIER HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831876.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="[FR] CINE+ FRISSON HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFRISSON.png" group-title="FR CINEMA",[FR] CINE+ FRISSON HD
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="[FR] CINE+ FRISSON HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFRISSON.png" group-title="France TV",[FR] CINE+ FRISSON HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831874.m3u8
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="[FR] CINE+ EMOTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEEMOTION.png" group-title="FR CINEMA",[FR] CINE+ EMOTION HD
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="[FR] CINE+ EMOTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEEMOTION.png" group-title="France TV",[FR] CINE+ EMOTION HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831872.m3u8
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="[FR] CINE+ FAMIZ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFAMIZ.png" group-title="FR CINEMA",[FR] CINE+ FAMIZ HD
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="[FR] CINE+ FAMIZ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFAMIZ.png" group-title="France TV",[FR] CINE+ FAMIZ HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831870.m3u8
-#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="[FR] CINE+ CLUB HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLUB.png" group-title="FR CINEMA",[FR] CINE+ CLUB HD
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="[FR] CINE+ CLUB HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLUB.png" group-title="France TV",[FR] CINE+ CLUB HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831868.m3u8
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="[FR] CINE+ CLASSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLASSIC.png" group-title="FR CINEMA",[FR] CINE+ CLASSIC HD
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="[FR] CINE+ CLASSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLASSIC.png" group-title="France TV",[FR] CINE+ CLASSIC HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831866.m3u8
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="[FR] OCS MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_Max.svg.png" group-title="FR CINEMA",[FR] OCS MAX HD
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="[FR] OCS MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_Max.svg.png" group-title="France TV",[FR] OCS MAX HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831864.m3u8
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="[FR] OCS CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_City.svg.png" group-title="FR CINEMA",[FR] OCS CITY HD
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="[FR] OCS CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_City.svg.png" group-title="France TV",[FR] OCS CITY HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831862.m3u8
-#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="[FR] OCS CHOC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS-CHOC-logo-1.png" group-title="FR CINEMA",[FR] OCS CHOC HD
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="[FR] OCS CHOC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS-CHOC-logo-1.png" group-title="France TV",[FR] OCS CHOC HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831860.m3u8
-#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="[FR] OCS GEANTS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_geants.png" group-title="FR CINEMA",[FR] OCS GEANTS HD
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="[FR] OCS GEANTS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_geants.png" group-title="France TV",[FR] OCS GEANTS HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831858.m3u8
-#EXTINF:-1 tvg-id="TCM.fr" tvg-name="[FR] TCM CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TCMCINEMATV.png" group-title="FR CINEMA",[FR] TCM CINEMA HD
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="[FR] TCM CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TCMCINEMATV.png" group-title="France TV",[FR] TCM CINEMA HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831856.m3u8
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] PARAMOUNT CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PARAMOUNTCHANNEL.png" group-title="FR CINEMA",[FR] PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] PARAMOUNT CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PARAMOUNTCHANNEL.png" group-title="France TV",[FR] PARAMOUNT CHANNEL HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831854.m3u8
-#EXTINF:-1 tvg-name="[FR] PARAMOUNT DECALE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PARAMOUNT-DECALE.png" group-title="FR CINEMA",[FR] PARAMOUNT DECALE HD
+#EXTINF:-1 tvg-name="[FR] PARAMOUNT DECALE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PARAMOUNT-DECALE.png" group-title="France TV",[FR] PARAMOUNT DECALE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831852.m3u8
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ACTIONHD-1.png" group-title="FR CINEMA",[FR] ACTION HD
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ACTIONHD-1.png" group-title="France TV",[FR] ACTION HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831850.m3u8
-#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="[FR] ALTICE STUDIO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ALTICESTUDIO.png" group-title="FR CINEMA",[FR] ALTICE STUDIO HD
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="[FR] ALTICE STUDIO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ALTICESTUDIO.png" group-title="France TV",[FR] ALTICE STUDIO HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831848.m3u8
-#EXTINF:-1 tvg-id="Polar.fr" tvg-name="[FR] POLAR+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/POLAR.png" group-title="FR CINEMA",[FR] POLAR+ HD
+#EXTINF:-1 tvg-id="Polar.fr" tvg-name="[FR] POLAR+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/POLAR.png" group-title="France TV",[FR] POLAR+ HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831846.m3u8
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="[FR] RMC DECOUVERTE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCDECOUVERTEHD.png" group-title="FR DOCUMENTAIRE",[FR] RMC DECOUVERTE HD
+#EXTINF:-1 tvg-name="##### FR DOCUMENTAIRE #####" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ISLAMIC.png" group-title="France TV",##### FR DOCUMENTAIRE #####
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250106.m3u8
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="[FR] RMC DECOUVERTE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCDECOUVERTEHD.png" group-title="France TV",[FR] RMC DECOUVERTE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831980.m3u8
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] RMC STORY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCSTORYFHD.png" group-title="FR DOCUMENTAIRE",[FR] RMC STORY HD
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] RMC STORY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCSTORYFHD.png" group-title="France TV",[FR] RMC STORY HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831979.m3u8
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="[FR] CANAL+ DOCS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Docs.png" group-title="FR DOCUMENTAIRE",[FR] CANAL+ DOCS HD
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="[FR] CANAL+ DOCS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Docs.png" group-title="France TV",[FR] CANAL+ DOCS HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831972.m3u8
-#EXTINF:-1 tvg-name="[FR] MY CUISINE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MYCUISINE-1.png" group-title="FR DOCUMENTAIRE",[FR] MY CUISINE HD
+#EXTINF:-1 tvg-name="[FR] MY CUISINE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MYCUISINE-1.png" group-title="France TV",[FR] MY CUISINE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831957.m3u8
-#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="[FR] PLANETE+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANETE-1.png" group-title="FR DOCUMENTAIRE",[FR] PLANETE+ HD
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="[FR] PLANETE+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANETE-1.png" group-title="France TV",[FR] PLANETE+ HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831951.m3u8
-#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="[FR] PLANETE+ CRIME HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANeTE+_ci.png" group-title="FR DOCUMENTAIRE",[FR] PLANETE+ CRIME HD
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="[FR] PLANETE+ CRIME HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANeTE+_ci.png" group-title="France TV",[FR] PLANETE+ CRIME HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831950.m3u8
-#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="[FR] PLANETE+ AVENTURE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANeTE+_AE.png" group-title="FR DOCUMENTAIRE",[FR] PLANETE+ AVENTURE HD
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="[FR] PLANETE+ AVENTURE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANeTE+_AE.png" group-title="France TV",[FR] PLANETE+ AVENTURE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831949.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="[FR] DISCOVERY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/DISCOVERYCHANNELHD.png" group-title="FR DOCUMENTAIRE",[FR] DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="[FR] DISCOVERY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/DISCOVERYCHANNELHD.png" group-title="France TV",[FR] DISCOVERY CHANNEL HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831948.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="[FR] DISCOVERY SCIENCE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Discovery_Science_-_Logo_2017.svg.png" group-title="FR DOCUMENTAIRE",[FR] DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="[FR] DISCOVERY SCIENCE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Discovery_Science_-_Logo_2017.svg.png" group-title="France TV",[FR] DISCOVERY SCIENCE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831947.m3u8
-#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="[FR] DISCOVERY ID HD" tvg-logo="http://logo.protv.cc/picons/logos/france/InvestigationDiscovery.png" group-title="FR DOCUMENTAIRE",[FR] DISCOVERY ID HD
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="[FR] DISCOVERY ID HD" tvg-logo="http://logo.protv.cc/picons/logos/france/InvestigationDiscovery.png" group-title="France TV",[FR] DISCOVERY ID HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831946.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="[FR] NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATGEOWILDHD.png" group-title="FR DOCUMENTAIRE",[FR] NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="[FR] NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATGEOWILDHD.png" group-title="France TV",[FR] NAT GEO WILD HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831945.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="[FR] NATIONAL GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="FR DOCUMENTAIRE",[FR] NATIONAL GEO HD
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="[FR] NATIONAL GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="France TV",[FR] NATIONAL GEO HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831944.m3u8
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="[FR] USHUAIA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/USHUAIATV.png" group-title="FR DOCUMENTAIRE",[FR] USHUAIA TV HD
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="[FR] USHUAIA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/USHUAIATV.png" group-title="France TV",[FR] USHUAIA TV HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831943.m3u8
-#EXTINF:-1 tvg-id="Trek.fr" tvg-name="[FR] TREK HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TREKFHD.png" group-title="FR DOCUMENTAIRE",[FR] TREK HD
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="[FR] TREK HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TREKFHD.png" group-title="France TV",[FR] TREK HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831942.m3u8
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="[FR] CHASSE & PECHE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CHASSEANDPECHE.png" group-title="FR DOCUMENTAIRE",[FR] CHASSE & PECHE HD
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="[FR] CHASSE & PECHE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CHASSEANDPECHE.png" group-title="France TV",[FR] CHASSE & PECHE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831941.m3u8
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="[FR] SEASONS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SEASONS.png" group-title="FR DOCUMENTAIRE",[FR] SEASONS HD
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="[FR] SEASONS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SEASONS.png" group-title="France TV",[FR] SEASONS HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831940.m3u8
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="[FR] ANIMAUX HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ANIMAUX.png" group-title="FR DOCUMENTAIRE",[FR] ANIMAUX HD
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="[FR] ANIMAUX HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ANIMAUX.png" group-title="France TV",[FR] ANIMAUX HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831939.m3u8
-#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="[FR] SCIENCE & VIE TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SCIENCE-ET-VIE-TV-FR.png" group-title="FR DOCUMENTAIRE",[FR] SCIENCE & VIE TV HD
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="[FR] SCIENCE & VIE TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SCIENCE-ET-VIE-TV-FR.png" group-title="France TV",[FR] SCIENCE & VIE TV HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831938.m3u8
-#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="[FR] TOUTE L'HISTOIRE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TOUTELHISTOIRE.png" group-title="FR DOCUMENTAIRE",[FR] TOUTE L'HISTOIRE HD
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="[FR] TOUTE L'HISTOIRE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TOUTELHISTOIRE.png" group-title="France TV",[FR] TOUTE L'HISTOIRE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831937.m3u8
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="[FR] HISTOIRE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/HISTOIREHD.png" group-title="FR DOCUMENTAIRE",[FR] HISTOIRE HD
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="[FR] HISTOIRE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/HISTOIREHD.png" group-title="France TV",[FR] HISTOIRE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831936.m3u8
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-KIDS-FR-TV.png" group-title="FR KIDS ",[FR] CANAL+ KIDS FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832196.m3u8
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-KIDS-FR-TV.png" group-title="FR KIDS ",[FR] CANAL+ KIDS HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832195.m3u8
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-KIDS-FR-TV.png" group-title="FR KIDS ",[FR] CANAL+ KIDS SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832194.m3u8
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI+ FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PIWI+-FR-TV.png" group-title="FR KIDS ",[FR] PIWI+ FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832193.m3u8
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FCR] PIWI+ HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PIWI+-FR-TV.png" group-title="FR KIDS ",[FCR] PIWI+ HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832192.m3u8
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI+ SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PIWI+-FR-TV.png" group-title="FR KIDS ",[FR] PIWI+ SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832191.m3u8
-#EXTINF:-1 tvg-name="[FR] DUCK TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DUCK-TV-FR.jpeg" group-title="FR KIDS ",[FR] DUCK TV FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832190.m3u8
-#EXTINF:-1 tvg-name="[FR] DUCK TV SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DUCK-TV-FR.jpeg" group-title="FR KIDS ",[FR] DUCK TV SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832188.m3u8
-#EXTINF:-1 tvg-name="[FR] GAME TOON FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="FR KIDS ",[FR] GAME TOON FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832187.m3u8
-#EXTINF:-1 tvg-name="[FR] GAME TOON SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="FR KIDS ",[FR] GAME TOON SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832185.m3u8
-#EXTINF:-1 tvg-name="[FR] GAME ONE+1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE+1-FR-TV.png" group-title="FR KIDS ",[FR] GAME ONE+1 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832184.m3u8
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="FR KIDS ",[FR] GAME ONE FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832183.m3u8
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="FR KIDS ",[FR] GAME ONE HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832182.m3u8
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="FR KIDS ",[FR] GAME ONE SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832181.m3u8
-#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BABY TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.babytv.png" group-title="FR KIDS ",[FR] BABY TV HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832180.m3u8
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOING-FR-TV.png" group-title="FR KIDS ",[FR] BOING FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832179.m3u8
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOING-FR-TV.png" group-title="FR KIDS ",[FR] BOING HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832178.m3u8
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOING-FR-TV.png" group-title="FR KIDS ",[FR] BOING SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832177.m3u8
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="FR KIDS ",[FR] BOOMERANG FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832176.m3u8
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="FR KIDS ",[FR] BOOMERANG HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832175.m3u8
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="FR KIDS ",[FR] BOOMERANG SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832174.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-J-FR-TV.png" group-title="FR KIDS ",[FR] CANAL J FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832173.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-J-FR-TV.png" group-title="FR KIDS ",[FR] CANAL J HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832172.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-J-FR-TV.png" group-title="FR KIDS ",[FR] CANAL J SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832171.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="FR KIDS ",[FR] CARTOON NETWORK FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832170.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="FR KIDS ",[FR] CARTOON NETWORK HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832169.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="FR KIDS ",[FR] CARTOON NETWORK SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832168.m3u8
-#EXTINF:-1 tvg-name="[FR] DISNEY CHANNEL +1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-+1.png" group-title="FR KIDS ",[FR] DISNEY CHANNEL +1 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832167.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="FR KIDS ",[FR] DISNEY CHANNEL FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832166.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="FR KIDS ",[FR] DISNEY CHANNEL HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832165.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="FR KIDS ",[FR] DISNEY CHANNEL SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832164.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="FR KIDS ",[FR] DISNEY JUNIOR FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832163.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="FR KIDS ",[FR] DISNEY JUNIOR HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832162.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="FR KIDS ",[FR] DISNEY JUNIOR SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832161.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GULLI-FR-TV.jpeg" group-title="FR KIDS ",[FR] GULLI FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832160.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GULLI-FR-TV.jpeg" group-title="FR KIDS ",[FR] GULLI HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832159.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GULLI-FR-TV.jpeg" group-title="FR KIDS ",[FR] GULLI SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832158.m3u8
-#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/J-ONE-FR-TV.png" group-title="FR KIDS ",[FR] J-ONE FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832157.m3u8
-#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/J-ONE-FR-TV.png" group-title="FR KIDS ",[FR] J-ONE HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832156.m3u8
-#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/J-ONE-FR-TV.png" group-title="FR KIDS ",[FR] J-ONE SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832155.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MANGAS-FR-TV.png" group-title="FR KIDS ",[FR] MANGAS FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832154.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MANGAS-FR-TV.png" group-title="FR KIDS ",[FR] MANGAS HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832153.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MANGAS-FR-TV.png" group-title="FR KIDS ",[FR] MANGAS SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832152.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="FR KIDS ",[FR] NICKELODEON FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832151.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="FR KIDS ",[FR] NICKELODEON HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832150.m3u8
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="FR KIDS ",[FR] NICKELODEON JUNIOR FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832149.m3u8
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="FR KIDS ",[FR] NICKELODEON JUNIOR HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832148.m3u8
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="FR KIDS ",[FR] NICKELODEON JUNIOR SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832147.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="FR KIDS ",[FR] NICKELODEON SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832146.m3u8
-#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="FR KIDS ",[FR] PITCHOUN TV FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832145.m3u8
-#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="FR KIDS ",[FR] PITCHOUN TV HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832144.m3u8
-#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="FR KIDS ",[FR] PITCHOUN TV SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832143.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIJI-FR-TV.png" group-title="FR KIDS ",[FR] TIJI FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832142.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIJI-FR-TV.png" group-title="FR KIDS ",[FR] TIJI HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832141.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIJI-FR-TV.png" group-title="FR KIDS ",[FR] TIJI SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832140.m3u8
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TOONAMI-FR-TV.png" group-title="FR KIDS ",[FR] TOONAMI FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832139.m3u8
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TOONAMI-FR-TV.png" group-title="FR KIDS ",[FR] TOONAMI HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832138.m3u8
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TOONAMI-FR-TV.png" group-title="FR KIDS ",[FR] TOONAMI SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832137.m3u8
-#EXTINF:-1 tvg-name="[FR] Pyjamasques" tvg-logo="http://logo.protv.cc/picons-dino/logos/Pyjamasques-FR-TV.png" group-title="FR KIDS ",[FR] Pyjamasques
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832136.m3u8
-#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BabyTV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.babytv.png" group-title="FR KIDS ",[FR] BabyTV FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832135.m3u8
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-name="[FR] SPORT EN FRANCE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Sport_en_France_Logo.png" group-title="FR SPORTS ",[FR] SPORT EN FRANCE HD
+#EXTINF:-1 tvg-name="##### FR SPORTS  #####" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ISLAMIC.png" group-title="France TV",##### FR SPORTS  #####
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250106.m3u8
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-name="[FR] SPORT EN FRANCE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Sport_en_France_Logo.png" group-title="France TV",[FR] SPORT EN FRANCE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832133.m3u8
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="FR SPORTS ",[FR] DAZN 1 HD
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="France TV",[FR] DAZN 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/1014208.m3u8
-#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] AUTOMOTO FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/AUTOMOTO.png" group-title="FR SPORTS ",[FR] AUTOMOTO FHD
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] AUTOMOTO FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/AUTOMOTO.png" group-title="France TV",[FR] AUTOMOTO FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832132.m3u8
-#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] AUTOMOTO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/AUTOMOTO.png" group-title="FR SPORTS ",[FR] AUTOMOTO HD
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] AUTOMOTO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/AUTOMOTO.png" group-title="France TV",[FR] AUTOMOTO HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832131.m3u8
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="[FR] EQUIDIA FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EQUIDIALIVEFHD.png" group-title="FR SPORTS ",[FR] EQUIDIA FHD
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="[FR] EQUIDIA FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EQUIDIALIVEFHD.png" group-title="France TV",[FR] EQUIDIA FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832129.m3u8
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="[FR] EQUIDIA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/EQUIDIALIVEFHD.png" group-title="FR SPORTS ",[FR] EQUIDIA HD
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="[FR] EQUIDIA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/EQUIDIALIVEFHD.png" group-title="France TV",[FR] EQUIDIA HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832128.m3u8
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="[FR] L'EQUIPE 21 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/LEQUIPE21HD.png" group-title="FR SPORTS ",[FR] L'EQUIPE 21 FHD
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="[FR] L'EQUIPE 21 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/LEQUIPE21HD.png" group-title="France TV",[FR] L'EQUIPE 21 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832126.m3u8
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/INFOSPORT+.png" group-title="FR SPORTS ",[FR] INFOSPORT+ FHD
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/INFOSPORT+.png" group-title="France TV",[FR] INFOSPORT+ FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832125.m3u8
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ H265" tvg-logo="http://logo.protv.cc/picons/logos/france/INFOSPORT+.png" group-title="FR SPORTS ",[FR] INFOSPORT+ H265
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ H265" tvg-logo="http://logo.protv.cc/picons/logos/france/INFOSPORT+.png" group-title="France TV",[FR] INFOSPORT+ H265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832124.m3u8
-#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/INFOSPORT+.png" group-title="FR SPORTS ",[FR] INFOSPORT+ HD
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/INFOSPORT+.png" group-title="France TV",[FR] INFOSPORT+ HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832123.m3u8
-#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="[FR] GOLF+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/GOLF+.png" group-title="FR SPORTS ",[FR] GOLF+ FHD
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="[FR] GOLF+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/GOLF+.png" group-title="France TV",[FR] GOLF+ FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832121.m3u8
-#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="[FR] GOLF+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/GOLF+.png" group-title="FR SPORTS ",[FR] GOLF+ HD
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="[FR] GOLF+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/GOLF+.png" group-title="France TV",[FR] GOLF+ HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832120.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="[FR] GOLF CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/Golf_Channel_Logo.png" group-title="FR SPORTS ",[FR] GOLF CHANNEL FHD
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="[FR] GOLF CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/Golf_Channel_Logo.png" group-title="France TV",[FR] GOLF CHANNEL FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832118.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT1HD.png" group-title="FR SPORTS ",[FR] EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT1HD.png" group-title="France TV",[FR] EUROSPORT 1 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832116.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 H265" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT1HD.png" group-title="FR SPORTS ",[FR] EUROSPORT 1 H265
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 H265" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT1HD.png" group-title="France TV",[FR] EUROSPORT 1 H265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832115.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT1HD.png" group-title="FR SPORTS ",[FR] EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT1HD.png" group-title="France TV",[FR] EUROSPORT 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832114.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT2HD.png" group-title="FR SPORTS ",[FR] EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT2HD.png" group-title="France TV",[FR] EUROSPORT 2 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832112.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 H265" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT2HD.png" group-title="FR SPORTS ",[FR] EUROSPORT 2 H265
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 H265" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT2HD.png" group-title="France TV",[FR] EUROSPORT 2 H265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832111.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT2HD.png" group-title="FR SPORTS ",[FR] EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT2HD.png" group-title="France TV",[FR] EUROSPORT 2 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832110.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-1.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 1 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-1.png" group-title="France TV",[FR] EUROSPORT 360 1 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543422.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-2.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 2 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-2.png" group-title="France TV",[FR] EUROSPORT 360 2 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543423.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 3 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-3.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 3 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 3 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-3.png" group-title="France TV",[FR] EUROSPORT 360 3 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543424.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-4.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 4 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-4.png" group-title="France TV",[FR] EUROSPORT 360 4 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543425.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-5.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 5 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-5.png" group-title="France TV",[FR] EUROSPORT 360 5 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543426.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 6 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-6.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 6 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 6 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-6.png" group-title="France TV",[FR] EUROSPORT 360 6 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543427.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 7 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-7.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 7 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 7 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-7.png" group-title="France TV",[FR] EUROSPORT 360 7 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543428.m3u8
-#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 8 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-8.png" group-title="FR SPORTS ",[FR] EUROSPORT 360 8 UHD
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 8 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-8.png" group-title="France TV",[FR] EUROSPORT 360 8 UHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/543429.m3u8
-#EXTINF:-1 tvg-name="[FR] MOTORSPORT TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MOTORSPORT-TV-FR.jpeg" group-title="FR SPORTS ",[FR] MOTORSPORT TV FHD
+#EXTINF:-1 tvg-name="[FR] MOTORSPORT TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MOTORSPORT-TV-FR.jpeg" group-title="France TV",[FR] MOTORSPORT TV FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832108.m3u8
-#EXTINF:-1 tvg-name="[FR] EXTREME SPORTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/EXTREME-SPORTS-TV.png" group-title="FR SPORTS ",[FR] EXTREME SPORTS
+#EXTINF:-1 tvg-name="[FR] EXTREME SPORTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/EXTREME-SPORTS-TV.png" group-title="France TV",[FR] EXTREME SPORTS
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831999.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="[FR] CANAL+ FOOT FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-FOOT-FR-TV.png" group-title="FR SPORTS ",[FR] CANAL+ FOOT FHD
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="[FR] CANAL+ FOOT FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-FOOT-FR-TV.png" group-title="France TV",[FR] CANAL+ FOOT FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832106.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="[FR] CANAL+ FOOT H.265" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-FOOT-FR-TV.png" group-title="FR SPORTS ",[FR] CANAL+ FOOT H.265
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="[FR] CANAL+ FOOT H.265" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-FOOT-FR-TV.png" group-title="France TV",[FR] CANAL+ FOOT H.265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832105.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="[FR] CANAL+ SPORT HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL+-SPORT-POLSKA.png" group-title="FR SPORTS ",[FR] CANAL+ SPORT HD
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="[FR] CANAL+ SPORT HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL+-SPORT-POLSKA.png" group-title="France TV",[FR] CANAL+ SPORT HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832102.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="[FR] CANAL+ SPORT 360 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-360.png" group-title="FR SPORTS ",[FR] CANAL+ SPORT 360 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="[FR] CANAL+ SPORT 360 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-360.png" group-title="France TV",[FR] CANAL+ SPORT 360 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832101.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="[FR] CANAL+ SPORT 360 H.265" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-360.png" group-title="FR SPORTS ",[FR] CANAL+ SPORT 360 H.265
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="[FR] CANAL+ SPORT 360 H.265" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-360.png" group-title="France TV",[FR] CANAL+ SPORT 360 H.265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832100.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="[FR] CANAL+ SPORT 360 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-360.png" group-title="FR SPORTS ",[FR] CANAL+ SPORT 360 HD
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="[FR] CANAL+ SPORT 360 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-360.png" group-title="France TV",[FR] CANAL+ SPORT 360 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832099.m3u8
-#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="[FR] CANAL+ PREMIERE LEAGUE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-PREMIERE-LEAGUE-FR-TV.png" group-title="FR SPORTS ",[FR] CANAL+ PREMIERE LEAGUE HD
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="[FR] CANAL+ PREMIERE LEAGUE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-PREMIERE-LEAGUE-FR-TV.png" group-title="France TV",[FR] CANAL+ PREMIERE LEAGUE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832098.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="[FR] CANAL+ FORMULA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/canalplusformula1.png" group-title="FR SPORTS ",[FR] CANAL+ FORMULA 1 HD
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="[FR] CANAL+ FORMULA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/canalplusformula1.png" group-title="France TV",[FR] CANAL+ FORMULA 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832097.m3u8
-#EXTINF:-1 tvg-id="Motogp.fr" tvg-name="[FR] CANAL+ MOTO GP HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal_MotoGP.png" group-title="FR SPORTS ",[FR] CANAL+ MOTO GP HD
+#EXTINF:-1 tvg-id="Motogp.fr" tvg-name="[FR] CANAL+ MOTO GP HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal_MotoGP.png" group-title="France TV",[FR] CANAL+ MOTO GP HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832096.m3u8
-#EXTINF:-1 tvg-name="[FR] CANAL+ TOP 14 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-TOP-14.png" group-title="FR SPORTS ",[FR] CANAL+ TOP 14 HD
+#EXTINF:-1 tvg-name="[FR] CANAL+ TOP 14 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-TOP-14.png" group-title="France TV",[FR] CANAL+ TOP 14 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832095.m3u8
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="[FR] RMC SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-1.png" group-title="FR SPORTS ",[FR] RMC SPORT 1 FHD
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="[FR] RMC SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-1.png" group-title="France TV",[FR] RMC SPORT 1 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832093.m3u8
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="[FR] RMC SPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-1.png" group-title="FR SPORTS ",[FR] RMC SPORT 1 HD
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="[FR] RMC SPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-1.png" group-title="France TV",[FR] RMC SPORT 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832092.m3u8
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-2.png" group-title="FR SPORTS ",[FR] RMC SPORT 2 FHD
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-2.png" group-title="France TV",[FR] RMC SPORT 2 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832090.m3u8
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC SPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-2.png" group-title="FR SPORTS ",[FR] RMC SPORT 2 HD
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC SPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-2.png" group-title="France TV",[FR] RMC SPORT 2 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832089.m3u8
-#EXTINF:-1 tvg-name="[FR] RMC SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-3.png" group-title="FR SPORTS ",[FR] RMC SPORT 3 FHD
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-3.png" group-title="France TV",[FR] RMC SPORT 3 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832086.m3u8
-#EXTINF:-1 tvg-name="[FR] RMC SPORT 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-3.png" group-title="FR SPORTS ",[FR] RMC SPORT 3 HD
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-3.png" group-title="France TV",[FR] RMC SPORT 3 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832085.m3u8
-#EXTINF:-1 tvg-name="[FR] RMC SPORT 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-3.png" group-title="FR SPORTS ",[FR] RMC SPORT 3 SD
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-3.png" group-title="France TV",[FR] RMC SPORT 3 SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832084.m3u8
-#EXTINF:-1 tvg-name="[FR] RMC SPORT 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-4.png" group-title="FR SPORTS ",[FR] RMC SPORT 4 FHD
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-4.png" group-title="France TV",[FR] RMC SPORT 4 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832083.m3u8
-#EXTINF:-1 tvg-name="[FR] RMC SPORT 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-4.png" group-title="FR SPORTS ",[FR] RMC SPORT 4 HD
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-4.png" group-title="France TV",[FR] RMC SPORT 4 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832082.m3u8
-#EXTINF:-1 tvg-name="[FR] RMC SPORT 4 SD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-4.png" group-title="FR SPORTS ",[FR] RMC SPORT 4 SD
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 4 SD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-4.png" group-title="France TV",[FR] RMC SPORT 4 SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832081.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="[FR] RMC SPORT LIVE 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 5 FHD
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="[FR] RMC SPORT LIVE 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 5 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832080.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="[FR] RMC SPORT LIVE 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 5 HD
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="[FR] RMC SPORT LIVE 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 5 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832079.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="[FR] RMC SPORT LIVE 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 6 HD
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="[FR] RMC SPORT LIVE 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 6 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832078.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="[FR] RMC SPORT LIVE 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 6 FHD
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="[FR] RMC SPORT LIVE 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 6 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832077.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="[FR] RMC SPORT LIVE 7 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 7 FHD (ONLY ENVENT)
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="[FR] RMC SPORT LIVE 7 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 7 FHD (ONLY ENVENT)
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832076.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="[FR] RMC SPORT LIVE 7 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 7 HD (ONLY ENVENT)
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="[FR] RMC SPORT LIVE 7 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 7 HD (ONLY ENVENT)
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832075.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="[FR] RMC SPORT LIVE 8 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 8 FHD (ONLY ENVENT)
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="[FR] RMC SPORT LIVE 8 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 8 FHD (ONLY ENVENT)
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832074.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="[FR] RMC SPORT LIVE 8 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 8 HD (ONLY ENVENT)
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="[FR] RMC SPORT LIVE 8 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 8 HD (ONLY ENVENT)
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832073.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="[FR] RMC SPORT LIVE 9 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 9 FHD (ONLY ENVENT)
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="[FR] RMC SPORT LIVE 9 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 9 FHD (ONLY ENVENT)
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832072.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="[FR] RMC SPORT LIVE 9 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 9 HD (ONLY ENVENT)
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="[FR] RMC SPORT LIVE 9 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 9 HD (ONLY ENVENT)
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832071.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="[FR]  RMC SPORT LIVE 10 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR]  RMC SPORT LIVE 10 FHD
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="[FR]  RMC SPORT LIVE 10 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR]  RMC SPORT LIVE 10 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832070.m3u8
-#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="[FR] RMC SPORT LIVE 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS ",[FR] RMC SPORT LIVE 10 HD
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="[FR] RMC SPORT LIVE 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 10 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832069.m3u8
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="[FR] BEIN SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="[FR] BEIN SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="France TV",[FR] BEIN SPORTS 1 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832068.m3u8
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="[FR] BEIN SPORTS 1 H.265" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 1 H.265
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="[FR] BEIN SPORTS 1 H.265" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="France TV",[FR] BEIN SPORTS 1 H.265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832067.m3u8
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="[FR] BEIN SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="[FR] BEIN SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="France TV",[FR] BEIN SPORTS 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832066.m3u8
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="[FR] BEIN SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="[FR] BEIN SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="France TV",[FR] BEIN SPORTS 2 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832064.m3u8
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="[FR] BEIN SPORTS 2 H.265" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 2 H.265
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="[FR] BEIN SPORTS 2 H.265" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="France TV",[FR] BEIN SPORTS 2 H.265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832063.m3u8
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="[FR] BEIN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="[FR] BEIN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="France TV",[FR] BEIN SPORTS 2 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832062.m3u8
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="France TV",[FR] BEIN SPORTS 3 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832060.m3u8
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 H.265" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 3 H.265
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 H.265" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="France TV",[FR] BEIN SPORTS 3 H.265
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832059.m3u8
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="France TV",[FR] BEIN SPORTS 3 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832058.m3u8
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="FR SPORTS ",[FR] BEIN SPORTS 3 SD
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="France TV",[FR] BEIN SPORTS 3 SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832057.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX4.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 4 FHD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX4.png" group-title="France TV",[FR] BEIN SPORTS MAX 4 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832055.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX4.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 4 HD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX4.png" group-title="France TV",[FR] BEIN SPORTS MAX 4 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832054.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX5.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 5 FHD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX5.png" group-title="France TV",[FR] BEIN SPORTS MAX 5 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832053.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX5.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 5 HD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX5.png" group-title="France TV",[FR] BEIN SPORTS MAX 5 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832052.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX6.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 6 FHD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX6.png" group-title="France TV",[FR] BEIN SPORTS MAX 6 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832051.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX6.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 6 HD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX6.png" group-title="France TV",[FR] BEIN SPORTS MAX 6 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832050.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 7 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX7.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 7 FHD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 7 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX7.png" group-title="France TV",[FR] BEIN SPORTS MAX 7 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832049.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX7.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 7 HD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX7.png" group-title="France TV",[FR] BEIN SPORTS MAX 7 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832048.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 8 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX8.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 8 FHD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 8 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX8.png" group-title="France TV",[FR] BEIN SPORTS MAX 8 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832047.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX8.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 8 HD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX8.png" group-title="France TV",[FR] BEIN SPORTS MAX 8 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832046.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX9.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 9 FHD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX9.png" group-title="France TV",[FR] BEIN SPORTS MAX 9 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832045.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 9 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX9.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 9 HD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 9 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX9.png" group-title="France TV",[FR] BEIN SPORTS MAX 9 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832044.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 10 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEIN-SPORTS-MAX-10.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 10 FHD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 10 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEIN-SPORTS-MAX-10.png" group-title="France TV",[FR] BEIN SPORTS MAX 10 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832043.m3u8
-#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 10 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEIN-SPORTS-MAX-10.png" group-title="FR SPORTS ",[FR] BEIN SPORTS MAX 10 HD
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 10 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEIN-SPORTS-MAX-10.png" group-title="France TV",[FR] BEIN SPORTS MAX 10 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832042.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 MULTIPLEX" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 MULTIPLEX
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 MULTIPLEX" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 MULTIPLEX
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832040.m3u8
-#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) FHD
+#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832039.m3u8
-#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR]  LIGUE 1 PRIME 1 ( VENDREDI MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR]  LIGUE 1 PRIME 1 ( VENDREDI MATCH ) HD
+#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR]  LIGUE 1 PRIME 1 ( VENDREDI MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR]  LIGUE 1 PRIME 1 ( VENDREDI MATCH ) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832038.m3u8
-#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) SD
+#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832037.m3u8
-#EXTINF:-1 tvg-id="PrimeVideoLigue2.fr" tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) FHD
+#EXTINF:-1 tvg-id="PrimeVideoLigue2.fr" tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832036.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832035.m3u8
-#EXTINF:-1 tvg-id="PrimeVideoLigue2.fr" tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) SD
+#EXTINF:-1 tvg-id="PrimeVideoLigue2.fr" tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832034.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) FHD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832033.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832032.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) SD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832031.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) FHD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832030.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832029.m3u8
-#EXTINF:-1 tvg-name="[FR]  LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR]  LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) SD
+#EXTINF:-1 tvg-name="[FR]  LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR]  LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832028.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) FHD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832027.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832026.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) SD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832025.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) FHD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832024.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832023.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) FHD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832022.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832021.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) FHD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832020.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS ",[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="France TV",[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832019.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 1 HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832017.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 2" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 2
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 2" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 2
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832016.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 3" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 3
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 3" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 3
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832015.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 4" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 4
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 4" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 4
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832014.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 5" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 5
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 5" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 5
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832013.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 6" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 6
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 6" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 6
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832012.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 7" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 7
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 7" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 7
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832011.m3u8
-#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS ",[FR] LIGUE 2 PRIME 8 HD
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="France TV",[FR] LIGUE 2 PRIME 8 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832010.m3u8
-#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="[FR] MULTISPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 1 FHD
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="[FR] MULTISPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 1 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832008.m3u8
-#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="[FR] MULTISPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 1 HD
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="[FR] MULTISPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832007.m3u8
-#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="[FR] MULTISPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 2 HD
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="[FR] MULTISPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 2 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832006.m3u8
-#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="[FR] MULTISPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 3 HD
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="[FR] MULTISPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 3 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832005.m3u8
-#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="[FR] MULTISPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 4 HD
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="[FR] MULTISPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 4 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832004.m3u8
-#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="[FR] MULTISPORTS 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 5 FHD
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="[FR] MULTISPORTS 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 5 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832003.m3u8
-#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="[FR] MULTISPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 5 HD
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="[FR] MULTISPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 5 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832002.m3u8
-#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="[FR] MULTISPORTS 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 6 FHD
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="[FR] MULTISPORTS 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 6 FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832001.m3u8
-#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="[FR] MULTISPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS ",[FR] MULTISPORTS 6 HD
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="[FR] MULTISPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="France TV",[FR] MULTISPORTS 6 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832000.m3u8
-#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] SKWEEK 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 1 HD
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] SKWEEK 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 1 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963493.m3u8
-#EXTINF:-1 tvg-name="[FR] SKWEEK 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 2 HD
+#EXTINF:-1 tvg-name="[FR] SKWEEK 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 2 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963494.m3u8
-#EXTINF:-1 tvg-name="[FR] SKWEEK 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 3 HD
+#EXTINF:-1 tvg-name="[FR] SKWEEK 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 3 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963495.m3u8
-#EXTINF:-1 tvg-name="[FR] SKWEEK 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 4 HD
+#EXTINF:-1 tvg-name="[FR] SKWEEK 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 4 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963496.m3u8
-#EXTINF:-1 tvg-name="[FR] SKWEEK 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 5 HD
+#EXTINF:-1 tvg-name="[FR] SKWEEK 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 5 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963497.m3u8
-#EXTINF:-1 tvg-name="[FR] SKWEEK 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 6 HD
+#EXTINF:-1 tvg-name="[FR] SKWEEK 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 6 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963498.m3u8
-#EXTINF:-1 tvg-name="[FR] SKWEEK 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 7 HD
+#EXTINF:-1 tvg-name="[FR] SKWEEK 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 7 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963499.m3u8
-#EXTINF:-1 tvg-name="[FR] SKWEEK 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS ",[FR] SKWEEK 8 HD
+#EXTINF:-1 tvg-name="[FR] SKWEEK 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="France TV",[FR] SKWEEK 8 HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/963500.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="[FR] M6 MUSIC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M6-MUSIC-TV.png" group-title="FR MUSIQUE",[FR] M6 MUSIC FHD
+#EXTINF:-1 tvg-name="##### FR MUSIQUE #####" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ISLAMIC.png" group-title="France TV",##### FR MUSIQUE #####
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250106.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="[FR] M6 MUSIC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M6-MUSIC-TV.png" group-title="France TV",[FR] M6 MUSIC FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832242.m3u8
-#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="[FR] NRJ HITS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NRJ-HITS-FR-TV.png" group-title="FR MUSIQUE",[FR] NRJ HITS FHD
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="[FR] NRJ HITS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NRJ-HITS-FR-TV.png" group-title="France TV",[FR] NRJ HITS FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832241.m3u8
-#EXTINF:-1 tvg-name="[FR] MCM TOP FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MCM-TOP-TV.png" group-title="FR MUSIQUE",[FR] MCM TOP FHD
+#EXTINF:-1 tvg-name="[FR] MCM TOP FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MCM-TOP-TV.png" group-title="France TV",[FR] MCM TOP FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832240.m3u8
-#EXTINF:-1 tvg-name="[FR]MCM TOP SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MCM-TOP-TV.png" group-title="FR MUSIQUE",[FR]MCM TOP SD
+#EXTINF:-1 tvg-name="[FR]MCM TOP SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MCM-TOP-TV.png" group-title="France TV",[FR]MCM TOP SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832239.m3u8
-#EXTINF:-1 tvg-id="Melody.fr" tvg-name="[FR] MELODY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MELODY-FR-TV.png" group-title="FR MUSIQUE",[FR] MELODY FHD
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="[FR] MELODY FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MELODY-FR-TV.png" group-title="France TV",[FR] MELODY FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832238.m3u8
-#EXTINF:-1 tvg-id="Melody.fr" tvg-name="[FR] MELODY SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MELODY-FR-TV.png" group-title="FR MUSIQUE",[FR] MELODY SD
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="[FR] MELODY SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MELODY-FR-TV.png" group-title="France TV",[FR] MELODY SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832237.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="[FR] CLUBBING TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CLUBBING-TV.png" group-title="FR MUSIQUE",[FR] CLUBBING TV HD
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="[FR] CLUBBING TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CLUBBING-TV.png" group-title="France TV",[FR] CLUBBING TV HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832236.m3u8
-#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="[FR] RFM TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RFM-FR-TV.png" group-title="FR MUSIQUE",[FR] RFM TV FHD
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="[FR] RFM TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RFM-FR-TV.png" group-title="France TV",[FR] RFM TV FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832235.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="[FR] CSTAR HITS SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSTAR-HITS-FR-TV.jpeg" group-title="FR MUSIQUE",[FR] CSTAR HITS SD
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="[FR] CSTAR HITS SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CSTAR-HITS-FR-TV.jpeg" group-title="France TV",[FR] CSTAR HITS SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832234.m3u8
-#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="[FR] MTV HITS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.mtvhits.png" group-title="FR MUSIQUE",[FR] MTV HITS FHD
+#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="[FR] MTV HITS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.mtvhits.png" group-title="France TV",[FR] MTV HITS FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832233.m3u8
-#EXTINF:-1 tvg-name="[FR] MTV LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-LIVE.png" group-title="FR MUSIQUE",[FR] MTV LIVE
+#EXTINF:-1 tvg-name="[FR] MTV LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-LIVE.png" group-title="France TV",[FR] MTV LIVE
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832232.m3u8
-#EXTINF:-1 tvg-name="[FR] MTV BASE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-BASE-FR.png" group-title="FR MUSIQUE",[FR] MTV BASE HD
+#EXTINF:-1 tvg-name="[FR] MTV BASE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-BASE-FR.png" group-title="France TV",[FR] MTV BASE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832231.m3u8
-#EXTINF:-1 tvg-id="MTVCLASSICS.fr" tvg-name="[FR] MTV CLASSIC HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-CLASSIC-FR.png" group-title="FR MUSIQUE",[FR] MTV CLASSIC HD
+#EXTINF:-1 tvg-id="MTVCLASSICS.fr" tvg-name="[FR] MTV CLASSIC HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-CLASSIC-FR.png" group-title="France TV",[FR] MTV CLASSIC HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832230.m3u8
-#EXTINF:-1 tvg-name="[FR] MTV DANCE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-DANCE-FR.png" group-title="FR MUSIQUE",[FR] MTV DANCE HD
+#EXTINF:-1 tvg-name="[FR] MTV DANCE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-DANCE-FR.png" group-title="France TV",[FR] MTV DANCE HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832229.m3u8
-#EXTINF:-1 tvg-name="[FR] MTV 90s HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-90s-FR.png" group-title="FR MUSIQUE",[FR] MTV 90s HD
+#EXTINF:-1 tvg-name="[FR] MTV 90s HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-90s-FR.png" group-title="France TV",[FR] MTV 90s HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832228.m3u8
-#EXTINF:-1 tvg-name="[FR] MTV 80s HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-80s.png" group-title="FR MUSIQUE",[FR] MTV 80s HD
+#EXTINF:-1 tvg-name="[FR] MTV 80s HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-80s.png" group-title="France TV",[FR] MTV 80s HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832227.m3u8
-#EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="[FR] DJAZZ FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DJAZZ-FR-TV.png" group-title="FR MUSIQUE",[FR] DJAZZ FHD
+#EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="[FR] DJAZZ FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DJAZZ-FR-TV.png" group-title="France TV",[FR] DJAZZ FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832226.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="[FR] MEZZO SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEZZO-FR-TV.png" group-title="FR MUSIQUE",[FR] MEZZO SD
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="[FR] MEZZO SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEZZO-FR-TV.png" group-title="France TV",[FR] MEZZO SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832225.m3u8
-#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="[FR] MEZZO LIVE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEZZO-LIVE-tv.png" group-title="FR MUSIQUE",[FR] MEZZO LIVE FHD
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="[FR] MEZZO LIVE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEZZO-LIVE-tv.png" group-title="France TV",[FR] MEZZO LIVE FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832224.m3u8
-#EXTINF:-1 tvg-name="[FR] BBLACK CARIBBEAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/BBLACK--CARIBBEAN.jpeg" group-title="FR MUSIQUE",[FR] BBLACK CARIBBEAN
+#EXTINF:-1 tvg-name="[FR] BBLACK CARIBBEAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/BBLACK--CARIBBEAN.jpeg" group-title="France TV",[FR] BBLACK CARIBBEAN
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832220.m3u8
-#EXTINF:-1 tvg-name="[FR] FUSION TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FUSION-TV-FR.png" group-title="FR MUSIQUE",[FR] FUSION TV FHD
+#EXTINF:-1 tvg-name="[FR] FUSION TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FUSION-TV-FR.png" group-title="France TV",[FR] FUSION TV FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832215.m3u8
-#EXTINF:-1 tvg-name="[FR] FUSION TV SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FUSION-TV-FR.png" group-title="FR MUSIQUE",[FR] FUSION TV SD
+#EXTINF:-1 tvg-name="[FR] FUSION TV SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FUSION-TV-FR.png" group-title="France TV",[FR] FUSION TV SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832214.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="[FR] TRACE URBAN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-URBAN-FR-TV.png" group-title="FR MUSIQUE",[FR] TRACE URBAN FHD
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="[FR] TRACE URBAN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-URBAN-FR-TV.png" group-title="France TV",[FR] TRACE URBAN FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832210.m3u8
-#EXTINF:-1 tvg-name="[FR] TRACE URBAN INTER FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-URBAN-FR-TV.png" group-title="FR MUSIQUE",[FR] TRACE URBAN INTER FHD
+#EXTINF:-1 tvg-name="[FR] TRACE URBAN INTER FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-URBAN-FR-TV.png" group-title="France TV",[FR] TRACE URBAN INTER FHD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832209.m3u8
-#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-name="[FR] TRACE CARIBBEAN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-CARIBBEAN-FR-TV.png" group-title="FR MUSIQUE",[FR] TRACE CARIBBEAN HD
+#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-name="[FR] TRACE CARIBBEAN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-CARIBBEAN-FR-TV.png" group-title="France TV",[FR] TRACE CARIBBEAN HD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832208.m3u8
-#EXTINF:-1 tvg-name="[FR] TRACE AYITI" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-AYITI-FR-TV.png" group-title="FR MUSIQUE",[FR] TRACE AYITI
+#EXTINF:-1 tvg-name="[FR] TRACE AYITI" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-AYITI-FR-TV.png" group-title="France TV",[FR] TRACE AYITI
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832207.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="[FR] TRACE GOSPEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-GOSPEL-FR-TV.png" group-title="FR MUSIQUE",[FR] TRACE GOSPEL
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="[FR] TRACE GOSPEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-GOSPEL-FR-TV.png" group-title="France TV",[FR] TRACE GOSPEL
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832206.m3u8
-#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="[FR] TRACE LATINA SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-LATINA-FR-TV.png" group-title="FR MUSIQUE",[FR] TRACE LATINA SD
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="[FR] TRACE LATINA SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRACE-LATINA-FR-TV.png" group-title="France TV",[FR] TRACE LATINA SD
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832205.m3u8
-#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="[FR] MTV HITS SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MTV-HITS-FR-TV.png" group-title="FR MUSIQUE",[FR] MTV HITS SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832200.m3u8
-#EXTINF:-1 tvg-name="[FR] BEUR FM" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEUR-FM-TV.png" group-title="FR MUSIQUE",[FR] BEUR FM
+#EXTINF:-1 tvg-name="[FR] BEUR FM" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEUR-FM-TV.png" group-title="France TV",[FR] BEUR FM
 http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832198.m3u8
+#EXTINF:-1 tvg-name="##### FR DOCUMENTAIRE #####" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ISLAMIC.png" group-title="France TV",##### FR DOCUMENTAIRE #####
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/250106.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-KIDS-FR-TV.png" group-title="France TV",[FR] CANAL+ KIDS FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832196.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-KIDS-FR-TV.png" group-title="France TV",[FR] CANAL+ KIDS HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832195.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-KIDS-FR-TV.png" group-title="France TV",[FR] CANAL+ KIDS SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832194.m3u8
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI+ FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PIWI+-FR-TV.png" group-title="France TV",[FR] PIWI+ FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832193.m3u8
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FCR] PIWI+ HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PIWI+-FR-TV.png" group-title="France TV",[FCR] PIWI+ HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832192.m3u8
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI+ SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PIWI+-FR-TV.png" group-title="France TV",[FR] PIWI+ SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832191.m3u8
+#EXTINF:-1 tvg-name="[FR] DUCK TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DUCK-TV-FR.jpeg" group-title="France TV",[FR] DUCK TV FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832190.m3u8
+#EXTINF:-1 tvg-name="[FR] DUCK TV SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DUCK-TV-FR.jpeg" group-title="France TV",[FR] DUCK TV SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832188.m3u8
+#EXTINF:-1 tvg-name="[FR] GAME TOON FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="France TV",[FR] GAME TOON FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832187.m3u8
+#EXTINF:-1 tvg-name="[FR] GAME TOON SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="France TV",[FR] GAME TOON SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832185.m3u8
+#EXTINF:-1 tvg-name="[FR] GAME ONE+1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE+1-FR-TV.png" group-title="France TV",[FR] GAME ONE+1 FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832184.m3u8
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="France TV",[FR] GAME ONE FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832183.m3u8
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="France TV",[FR] GAME ONE HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832182.m3u8
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="France TV",[FR] GAME ONE SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832181.m3u8
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BABY TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.babytv.png" group-title="France TV",[FR] BABY TV HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832180.m3u8
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOING-FR-TV.png" group-title="France TV",[FR] BOING FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832179.m3u8
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOING-FR-TV.png" group-title="France TV",[FR] BOING HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832178.m3u8
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOING-FR-TV.png" group-title="France TV",[FR] BOING SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832177.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="France TV",[FR] BOOMERANG FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832176.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="France TV",[FR] BOOMERANG HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832175.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="France TV",[FR] BOOMERANG SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832174.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-J-FR-TV.png" group-title="France TV",[FR] CANAL J FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832173.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-J-FR-TV.png" group-title="France TV",[FR] CANAL J HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832172.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-J-FR-TV.png" group-title="France TV",[FR] CANAL J SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832171.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="France TV",[FR] CARTOON NETWORK FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832170.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="France TV",[FR] CARTOON NETWORK HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832169.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="France TV",[FR] CARTOON NETWORK SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832168.m3u8
+#EXTINF:-1 tvg-name="[FR] DISNEY CHANNEL +1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-+1.png" group-title="France TV",[FR] DISNEY CHANNEL +1 FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832167.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="France TV",[FR] DISNEY CHANNEL FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832166.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="France TV",[FR] DISNEY CHANNEL HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832165.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="France TV",[FR] DISNEY CHANNEL SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832164.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="France TV",[FR] DISNEY JUNIOR FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832163.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="France TV",[FR] DISNEY JUNIOR HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832162.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="France TV",[FR] DISNEY JUNIOR SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832161.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GULLI-FR-TV.jpeg" group-title="France TV",[FR] GULLI FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832160.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GULLI-FR-TV.jpeg" group-title="France TV",[FR] GULLI HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832159.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GULLI-FR-TV.jpeg" group-title="France TV",[FR] GULLI SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832158.m3u8
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/J-ONE-FR-TV.png" group-title="France TV",[FR] J-ONE FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832157.m3u8
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/J-ONE-FR-TV.png" group-title="France TV",[FR] J-ONE HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832156.m3u8
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/J-ONE-FR-TV.png" group-title="France TV",[FR] J-ONE SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832155.m3u8
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MANGAS-FR-TV.png" group-title="France TV",[FR] MANGAS FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832154.m3u8
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MANGAS-FR-TV.png" group-title="France TV",[FR] MANGAS HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832153.m3u8
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MANGAS-FR-TV.png" group-title="France TV",[FR] MANGAS SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832152.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="France TV",[FR] NICKELODEON FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832151.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="France TV",[FR] NICKELODEON HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832150.m3u8
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="France TV",[FR] NICKELODEON JUNIOR FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832149.m3u8
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="France TV",[FR] NICKELODEON JUNIOR HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832148.m3u8
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="France TV",[FR] NICKELODEON JUNIOR SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832147.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="France TV",[FR] NICKELODEON SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832146.m3u8
+#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="France TV",[FR] PITCHOUN TV FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832145.m3u8
+#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="France TV",[FR] PITCHOUN TV HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832144.m3u8
+#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="France TV",[FR] PITCHOUN TV SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832143.m3u8
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIJI-FR-TV.png" group-title="France TV",[FR] TIJI FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832142.m3u8
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIJI-FR-TV.png" group-title="France TV",[FR] TIJI HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832141.m3u8
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TIJI-FR-TV.png" group-title="France TV",[FR] TIJI SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832140.m3u8
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TOONAMI-FR-TV.png" group-title="France TV",[FR] TOONAMI FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832139.m3u8
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TOONAMI-FR-TV.png" group-title="France TV",[FR] TOONAMI HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832138.m3u8
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TOONAMI-FR-TV.png" group-title="France TV",[FR] TOONAMI SD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832137.m3u8
+#EXTINF:-1 tvg-name="[FR] Pyjamasques" tvg-logo="http://logo.protv.cc/picons-dino/logos/Pyjamasques-FR-TV.png" group-title="France TV",[FR] Pyjamasques
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832136.m3u8
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BabyTV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.babytv.png" group-title="France TV",[FR] BabyTV FHD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832135.m3u8
