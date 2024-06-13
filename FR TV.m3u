@@ -1,0 +1,519 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="[FR] TF1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1.png" group-title="FR TV",[FR] TF1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820880
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="[FR] FRANCE 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE2FHD.png" group-title="FR TV",[FR] FRANCE 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820878
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] RMC STORY FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCSTORYFHD.png" group-title="FR TV",[FR] RMC STORY FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820862
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="[FR] RMC DECOUVERTE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCDECOUVERTEHD.png" group-title="FR TV",[FR] RMC DECOUVERTE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820801
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="[FR] NAT GEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="FR TV",[FR] NAT GEO FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820803
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="[FR] NAT GEO WILD FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATGEOWILDHD.png" group-title="FR TV",[FR] NAT GEO WILD FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820802
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="[FR] CRIME DISTRICT FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CRIMEDISTRICTHD-1.png" group-title="FR TV",[FR] CRIME DISTRICT FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820804
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="[FR] M6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/M6.png" group-title="FR TV",[FR] M6 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820874
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="[FR] 6TER FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/6TER.png" group-title="FR TV",[FR] 6TER FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820865
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="[FR] W9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/W9.png" group-title="FR TV",[FR] W9 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="[FR] TMC FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TMC-1.png" group-title="FR TV",[FR] TMC FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820870
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="[FR] TFX FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TFX.png" group-title="FR TV",[FR] TFX FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820869
+#EXTINF:-1 tvg-name="[FR] RTL9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RTL9.png" group-title="FR TV",[FR] RTL9 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820821
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="[FR] NRJ 12 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/NRJ12_2005.png" group-title="FR TV",[FR] NRJ 12 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820868
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="[FR] 13EME RUE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/13-EME-RUE.png" group-title="FR TV",[FR] 13EME RUE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820835
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="[FR] TF1 SERIES FILMS FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1_SERIE.png" group-title="FR TV",[FR] TF1 SERIES FILMS FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820867
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="[FR] CSTAR FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/C-STAR.png" group-title="FR TV",[FR] CSTAR FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820864
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="[FR] C8 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/C8.jpg" group-title="FR TV",[FR] C8 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820872
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="[FR] CANAL+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-FHD.png" group-title="FR TV",[FR] CANAL+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820858
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="[FR] CANAL + DOCS FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdocs.png" group-title="FR TV",[FR] CANAL + DOCS FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820811
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="[FR] PLANETE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANETE-1.png" group-title="FR TV",[FR] PLANETE+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820810
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="[FR] PLANETE+ CRIME FHD" tvg-logo="http://logo.protv.cc/piconsnew/planetepluscrime.png" group-title="FR TV",[FR] PLANETE+ CRIME FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820809
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="[FR] PLANETE+ AVENTURE FHD" tvg-logo="http://logo.protv.cc/piconsnew/planeteplusaventure.png" group-title="FR TV",[FR] PLANETE+ AVENTURE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820808
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="[FR] DISCOVERY CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/DISCOVERYCHANNELHD.png" group-title="FR TV",[FR] DISCOVERY CHANNEL FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820807
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="[FR] DISCOVERY SCIENCE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/Discovery_Science_-_Logo_2017.svg.png" group-title="FR TV",[FR] DISCOVERY SCIENCE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820806
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="[FR] DISCOVERY INVESTIGATION FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/InvestigationDiscovery.png" group-title="FR TV",[FR] DISCOVERY INVESTIGATION FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820805
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="[FR] HISTOIRE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/HISTOIREHD.png" group-title="FR TV",[FR] HISTOIRE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820799
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="[FR] TOUTE L'HISTOIRE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TOUTELHISTOIRE.png" group-title="FR TV",[FR] TOUTE L'HISTOIRE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820798
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="[FR] SCIENCE & VIE TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SCIENCE-ET-VIE-TV-FR.png" group-title="FR TV",[FR] SCIENCE & VIE TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820797
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="[FR] CHERIE 25 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CHERIE25.png" group-title="FR TV",[FR] CHERIE 25 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820866
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="[FR] SERIE CLUB FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/SERIECLUBTV.png" group-title="FR TV",[FR] SERIE CLUB FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820831
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="[FR] PARIS PREMIERE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/PARISPREMIERE.png" group-title="FR TV",[FR] PARIS PREMIERE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820822
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="[FR] USHUAIA TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/USHUAIATV.png" group-title="FR TV",[FR] USHUAIA TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820800
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/ACTIONHD-1.png" group-title="FR TV",[FR] ACTION FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820838
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="[FR] ALTICE STUDIO FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/ALTICESTUDIO.png" group-title="FR TV",[FR] ALTICE STUDIO FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820837
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="[FR] COMEDIE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/COMEDIEPLUS.png" group-title="FR TV",[FR] COMEDIE+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820834
+#EXTINF:-1 tvg-id="Polar.fr" tvg-name="[FR] POLAR+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/POLAR.png" group-title="FR TV",[FR] POLAR+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820833
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="[FR] WARNER TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/WARNER.png" group-title="FR TV",[FR] WARNER TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820832
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="[FR] MTV FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MTV.png" group-title="FR TV",[FR] MTV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820830
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="[FR] E! FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/e-entertainment-television.png" group-title="FR TV",[FR] E! FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820829
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="[FR] AB1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/AB1.png" group-title="FR TV",[FR] AB1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820825
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="[FR] TV BREIZH FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TVBREIZH.png" group-title="FR TV",[FR] TV BREIZH FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820824
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="[FR] TEVA FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TEVAHD.png" group-title="FR TV",[FR] TEVA FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820823
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR]  SYFY FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/SYFYHD.png" group-title="FR TV",[FR]  SYFY FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820820
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="[FR] BET FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BET.png" group-title="FR TV",[FR] BET FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820819
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="[FR] NOVELAS TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/NOVELASTV.png" group-title="FR TV",[FR] NOVELAS TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820828
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/GAMEONE1.png" group-title="FR TV",[FR] GAME ONE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820827
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="[FR] ARTE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/ARTEHD.png" group-title="FR TV",[FR] ARTE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820873
+#EXTINF:-1 tvg-name="[FR] STAR ACADEMY 2022" tvg-logo="http://logo.protv.cc/picons-dino/logos/STARACADEMY-FR-TV.png" group-title="FR TV",[FR] STAR ACADEMY 2022
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820879
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="[FR] CANAL+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-FHD.png" group-title="FR TV",[FR] CANAL+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820858
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-CINEMA-HEVC.png" group-title="FR TV",[FR] CANAL+ CINEMA FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820857
+#EXTINF:-1 tvg-name="[FR] CANAL+ BOX OFFICE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-BOX-OFFICE.png" group-title="FR TV",[FR] CANAL+ BOX OFFICE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820789
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="[FR] CANAL+ SPORT FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-SPORT.png" group-title="FR TV",[FR] CANAL+ SPORT FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820856
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL+ SERIES FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplusseries.png" group-title="FR TV",[FR] CANAL+ SERIES FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820855
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="[FR] CANAL+ GRAND ECRAN FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-GRAND-ECRAN.png" group-title="FR TV",[FR] CANAL+ GRAND ECRAN FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820854
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalpluskids.png" group-title="FR TV",[FR] CANAL+ KIDS FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820853
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="[FR] CINE+ PREMIER FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEPREMIER.png" group-title="FR TV",[FR] CINE+ PREMIER FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820851
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="[FR] CINE+ FRISSON FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFRISSON.png" group-title="FR TV",[FR] CINE+ FRISSON FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820850
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="[FR] CINE+ EMOTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEEMOTION.png" group-title="FR TV",[FR] CINE+ EMOTION FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820849
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="[FR] CINE+ FAMIZ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFAMIZ.png" group-title="FR TV",[FR] CINE+ FAMIZ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820848
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="[FR] CINE+ CLUB FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLUB.png" group-title="FR TV",[FR] CINE+ CLUB FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820847
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="[FR]  CINE+ CLASSIC FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLASSIC.png" group-title="FR TV",[FR]  CINE+ CLASSIC FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820846
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="[FR] OCS MAX FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_Max.svg.png" group-title="FR TV",[FR] OCS MAX FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820845
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="[FR] OCS PULP FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_City.svg.png" group-title="FR TV",[FR] OCS PULP FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820844
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="[FR] OCS CHOC FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS-CHOC-logo-1.png" group-title="FR TV",[FR] OCS CHOC FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820843
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="[FR] OCS GEANTS FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_geants.png" group-title="FR TV",[FR] OCS GEANTS FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820842
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="[FR] TCM CINEMA FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TCMCINEMATV.png" group-title="FR TV",[FR] TCM CINEMA FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820841
+#EXTINF:-1 tvg-name="[FR] PARAMOUNT DECALE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PARAMOUNT-DECALE.png" group-title="FR TV",[FR] PARAMOUNT DECALE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820840
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] PARAMOUNT CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/PARAMOUNTCHANNEL.png" group-title="FR TV",[FR] PARAMOUNT CHANNEL FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820839
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] PARAMOUNT CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/PARAMOUNTCHANNEL.png" group-title="FR TV",[FR] PARAMOUNT CHANNEL FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820839
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/J-ONE-1.png" group-title="FR TV",[FR] J-ONE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820826
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="[FR] TV5 MONDE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TV5-MONDE-FR-TV.png" group-title="FR TV",[FR] TV5 MONDE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820818
+#EXTINF:-1 tvg-name="[FR] GAME ONE+1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/GAME-ONE-1.png" group-title="FR TV",[FR] GAME ONE+1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820817
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="[FR] COMEDY CENTRAL FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/COMEDYCENTRAL-1.png" group-title="FR TV",[FR] COMEDY CENTRAL FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820816
+#EXTINF:-1 tvg-name="[FR] ES1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/ES1_Logo.png" group-title="FR TV",[FR] ES1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820815
+#EXTINF:-1 tvg-name="[FR] MYZEN TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MYZEN.png" group-title="FR TV",[FR] MYZEN TV HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820814
+#EXTINF:-1 tvg-name="[FR] MYZEN FIT HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MYZEN.png" group-title="FR TV",[FR] MYZEN FIT HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820813
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="[FR] ANIMAUX FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/ANIMAUX.png" group-title="FR TV",[FR] ANIMAUX FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820796
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="[FR] TREK FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TREKFHD.png" group-title="FR TV",[FR] TREK FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820795
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="[FR] SEASONS FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/SEASONS.png" group-title="FR TV",[FR] SEASONS FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820794
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="[FR] CHASSE & PECHE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CHASSEANDPECHE.png" group-title="FR TV",[FR] CHASSE & PECHE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820793
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-name="[FR] 8 MONT-BLANC FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/Tv8_Mont-Blanc.png" group-title="FR TV",[FR] 8 MONT-BLANC FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820792
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="[FR] 01 NET TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/One_TV_Logo.png" group-title="FR TV",[FR] 01 NET TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820791
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="[FR] MUSEUM CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MUSEUMTV.png" group-title="FR TV",[FR] MUSEUM CHANNEL HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820790
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="[FR] FRANCE INFO FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCEINFO.png" group-title="FR TV",[FR] FRANCE INFO FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820746
+#EXTINF:-1 tvg-name="[FR] RT France FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RT-France.png" group-title="FR TV",[FR] RT France FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820745
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="[FR] WEO Nord Pas de Calais FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/WEO.png" group-title="FR TV",[FR] WEO Nord Pas de Calais FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820744
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="[FR] FRANCE 24 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FRANCE-24-FR.png" group-title="FR TV",[FR] FRANCE 24 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820743
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="[FR] I24 NEWS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/I24-NEWS-FR-TV.png" group-title="FR TV",[FR] I24 NEWS HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820742
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="[FR] EURONEWS FRANCE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EURONEWS-FR-TV.png" group-title="FR TV",[FR] EURONEWS FRANCE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820741
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="[FR] WARNER TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/WARNER.png" group-title="FR TV",[FR] WARNER TV HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831968.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR] SYFY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SYFYHD.png" group-title="FR TV",[FR] SYFY HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831959.m3u8
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="[FR] E! HD" tvg-logo="http://logo.protv.cc/picons/logos/france/e-entertainment-television.png" group-title="FR TV",[FR] E! HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831952.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_cinema.png" group-title="FR TV",[FR] CANAL+ CINEMA HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831975.m3u8
+#EXTINF:-1 tvg-name="[FR] CANAL+ BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL+-BOX-OFFICE-FHD.png" group-title="FR TV",[FR] CANAL+ BOX OFFICE HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832223.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal+_Kids.png" group-title="FR TV",[FR] CANAL+ KIDS HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831974.m3u8
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL+ SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/france/canal_series.png" group-title="FR TV",[FR] CANAL+ SERIES HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831973.m3u8
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="[FR] CINE+ PREMIER HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEPREMIER.png" group-title="FR TV",[FR] CINE+ PREMIER HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831876.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="[FR] CINE+ FRISSON HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFRISSON.png" group-title="FR TV",[FR] CINE+ FRISSON HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831874.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="[FR] CINE+ EMOTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEEMOTION.png" group-title="FR TV",[FR] CINE+ EMOTION HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831872.m3u8
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="[FR] CINE+ FAMIZ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFAMIZ.png" group-title="FR TV",[FR] CINE+ FAMIZ HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831870.m3u8
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="[FR] CINE+ CLUB HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLUB.png" group-title="FR TV",[FR] CINE+ CLUB HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831868.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="[FR] CINE+ CLASSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLASSIC.png" group-title="FR TV",[FR] CINE+ CLASSIC HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831866.m3u8
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="[FR] OCS MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_Max.svg.png" group-title="FR TV",[FR] OCS MAX HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831864.m3u8
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="[FR] OCS CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_City.svg.png" group-title="FR TV",[FR] OCS CITY HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831862.m3u8
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="[FR] OCS CHOC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS-CHOC-logo-1.png" group-title="FR TV",[FR] OCS CHOC HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831860.m3u8
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="[FR] OCS GEANTS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_geants.png" group-title="FR TV",[FR] OCS GEANTS HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831858.m3u8
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="[FR] TCM CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TCMCINEMATV.png" group-title="FR TV",[FR] TCM CINEMA HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831856.m3u8
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] PARAMOUNT CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PARAMOUNTCHANNEL.png" group-title="FR TV",[FR] PARAMOUNT CHANNEL HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831854.m3u8
+#EXTINF:-1 tvg-name="[FR] PARAMOUNT DECALE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PARAMOUNT-DECALE.png" group-title="FR TV",[FR] PARAMOUNT DECALE HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831852.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ACTIONHD-1.png" group-title="FR TV",[FR] ACTION HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831850.m3u8
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="[FR] ALTICE STUDIO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ALTICESTUDIO.png" group-title="FR TV",[FR] ALTICE STUDIO HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831848.m3u8
+#EXTINF:-1 tvg-id="Polar.fr" tvg-name="[FR] POLAR+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/POLAR.png" group-title="FR TV",[FR] POLAR+ HD
+http://line.lion-ott.com:80/live/852762995/ZpkJ4512/831846.m3u8
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="[FR] RMC DECOUVERTE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCDECOUVERTEHD.png" group-title="FR DOCUMENTAIRE | TV",[FR] RMC DECOUVERTE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831980
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] RMC STORY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCSTORYFHD.png" group-title="FR DOCUMENTAIRE | TV",[FR] RMC STORY HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831979
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="[FR] CANAL+ DOCS HD" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdocs.png" group-title="FR DOCUMENTAIRE | TV",[FR] CANAL+ DOCS HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831972
+#EXTINF:-1 tvg-name="[FR] MY CUISINE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MYCUISINE-1.png" group-title="FR DOCUMENTAIRE | TV",[FR] MY CUISINE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831957
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="[FR] PLANETE+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANETE-1.png" group-title="FR DOCUMENTAIRE | TV",[FR] PLANETE+ HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831951
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="[FR] PLANETE+ CRIME HD" tvg-logo="http://logo.protv.cc/piconsnew/planetepluscrime.png" group-title="FR DOCUMENTAIRE | TV",[FR] PLANETE+ CRIME HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831950
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="[FR] PLANETE+ AVENTURE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANETE-AVENTURE.png" group-title="FR DOCUMENTAIRE | TV",[FR] PLANETE+ AVENTURE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831949
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="[FR] DISCOVERY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/DISCOVERYCHANNELHD.png" group-title="FR DOCUMENTAIRE | TV",[FR] DISCOVERY CHANNEL HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831948
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="[FR] DISCOVERY SCIENCE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Discovery_Science_-_Logo_2017.svg.png" group-title="FR DOCUMENTAIRE | TV",[FR] DISCOVERY SCIENCE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831947
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="[FR] DISCOVERY ID HD" tvg-logo="http://logo.protv.cc/picons/logos/france/InvestigationDiscovery.png" group-title="FR DOCUMENTAIRE | TV",[FR] DISCOVERY ID HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831946
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="[FR] NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATGEOWILDHD.png" group-title="FR DOCUMENTAIRE | TV",[FR] NAT GEO WILD HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831945
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="[FR] NATIONAL GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="FR DOCUMENTAIRE | TV",[FR] NATIONAL GEO HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831944
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="[FR] USHUAIA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/USHUAIATV.png" group-title="FR DOCUMENTAIRE | TV",[FR] USHUAIA TV HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831943
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="[FR] TREK HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TREKFHD.png" group-title="FR DOCUMENTAIRE | TV",[FR] TREK HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831942
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="[FR] CHASSE & PECHE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CHASSEANDPECHE.png" group-title="FR DOCUMENTAIRE | TV",[FR] CHASSE & PECHE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831941
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="[FR] SEASONS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SEASONS.png" group-title="FR DOCUMENTAIRE | TV",[FR] SEASONS HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831940
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="[FR] ANIMAUX HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ANIMAUX.png" group-title="FR DOCUMENTAIRE | TV",[FR] ANIMAUX HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831939
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="[FR] SCIENCE & VIE TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SCIENCE-ET-VIE-TV-FR.png" group-title="FR DOCUMENTAIRE | TV",[FR] SCIENCE & VIE TV HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831938
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="[FR] TOUTE L'HISTOIRE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TOUTELHISTOIRE.png" group-title="FR DOCUMENTAIRE | TV",[FR] TOUTE L'HISTOIRE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831937
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="[FR] HISTOIRE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/HISTOIREHD.png" group-title="FR DOCUMENTAIRE | TV",[FR] HISTOIRE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831936
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="[FR] BEIN SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832068
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="[FR] BEIN SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832064
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="[FR] BEIN SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/bein-sportshd3.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS 3 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832060
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="[FR] CANAL+ FOOT FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplusfoot.png" group-title="FR SPORTS | TV",[FR] CANAL+ FOOT FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832106
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="[FR] RMC SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-1.png" group-title="FR SPORTS | TV",[FR] RMC SPORT 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832093
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="[FR] RMC SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-2.png" group-title="FR SPORTS | TV",[FR] RMC SPORT 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832090
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-3.png" group-title="FR SPORTS | TV",[FR] RMC SPORT 3 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832086
+#EXTINF:-1 tvg-name="[FR] RMC SPORT 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-Sport-4.png" group-title="FR SPORTS | TV",[FR] RMC SPORT 4 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832083
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="[FR] CANAL+ SPORT 360 FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplussport360.png" group-title="FR SPORTS | TV",[FR] CANAL+ SPORT 360 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832101
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="[FR] CANAL+ PREMIERE LEAGUE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-PREMIERE-LEAGUE.png" group-title="FR SPORTS | TV",[FR] CANAL+ PREMIERE LEAGUE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832098
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="[FR] CANAL+ FORMULA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/canalplusformula1.png" group-title="FR SPORTS | TV",[FR] CANAL+ FORMULA 1 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832097
+#EXTINF:-1 tvg-id="Motogp.fr" tvg-name="[FR] CANAL+ MOTO GP HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Canal_MotoGP.png" group-title="FR SPORTS | TV",[FR] CANAL+ MOTO GP HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832096
+#EXTINF:-1 tvg-name="[FR] CANAL+ TOP 14 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-TOP-14.png" group-title="FR SPORTS | TV",[FR] CANAL+ TOP 14 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832095
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="FR SPORTS | TV",[FR] DAZN 1 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1014208
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-name="[FR] SPORT EN FRANCE HD" tvg-logo="http://logo.protv.cc/picons/logos/france/Sport_en_France_Logo.png" group-title="FR SPORTS | TV",[FR] SPORT EN FRANCE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832133
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] AUTOMOTO FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/AUTOMOTO.png" group-title="FR SPORTS | TV",[FR] AUTOMOTO FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832132
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="[FR] EQUIDIA FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EQUIDIALIVEFHD.png" group-title="FR SPORTS | TV",[FR] EQUIDIA FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832129
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="[FR] L'EQUIPE 21 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/LEQUIPE21HD.png" group-title="FR SPORTS | TV",[FR] L'EQUIPE 21 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832126
+#EXTINF:-1 tvg-name="[FR] L'EQUIPE 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/L'EQUIPE-1.png" group-title="FR SPORTS | TV",[FR] L'EQUIPE 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1086998
+#EXTINF:-1 tvg-name="[FR] L'EQUIPE 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/L'EQUIPE-1.png" group-title="FR SPORTS | TV",[FR] L'EQUIPE 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1086999
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ FHD" tvg-logo="http://logo.protv.cc/piconsnew/infosportplus.png" group-title="FR SPORTS | TV",[FR] INFOSPORT+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832125
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="[FR] INFOSPORT+ H265" tvg-logo="http://logo.protv.cc/piconsnew/infosportplus.png" group-title="FR SPORTS | TV",[FR] INFOSPORT+ H265
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832124
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="[FR] GOLF+ FHD" tvg-logo="http://logo.protv.cc/piconsnew/golfplus.png" group-title="FR SPORTS | TV",[FR] GOLF+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832121
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="[FR] GOLF CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/Golf_Channel_Logo.png" group-title="FR SPORTS | TV",[FR] GOLF CHANNEL FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832118
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="[FR]  OL TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/OL-TV.png" group-title="FR SPORTS | TV",[FR]  OL TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1105897
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="[FR]  OL TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OL-TV.png" group-title="FR SPORTS | TV",[FR]  OL TV HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1105898
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[FR] EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT1HD.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832116
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[FR] EUROSPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/EUROSPORT2HD.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832112
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-1.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 1 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543422
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-2.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 2 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543423
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 3 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-3.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 3 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543424
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-4.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 4 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543425
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-5.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 5 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543426
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 6 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-6.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 6 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543427
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 7 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-7.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 7 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543428
+#EXTINF:-1 tvg-name="[FR] EUROSPORT 360 8 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/EUROSPORT-360-8.png" group-title="FR SPORTS | TV",[FR] EUROSPORT 360 8 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543429
+#EXTINF:-1 tvg-name="[FR] MOTORSPORT TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MOTORSPORT-TV-FR.jpeg" group-title="FR SPORTS | TV",[FR] MOTORSPORT TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832108
+#EXTINF:-1 tvg-name="[FR] EXTREME SPORTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/EXTREME-SPORTS-TV.png" group-title="FR SPORTS | TV",[FR] EXTREME SPORTS
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831999
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="[FR] RMC SPORT LIVE 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 5 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832080
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="[FR] RMC SPORT LIVE 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 5 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832079
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="[FR] RMC SPORT LIVE 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 6 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832078
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="[FR] RMC SPORT LIVE 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 6 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832077
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="[FR] RMC SPORT LIVE 7 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 7 FHD (ONLY ENVENT)
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832076
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="[FR] RMC SPORT LIVE 7 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 7 HD (ONLY ENVENT)
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832075
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="[FR] RMC SPORT LIVE 8 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 8 FHD (ONLY ENVENT)
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832074
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="[FR] RMC SPORT LIVE 8 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 8 HD (ONLY ENVENT)
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832073
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="[FR] RMC SPORT LIVE 9 FHD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 9 FHD (ONLY ENVENT)
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832072
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="[FR] RMC SPORT LIVE 9 HD (ONLY ENVENT)" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 9 HD (ONLY ENVENT)
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832071
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="[FR]  RMC SPORT LIVE 10 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR]  RMC SPORT LIVE 10 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832070
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="[FR] RMC SPORT LIVE 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR SPORTS | TV",[FR] RMC SPORT LIVE 10 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832069
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX4.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS MAX 4 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832055
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX5.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS MAX 5 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832053
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX6.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS MAX 6 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832051
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 7 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX7.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS MAX 7 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832049
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 8 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX8.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS MAX 8 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832047
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/BEINMAX9.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS MAX 9 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832045
+#EXTINF:-1 tvg-name="[FR] BEIN SPORTS MAX 10 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BEIN-SPORTS-MAX-10.png" group-title="FR SPORTS | TV",[FR] BEIN SPORTS MAX 10 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832043
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 MULTIPLEX" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 MULTIPLEX
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832040
+#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832039
+#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR]  LIGUE 1 PRIME 1 ( VENDREDI MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR]  LIGUE 1 PRIME 1 ( VENDREDI MATCH ) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832038
+#EXTINF:-1 tvg-id="PrimeVideoLigue1.fr" tvg-name="[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 1 ( VENDREDI MATCH ) SD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832037
+#EXTINF:-1 tvg-id="PrimeVideoLigue2.fr" tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832036
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832035
+#EXTINF:-1 tvg-id="PrimeVideoLigue2.fr" tvg-name="[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 2 ( SAMEDI MATCH ) SD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832034
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832033
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832032
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 3 ( DIMANCHE 1er MATCH ) SD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832031
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832030
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832029
+#EXTINF:-1 tvg-name="[FR]  LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR]  LIGUE 1 PRIME 4 ( DIMANCHE 2eme MATCH) SD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832028
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832027
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832026
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 5 ( DIMANCHE 3ème MATCH ) SD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832025
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832024
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 6 ( DIMANCHE 4ème MATCH ) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832023
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832022
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 7 ( DIMANCHE 5ème MATCH ) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832021
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832020
+#EXTINF:-1 tvg-name="[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIGUE-1-FR-TV.png" group-title="FR SPORTS | TV",[FR] LIGUE 1 PRIME 8 ( DIMANCHE MATCH DE SOIREE) HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832019
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 1 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832017
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 2" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 2
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832016
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 3" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 3
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832015
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 4" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 4
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832014
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 5" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 5
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832013
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 6" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 6
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832012
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 7" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 7
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832011
+#EXTINF:-1 tvg-name="[FR] LIGUE 2 PRIME 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/prime_ligue2.png" group-title="FR SPORTS | TV",[FR] LIGUE 2 PRIME 8 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832010
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="[FR] MULTISPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832008
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="[FR] MULTISPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 2 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832006
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="[FR] MULTISPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 3 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832005
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="[FR] MULTISPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 4 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832004
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="[FR] MULTISPORTS 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 5 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832003
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="[FR] MULTISPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 5 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832002
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="[FR] MULTISPORTS 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 6 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832001
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="[FR] MULTISPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/MULTI-SPORT.png" group-title="FR SPORTS | TV",[FR] MULTISPORTS 6 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832000
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="[FR] SKWEEK 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 1 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963493
+#EXTINF:-1 tvg-name="[FR] SKWEEK 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 2 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963494
+#EXTINF:-1 tvg-name="[FR] SKWEEK 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 3 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963495
+#EXTINF:-1 tvg-name="[FR] SKWEEK 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 4 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963496
+#EXTINF:-1 tvg-name="[FR] SKWEEK 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 5 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963497
+#EXTINF:-1 tvg-name="[FR] SKWEEK 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 6 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963498
+#EXTINF:-1 tvg-name="[FR] SKWEEK 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 7 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963499
+#EXTINF:-1 tvg-name="[FR] SKWEEK 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SKWEEK-2-HD.png" group-title="FR SPORTS | TV",[FR] SKWEEK 8 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/963500
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="[FR] WARNER TV HD" tvg-logo="http://logo.protv.cc/picons/logos/france/WARNER.png" group-title="FR CINEMA | TV",[FR] WARNER TV HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831968
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="[FR] SYFY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/SYFYHD.png" group-title="FR CINEMA | TV",[FR] SYFY HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831959
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="[FR] E! HD" tvg-logo="http://logo.protv.cc/picons/logos/france/e-entertainment-television.png" group-title="FR CINEMA | TV",[FR] E! HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831952
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-CINEMA-HEVC.png" group-title="FR CINEMA | TV",[FR] CANAL+ CINEMA HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831975
+#EXTINF:-1 tvg-name="[FR] CANAL+ BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-BOX-OFFICE.png" group-title="FR CINEMA | TV",[FR] CANAL+ BOX OFFICE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832223
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-KIDS.png" group-title="FR CINEMA | TV",[FR] CANAL+ KIDS HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831974
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="[FR] CANAL+ SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/france/canal_series.png" group-title="FR CINEMA | TV",[FR] CANAL+ SERIES HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831973
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="[FR] CINE+ PREMIER HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEPREMIER.png" group-title="FR CINEMA | TV",[FR] CINE+ PREMIER HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831876
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="[FR] CINE+ FRISSON HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFRISSON.png" group-title="FR CINEMA | TV",[FR] CINE+ FRISSON HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831874
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="[FR] CINE+ EMOTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEEMOTION.png" group-title="FR CINEMA | TV",[FR] CINE+ EMOTION HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831872
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="[FR] CINE+ FAMIZ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINEFAMIZ.png" group-title="FR CINEMA | TV",[FR] CINE+ FAMIZ HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831870
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="[FR] CINE+ CLUB HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLUB.png" group-title="FR CINEMA | TV",[FR] CINE+ CLUB HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831868
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="[FR] CINE+ CLASSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/CINECLASSIC.png" group-title="FR CINEMA | TV",[FR] CINE+ CLASSIC HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831866
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="[FR] OCS MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_Max.svg.png" group-title="FR CINEMA | TV",[FR] OCS MAX HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831864
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="[FR] OCS CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_City.svg.png" group-title="FR CINEMA | TV",[FR] OCS CITY HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831862
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="[FR] OCS CHOC HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS-CHOC-logo-1.png" group-title="FR CINEMA | TV",[FR] OCS CHOC HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831860
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="[FR] OCS GEANTS HD" tvg-logo="http://logo.protv.cc/picons/logos/france/OCS_geants.png" group-title="FR CINEMA | TV",[FR] OCS GEANTS HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831858
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="[FR] TCM CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/france/TCMCINEMATV.png" group-title="FR CINEMA | TV",[FR] TCM CINEMA HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831856
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="[FR] PARAMOUNT CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/france/PARAMOUNTCHANNEL.png" group-title="FR CINEMA | TV",[FR] PARAMOUNT CHANNEL HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831854
+#EXTINF:-1 tvg-name="[FR] PARAMOUNT DECALE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PARAMOUNT-DECALE.png" group-title="FR CINEMA | TV",[FR] PARAMOUNT DECALE HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831852
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="[FR] ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ACTIONHD-1.png" group-title="FR CINEMA | TV",[FR] ACTION HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831850
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="[FR] ALTICE STUDIO HD" tvg-logo="http://logo.protv.cc/picons/logos/france/ALTICESTUDIO.png" group-title="FR CINEMA | TV",[FR] ALTICE STUDIO HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831848
+#EXTINF:-1 tvg-id="Polar.fr" tvg-name="[FR] POLAR+ HD" tvg-logo="http://logo.protv.cc/picons/logos/france/POLAR.png" group-title="FR CINEMA | TV",[FR] POLAR+ HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/831846
