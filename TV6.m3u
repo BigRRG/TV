@@ -105,6 +105,8 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/987835
 http://lion4.linkott.com:80/852762995/ZpkJ4512/987834
 #EXTINF:-1 tvg-id="AL Wataniya UHD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="قنوات عربية",AL Wataniya UHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
+#EXTINF:-1 tvg-id="AL Wataniya HD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="قنوات عربية",AL Wataniya HD
+http://live.watania1.tn:1935/live/watanya1.stream/chunklist_w1911898418.m3u8
 #EXTINF:-1 tvg-name="NATIOANL GEO ABU DHABI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/abudhabinatgeo.png" group-title="قنوات عربية",NATIOANL GEO ABU DHABI UHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257321
 #EXTINF:-1 tvg-name="[GBX] MBC MASR 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mbcmasr.png" group-title="قنوات عربية",[GBX] MBC MASR 1 UHD
@@ -185,6 +187,8 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/377651
 http://lion4.linkott.com:80/852762995/ZpkJ4512/377587
 #EXTINF:-1 tvg-id="AL Wataniya UHD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="تونس",AL Wataniya UHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
+#EXTINF:-1 tvg-id="AL Wataniya HD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="تونس",AL Wataniya HD
+http://live.watania1.tn:1935/live/watanya1.stream/chunklist_w1911898418.m3u8
 #EXTINF:-1 tvg-id="AL Wataniya SD" tvg-name="[TN] TUNISIA NATIONAL 1" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TUNISIANATIONAL1TV-1.png" group-title="تونس",AL Wataniya SD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249863
 #EXTINF:-1 tvg-name="[TN] TUNISIA NATIONAL 2" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TUNISIANATIONAL2TV-1.png" group-title="تونس",[TN] TUNISIA NATIONAL 2
