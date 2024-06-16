@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 " tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS1.png" group-title="BEIN SPORTS ",BEIN SPORTS 1 
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-1.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1114448
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-2.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1114452
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 " tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS1.png" group-title="BEIN SPORTS ",BEIN SPORTS 1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1016907
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS2.png" group-title="BEIN SPORTS ",BEIN SPORTS 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1016908
@@ -17,10 +21,6 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/1016913
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1016914
 #EXTINF:-1 tvg-name="BEIN SPORTS 9" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORTS ",BEIN SPORTS 9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1016915
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-1.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 1 FHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1114448
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-2.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 2 FHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1114452
 #EXTINF:-1 tvg-name="BEIN SPORTS XTRA1 " tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-XTRA1.png" group-title="BEIN SPORTS ",BEIN SPORTS XTRA1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1016918
 #EXTINF:-1 tvg-name="BEIN SPORTS XTRA 2 " tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS-XTRA2.png" group-title="BEIN SPORTS ",BEIN SPORTS XTRA 2
