@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-1.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 1 
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-1.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1114448
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-2.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 2 
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/BEIN-SPORTS-MAX-2.png" group-title="BEIN SPORTS ",BEIN SPORTS MAX 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1114452
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 " tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS1.png" group-title="BEIN SPORTS ",BEIN SPORTS 1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1016907
@@ -103,7 +103,7 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/987836
 http://lion4.linkott.com:80/852762995/ZpkJ4512/987835
 #EXTINF:-1 tvg-name="BEIN SPORTS XTRA 3 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-xtra-3.png" group-title="BEIN SPORTS ",BEIN SPORTS XTRA 3 UHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/987834
-#EXTINF:-1 tvg-id="AL Wataniya" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="قنوات عربية",AL Wataniya
+#EXTINF:-1 tvg-id="AL Wataniya" tvg-name="TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="قنوات عربية",AL Wataniya
 http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
 #EXTINF:-1 tvg-name="NATIOANL GEO ABU DHABI" tvg-logo="http://logo.protv.cc/picons-dino/logos/abudhabinatgeo.png" group-title="قنوات عربية",NATIOANL GEO ABU DHABI
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257321
