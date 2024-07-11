@@ -105,90 +105,80 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/987835
 http://lion4.linkott.com:80/852762995/ZpkJ4512/987834
 #EXTINF:-1 tvg-id="AL Wataniya UHD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="قنوات عربية",AL Wataniya UHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
-#EXTINF:-1 tvg-id="AL Wataniya HD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="قنوات عربية",AL Wataniya HD
-http://live.watania1.tn:1935/live/watanya1.stream/chunklist_w1911898418.m3u8
-#EXTINF:-1 tvg-name="NATIOANL GEO ABU DHABI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/abudhabinatgeo.png" group-title="قنوات عربية",NATIOANL GEO ABU DHABI UHD
+#EXTINF:-1 tvg-name="NATIOANL GEO ABU DHABI" tvg-logo="http://logo.protv.cc/picons-dino/logos/abudhabinatgeo.png" group-title="قنوات عربية",NATIOANL GEO ABU DHABI
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257321
-#EXTINF:-1 tvg-name="[GBX] MBC MASR 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mbcmasr.png" group-title="قنوات عربية",[GBX] MBC MASR 1 UHD
+#EXTINF:-1 tvg-name="MASR 1 " tvg-logo="http://logo.protv.cc/picons-dino/logos/mbcmasr.png" group-title="قنوات عربية",MASR 1 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/602731
-#EXTINF:-1 tvg-name="[GBX] MBC MASR 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mbcmasr2.png" group-title="قنوات عربية",[GBX] MBC MASR 2 UHD
+#EXTINF:-1 tvg-name="MASR 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/mbcmasr2.png" group-title="قنوات عربية",MASR 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/602729
-#EXTINF:-1 tvg-id="MBCMaxEn.ae" tvg-name="[AR] MBC MAX UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCMAX-.png" group-title="قنوات عربية",[AR] MBC MAX UHD
+#EXTINF:-1 tvg-id="MBC1En.ae" tvg-name="MBC 1" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC1-1.png" group-title="قنوات عربية",MBC 1
+http://lion4.linkott.com:80/852762995/ZpkJ4512/457188
+#EXTINF:-1 tvg-id="MBC2En.ae" tvg-name="MBC 2" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC2-1.png" group-title="قنوات عربية",MBC 2
+http://lion4.linkott.com:80/852762995/ZpkJ4512/457187
+#EXTINF:-1 tvg-id="MBCMaxEn.ae" tvg-name="MBC MAX" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCMAX-.png" group-title="قنوات عربية",MBC MAX
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457181
-#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="[AR] ABU DHABI EMARAT" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ABUDHABI-EMARAT.png" group-title="قنوات عربية",[AR] ABU DHABI EMARAT
+#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="ABU DHABI EMARAT" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ABUDHABI-EMARAT.png" group-title="قنوات عربية",ABU DHABI EMARAT
 http://lion4.linkott.com:80/852762995/ZpkJ4512/767895
-#EXTINF:-1 tvg-name="[AE] DUBAI ONE " tvg-logo="http://logo.protv.cc/picons-dino/logos/DUBAI-ONE-NP.png" group-title="قنوات عربية",[AE] DUBAI ONE 
+#EXTINF:-1 tvg-name="DUBAI ONE " tvg-logo="http://logo.protv.cc/picons-dino/logos/DUBAI-ONE-NP.png" group-title="قنوات عربية",DUBAI ONE 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257316
-#EXTINF:-1 tvg-name="[AE] ABU DHABI TV HD " tvg-logo="http://logo.protv.cc/picons-dino/logos/ABU-DHABI-TV-NP.png" group-title="قنوات عربية",[AE] ABU DHABI TV HD 
+#EXTINF:-1 tvg-name="ABU DHABI TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ABU-DHABI-TV-NP.png" group-title="قنوات عربية",ABU DHABI TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257318
-#EXTINF:-1 tvg-name="[AE] DUBAI TV HD " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DUBAI-TV.png" group-title="قنوات عربية",[AE] DUBAI TV HD
+#EXTINF:-1 tvg-name="DUBAI TV" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DUBAI-TV.png" group-title="قنوات عربية",DUBAI TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257313
 #EXTINF:-1 tvg-name="SAMA DUBAI" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/SAMA-DUBAI.png" group-title="قنوات عربية",SAMA DUBAI
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257314
-#EXTINF:-1 tvg-name="[AR] QATAR TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartv.png" group-title="قنوات عربية",[AR] QATAR TV
+#EXTINF:-1 tvg-name="QATAR TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartv.png" group-title="قنوات عربية",QATAR TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/665321
-#EXTINF:-1 tvg-name="[AR] QATAR 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartv2.png" group-title="قنوات عربية",[AR] QATAR 2 UHD
+#EXTINF:-1 tvg-name="QATAR 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartv2.png" group-title="قنوات عربية",QATAR 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/665322
-#EXTINF:-1 tvg-name="[AR] RAYYAN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyan.png" group-title="قنوات عربية",[AR] RAYYAN UHD
+#EXTINF:-1 tvg-name="RAYYAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyan.png" group-title="قنوات عربية",RAYYAN
 http://lion4.linkott.com:80/852762995/ZpkJ4512/665325
 #EXTINF:-1 tvg-name="AL ARABY 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/alaraby2.png" group-title="قنوات عربية",AL ARABY 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/683164
-#EXTINF:-1 tvg-name="[AR] QATAR TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatartvhd.png" group-title="قنوات عربية",[AR] QATAR TV UHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/570339
-#EXTINF:-1 tvg-name="[AR] QATAR 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/qatar2.png" group-title="قنوات عربية",[AR] QATAR 2 UHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/570338
-#EXTINF:-1 tvg-name="[EG] DMC FHD " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="قنوات عربية",[EG] DMC FHD 
+#EXTINF:-1 tvg-name="DMC " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="قنوات عربية",DMC 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/620242
-#EXTINF:-1 tvg-name="[EG] DMC DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="قنوات عربية",[EG] DMC DRAMA
+#EXTINF:-1 tvg-name="DMC DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/DMC.png" group-title="قنوات عربية",DMC DRAMA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/620243
-#EXTINF:-1 tvg-id="MBC1En.ae" tvg-name="[AR] MBC 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC1-1.png" group-title="قنوات عربية",[AR] MBC 1 UHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/457188
-#EXTINF:-1 tvg-id="MBC2En.ae" tvg-name="[AR] MBC 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC2-1.png" group-title="قنوات عربية",[AR] MBC 2 UHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/457187
-#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="[AR] MBC 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC4-1.png" group-title="قنوات عربية",[AR] MBC 4 UHD
+#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="MBC 4 " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC4-1.png" group-title="قنوات عربية",MBC 4 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457185
-#EXTINF:-1 tvg-id="MBC5En.ae" tvg-name="[AR] MBC 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC5-1.png" group-title="قنوات عربية",[AR] MBC 5 UHD
+#EXTINF:-1 tvg-id="MBC5En.ae" tvg-name="MBC 5" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC5-1.png" group-title="قنوات عربية",MBC 5
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457184
-#EXTINF:-1 tvg-name="[AR] MBC ELIFE" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCELIFE.png" group-title="قنوات عربية",[AR] MBC ELIFE
+#EXTINF:-1 tvg-name="MBC ELIFE" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCELIFE.png" group-title="قنوات عربية",MBC ELIFE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/657001
-#EXTINF:-1 tvg-name="[AR] MBC+ POWER UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC+POWER.png" group-title="قنوات عربية",[AR] MBC+ POWER UHD
+#EXTINF:-1 tvg-name="MBC+ POWER" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC+POWER.png" group-title="قنوات عربية",MBC+ POWER
 http://lion4.linkott.com:80/852762995/ZpkJ4512/588347
-#EXTINF:-1 tvg-name="[AR] MBC+ POWER SPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC+POWER.png" group-title="قنوات عربية",[AR] MBC+ POWER SPORT UHD
+#EXTINF:-1 tvg-name="MBC+ POWER SPORT" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC+POWER.png" group-title="قنوات عربية",MBC+ POWER SPORT
 http://lion4.linkott.com:80/852762995/ZpkJ4512/593517
-#EXTINF:-1 tvg-id="MBCActionEn.sa" tvg-name="[AR] MBC ACTION UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCACTION-1.png" group-title="قنوات عربية",[AR] MBC ACTION UHD
+#EXTINF:-1 tvg-id="MBCActionEn.sa" tvg-name="MBC ACTION" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCACTION-1.png" group-title="قنوات عربية",MBC ACTION
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457180
-#EXTINF:-1 tvg-id="MBCBollywoodEn.sa" tvg-name="[AR] MBC BOLLYWOOD UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCBOLLYWOOD-1.png" group-title="قنوات عربية",[AR] MBC BOLLYWOOD UHD
+#EXTINF:-1 tvg-id="MBCBollywoodEn.sa" tvg-name="MBC BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCBOLLYWOOD-1.png" group-title="قنوات عربية",MBC BOLLYWOOD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457179
-#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="[AR] MBC DRAMA UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCDRAMA-1.png" group-title="قنوات عربية",[AR] MBC DRAMA UHD
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="MBC DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCDRAMA-1.png" group-title="قنوات عربية",MBC DRAMA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457183
-#EXTINF:-1 tvg-id="MBCDramaPlusEn.ae" tvg-name="[AR] MBC DRAMA PLUS UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCDRAMAPLUSHD-1.png" group-title="قنوات عربية",[AR] MBC DRAMA PLUS UHD
+#EXTINF:-1 tvg-id="MBCDramaPlusEn.ae" tvg-name="MBC DRAMA PLUS" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCDRAMAPLUSHD-1.png" group-title="قنوات عربية",MBC DRAMA PLUS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457182
-#EXTINF:-1 tvg-name="[AR] MBC FM UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/mbc-fm.png" group-title="قنوات عربية",[AR] MBC FM UHD
+#EXTINF:-1 tvg-name="MBC FM" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/mbc-fm.png" group-title="قنوات عربية",MBC FM
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457173
-#EXTINF:-1 tvg-id="MBCIraqEn.iq" tvg-name="[AR] MBC IRAQ UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCIRAQ-1.png" group-title="قنوات عربية",[AR] MBC IRAQ UHD
+#EXTINF:-1 tvg-id="MBCIraqEn.iq" tvg-name="MBC IRAQ" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBCIRAQ-1.png" group-title="قنوات عربية",MBC IRAQ
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457178
-#EXTINF:-1 tvg-name="[AR] MBC PANORAMA FM UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/Panorama-fm.png" group-title="قنوات عربية",[AR] MBC PANORAMA FM UHD
+#EXTINF:-1 tvg-name="MBC PANORAMA FM" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/Panorama-fm.png" group-title="قنوات عربية",MBC PANORAMA FM
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457174
-#EXTINF:-1 tvg-name="[AR] MBC VARIETY PLUS UHD" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC-Variety-HD.png" group-title="قنوات عربية",[AR] MBC VARIETY PLUS UHD
+#EXTINF:-1 tvg-name="MBC VARIETY PLUS" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/MBC-Variety-HD.png" group-title="قنوات عربية",MBC VARIETY PLUS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/556858
-#EXTINF:-1 tvg-name="[AR] MBC PERSIA UHD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/MBC_Persia.png" group-title="قنوات عربية",[AR] MBC PERSIA UHD
+#EXTINF:-1 tvg-name="MBC PERSIA" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/MBC_Persia.png" group-title="قنوات عربية",MBC PERSIA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/457175
-#EXTINF:-1 tvg-name="[AR] AJMAN TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ajman.jpeg" group-title="قنوات عربية",[AR] AJMAN TV UHD
+#EXTINF:-1 tvg-name="AJMAN TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ajman.jpeg" group-title="قنوات عربية",AJMAN TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257749
-#EXTINF:-1 tvg-name="[AR] RAYYAN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyan.png" group-title="قنوات عربية",[AR] RAYYAN UHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/570335
-#EXTINF:-1 tvg-name="[AR] AL RAYYAN AL QADEEM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyanalqadeem.png" group-title="قنوات عربية",[AR] AL RAYYAN AL QADEEM UHD
+#EXTINF:-1 tvg-name="AL RAYYAN AL QADEEM" tvg-logo="http://logo.protv.cc/picons-dino/logos/alrayyanalqadeem.png" group-title="قنوات عربية",AL RAYYAN AL QADEEM
 http://lion4.linkott.com:80/852762995/ZpkJ4512/570334
-#EXTINF:-1 tvg-name="[AR] IQRAA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/iqraa.png" group-title="قنوات عربية",[AR] IQRAA TV
+#EXTINF:-1 tvg-name="IQRAA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/iqraa.png" group-title="قنوات عربية",IQRAA TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/377592
-#EXTINF:-1 tvg-name="[AR] ALWAQIE TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ALWAQIE-TV.jpeg" group-title="قنوات عربية",[AR] ALWAQIE TV
+#EXTINF:-1 tvg-name="ALWAQIE TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ALWAQIE-TV.jpeg" group-title="قنوات عربية",ALWAQIE TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/377651
-#EXTINF:-1 tvg-name="[AR] AL ITHAD" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-ITHAD.jpg" group-title="قنوات عربية",[AR] AL ITHAD
+#EXTINF:-1 tvg-name="AL ITHAD" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-ITHAD.jpg" group-title="قنوات عربية",AL ITHAD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/377587
 #EXTINF:-1 tvg-id="AL Wataniya UHD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="تونس",AL Wataniya UHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
-#EXTINF:-1 tvg-id="AL Wataniya HD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="تونس",AL Wataniya HD
-http://live.watania1.tn:1935/live/watanya1.stream/chunklist_w1911898418.m3u8
 #EXTINF:-1 tvg-id="AL Wataniya SD" tvg-name="[TN] TUNISIA NATIONAL 1" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TUNISIANATIONAL1TV-1.png" group-title="تونس",AL Wataniya SD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249863
 #EXTINF:-1 tvg-name="[TN] TUNISIA NATIONAL 2" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TUNISIANATIONAL2TV-1.png" group-title="تونس",[TN] TUNISIA NATIONAL 2
