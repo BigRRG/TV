@@ -2137,15 +2137,15 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/820874
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820865
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://logo.protv.cc/picons/logos/france/W9.png" group-title="France TV",W9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="[FR] TMC FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TMC-1.png" group-title="France TV",[FR] TMC FHD
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="http://logo.protv.cc/picons/logos/france/TMC-1.png" group-title="France TV",TMC
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820870
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="[FR] TFX FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TFX.png" group-title="France TV",[FR] TFX FHD
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX " tvg-logo="http://logo.protv.cc/picons/logos/france/TFX.png" group-title="France TV",TFX 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820869
-#EXTINF:-1 tvg-name="[FR] RTL9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RTL9.png" group-title="France TV",[FR] RTL9 FHD
+#EXTINF:-1 tvg-name="RTL9 " tvg-logo="http://logo.protv.cc/picons/logos/france/RTL9.png" group-title="France TV",RTL9 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820821
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="[FR] NRJ 12 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/NRJ12_2005.png" group-title="France TV",[FR] NRJ 12 FHD
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12" tvg-logo="http://logo.protv.cc/picons/logos/france/NRJ12_2005.png" group-title="France TV",NRJ 12
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820868
-#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="[FR] 13EME RUE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/13-EME-RUE.png" group-title="France TV",[FR] 13EME RUE FHD
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="13EME RUE" tvg-logo="http://logo.protv.cc/picons/logos/france/13-EME-RUE.png" group-title="France TV",13EME RUE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820835
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="[FR] TF1 SERIES FILMS FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1_SERIE.png" group-title="France TV",[FR] TF1 SERIES FILMS FHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820867
