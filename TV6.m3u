@@ -2147,17 +2147,17 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/820821
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820868
 #EXTINF:-1 tvg-id="13Rue.fr" tvg-name="13EME RUE" tvg-logo="http://logo.protv.cc/picons/logos/france/13-EME-RUE.png" group-title="France TV",13EME RUE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820835
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="[FR] TF1 SERIES FILMS FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1_SERIE.png" group-title="France TV",[FR] TF1 SERIES FILMS FHD
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1_SERIE.png" group-title="France TV",TF1 SERIES FILMS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820867
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="[FR] CSTAR FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/C-STAR.png" group-title="France TV",[FR] CSTAR FHD
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="http://logo.protv.cc/picons/logos/france/C-STAR.png" group-title="France TV",CSTAR
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820864
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="[FR] C8 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/C8.jpg" group-title="France TV",[FR] C8 FHD
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="http://logo.protv.cc/picons/logos/france/C8.jpg" group-title="France TV",C8
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820872
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="[FR] CANAL+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-FHD.png" group-title="France TV",[FR] CANAL+ FHD
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-FHD.png" group-title="France TV",CANAL+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820858
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="[FR] CANAL + DOCS FHD" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdocs.png" group-title="France TV",[FR] CANAL + DOCS FHD
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL + DOCS" tvg-logo="http://logo.protv.cc/piconsnew/canalplusdocs.png" group-title="France TV",CANAL + DOCS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820811
-#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="[FR] PLANETE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANETE-1.png" group-title="France TV",[FR] PLANETE+ FHD
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="PLANETE+" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANETE-1.png" group-title="France TV",PLANETE+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820810
 #EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="[FR] PLANETE+ CRIME FHD" tvg-logo="http://logo.protv.cc/piconsnew/planetepluscrime.png" group-title="France TV",[FR] PLANETE+ CRIME FHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820809
