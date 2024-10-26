@@ -175,8 +175,6 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/377651
 http://lion4.linkott.com:80/852762995/ZpkJ4512/377587
 #EXTINF:-1 tvg-id="AL Wataniya UHD" tvg-name="[TN] TUNISIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="تونس",AL Wataniya UHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
-#EXTINF:-1 tvg-id="AL Wataniya SD" tvg-name="[TN] TUNISIA NATIONAL 1" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TUNISIANATIONAL1TV-1.png" group-title="تونس",AL Wataniya SD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/249863
 #EXTINF:-1 tvg-name="[TN] TUNISIA NATIONAL 2" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TUNISIANATIONAL2TV-1.png" group-title="تونس",[TN] TUNISIA NATIONAL 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249864
 #EXTINF:-1 tvg-id="ElhiwarEttounsi.tn" tvg-name="[TN] AL HIWAR ETTOUNSI" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/ALHIWARETTOUNSITV-1.png" group-title="تونس",[TN] AL HIWAR ETTOUNSI
@@ -2117,25 +2115,27 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/1006904
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1006901
 #EXTINF:-1 tvg-name="[AR] TOM HANKS MOVIES+" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TOM-HANKS.png" group-title="عرب Live VOD",[AR] TOM HANKS MOVIES+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1006902
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="[FR] TF1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1.png" group-title="France TV",[FR] TF1 FHD
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1.png" group-title="France TV",TF1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820880
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="[FR] FRANCE 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE2FHD.png" group-title="France TV",[FR] FRANCE 2 FHD
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE2FHD.png" group-title="France TV",FRANCE 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820878
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="[FR] RMC STORY FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCSTORYFHD.png" group-title="France TV",[FR] RMC STORY FHD
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE3FHD.png" group-title="France TV",FRANCE 3
+http://lion4.linkott.com:80/852762995/ZpkJ4512/820877
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY " tvg-logo="http://logo.protv.cc/picons/logos/france/RMCSTORYFHD.png" group-title="France TV",RMC STORY 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820862
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="[FR] RMC DECOUVERTE FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCDECOUVERTEHD.png" group-title="France TV",[FR] RMC DECOUVERTE FHD
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC DECOUVERTE" tvg-logo="http://logo.protv.cc/picons/logos/france/RMCDECOUVERTEHD.png" group-title="France TV",RMC DECOUVERTE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820801
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="[FR] NAT GEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="France TV",[FR] NAT GEO FHD
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="NAT GEO" tvg-logo="http://logo.protv.cc/picons/logos/france/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="France TV",NAT GEO
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820803
-#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="[FR] NAT GEO WILD FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATGEOWILDHD.png" group-title="France TV",[FR] NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD" tvg-logo="http://logo.protv.cc/picons/logos/france/NATGEOWILDHD.png" group-title="France TV",NAT GEO WILD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820802
-#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="[FR] CRIME DISTRICT FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CRIMEDISTRICTHD-1.png" group-title="France TV",[FR] CRIME DISTRICT FHD
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="http://logo.protv.cc/picons/logos/france/CRIMEDISTRICTHD-1.png" group-title="France TV",CRIME DISTRICT
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820804
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="[FR] M6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/M6.png" group-title="France TV",[FR] M6 FHD
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://logo.protv.cc/picons/logos/france/M6.png" group-title="France TV",M6
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820874
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="[FR] 6TER FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/6TER.png" group-title="France TV",[FR] 6TER FHD
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER" tvg-logo="http://logo.protv.cc/picons/logos/france/6TER.png" group-title="France TV",6TER
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820865
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="[FR] W9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/W9.png" group-title="France TV",[FR] W9 FHD
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://logo.protv.cc/picons/logos/france/W9.png" group-title="France TV",W9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="[FR] TMC FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/TMC-1.png" group-title="France TV",[FR] TMC FHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820870
