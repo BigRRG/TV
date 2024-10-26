@@ -2141,7 +2141,7 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820870
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX " tvg-logo="http://logo.protv.cc/picons/logos/france/TFX.png" group-title="France TV",TFX 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820869
-#EXTINF:-1 tvg-name="RTL 9 " tvg-logo="http://logo.protv.cc/picons/logos/france/RTL9.png" group-title="France TV",RTL 9 
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL 9 " tvg-logo="http://logo.protv.cc/picons/logos/france/RTL9.png" group-title="France TV",RTL 9 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820821
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12" tvg-logo="http://logo.protv.cc/picons/logos/france/NRJ12_2005.png" group-title="France TV",NRJ 12
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820868
@@ -2215,8 +2215,6 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/820827
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820873
 #EXTINF:-1 tvg-name="[FR] STAR ACADEMY 2022" tvg-logo="http://logo.protv.cc/picons-dino/logos/STARACADEMY-FR-TV.png" group-title="France TV",[FR] STAR ACADEMY 2022
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820879
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="[FR] CANAL+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL-FHD.png" group-title="France TV",[FR] CANAL+ FHD
-http://lion4.linkott.com:80/852762995/ZpkJ4512/820858
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="[FR] CANAL+ CINEMA FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-CINEMA-HEVC.png" group-title="France TV",[FR] CANAL+ CINEMA FHD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820857
 #EXTINF:-1 tvg-name="[FR] CANAL+ BOX OFFICE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-BOX-OFFICE.png" group-title="France TV",[FR] CANAL+ BOX OFFICE FHD
