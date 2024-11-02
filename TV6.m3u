@@ -2441,123 +2441,47 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/832071
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832070
 #EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="[FR] RMC SPORT LIVE 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV",[FR] RMC SPORT LIVE 10 HD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832069
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS FHD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="Dessin Animé",[FR] CANAL+ KIDS FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832196.m3u8
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS HD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="Dessin Animé",[FR] CANAL+ KIDS HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832195.m3u8
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS SD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="Dessin Animé",[FR] CANAL+ KIDS SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832194.m3u8
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI+ FHD" tvg-logo="http://103.176.90.118/piconsnew/piwiplus.png" group-title="Dessin Animé",[FR] PIWI+ FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832193.m3u8
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FCR] PIWI+ HD" tvg-logo="http://103.176.90.118/piconsnew/piwiplus.png" group-title="Dessin Animé",[FCR] PIWI+ HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832192.m3u8
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI+ SD" tvg-logo="http://103.176.90.118/piconsnew/piwiplus.png" group-title="Dessin Animé",[FR] PIWI+ SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832191.m3u8
-#EXTINF:-1 tvg-name="[FR] DUCK TV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/DUCK-TV-FR.jpeg" group-title="Dessin Animé",[FR] DUCK TV FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832190.m3u8
-#EXTINF:-1 tvg-name="[FR] DUCK TV SD" tvg-logo="http://103.176.90.118/picons-dino/logos/DUCK-TV-FR.jpeg" group-title="Dessin Animé",[FR] DUCK TV SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832188.m3u8
-#EXTINF:-1 tvg-name="[FR] GAME TOON FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="Dessin Animé",[FR] GAME TOON FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832187.m3u8
-#EXTINF:-1 tvg-name="[FR] GAME TOON SD" tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="Dessin Animé",[FR] GAME TOON SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832185.m3u8
-#EXTINF:-1 tvg-name="[FR] GAME ONE+1 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/GAME-ONE-1.png" group-title="Dessin Animé",[FR] GAME ONE+1 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832184.m3u8
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="Dessin Animé",[FR] GAME ONE FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832183.m3u8
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE HD" tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="Dessin Animé",[FR] GAME ONE HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832182.m3u8
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE SD" tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="Dessin Animé",[FR] GAME ONE SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832181.m3u8
-#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BABY TV HD" tvg-logo="http://103.176.90.118/picons-dino/logos/laz.babytv.png" group-title="Dessin Animé",[FR] BABY TV HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832180.m3u8
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="Dessin Animé",[FR] BOING FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832179.m3u8
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING HD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="Dessin Animé",[FR] BOING HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832178.m3u8
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING SD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="Dessin Animé",[FR] BOING SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832177.m3u8
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="Dessin Animé",[FR] BOOMERANG FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832176.m3u8
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG HD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="Dessin Animé",[FR] BOOMERANG HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832175.m3u8
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG SD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="Dessin Animé",[FR] BOOMERANG SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832174.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/CANAL-J-FR-TV.png" group-title="Dessin Animé",[FR] CANAL J FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832173.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CANAL-J-FR-TV.png" group-title="Dessin Animé",[FR] CANAL J HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832172.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J SD" tvg-logo="http://103.176.90.118/picons-dino/logos/CANAL-J-FR-TV.png" group-title="Dessin Animé",[FR] CANAL J SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832171.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="Dessin Animé",[FR] CARTOON NETWORK FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832170.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="Dessin Animé",[FR] CARTOON NETWORK HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832169.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK SD" tvg-logo="http://103.176.90.118/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="Dessin Animé",[FR] CARTOON NETWORK SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832168.m3u8
-#EXTINF:-1 tvg-name="[FR] DISNEY CHANNEL +1 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/DISNEY-CHANNEL-1.png" group-title="Dessin Animé",[FR] DISNEY CHANNEL +1 FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832167.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="Dessin Animé",[FR] DISNEY CHANNEL FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832166.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL HD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="Dessin Animé",[FR] DISNEY CHANNEL HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832165.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL SD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="Dessin Animé",[FR] DISNEY CHANNEL SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832164.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="Dessin Animé",[FR] DISNEY JUNIOR FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832163.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR HD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="Dessin Animé",[FR] DISNEY JUNIOR HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832162.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR SD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="Dessin Animé",[FR] DISNEY JUNIOR SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832161.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI FHD" tvg-logo="http://103.176.90.118/piconsnew/gulli.png" group-title="Dessin Animé",[FR] GULLI FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832160.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI HD" tvg-logo="http://103.176.90.118/piconsnew/gulli.png" group-title="Dessin Animé",[FR] GULLI HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832159.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI SD" tvg-logo="http://103.176.90.118/piconsnew/gulli.png" group-title="Dessin Animé",[FR] GULLI SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832158.m3u8
-#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/J-ONE-FR-TV.png" group-title="Dessin Animé",[FR] J-ONE FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832157.m3u8
-#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE HD" tvg-logo="http://103.176.90.118/picons-dino/logos/J-ONE-FR-TV.png" group-title="Dessin Animé",[FR] J-ONE HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832156.m3u8
-#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE SD" tvg-logo="http://103.176.90.118/picons-dino/logos/J-ONE-FR-TV.png" group-title="Dessin Animé",[FR] J-ONE SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832155.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/MANGAS-FR-TV.png" group-title="Dessin Animé",[FR] MANGAS FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832154.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS HD" tvg-logo="http://103.176.90.118/picons-dino/logos/MANGAS-FR-TV.png" group-title="Dessin Animé",[FR] MANGAS HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832153.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS SD" tvg-logo="http://103.176.90.118/picons-dino/logos/MANGAS-FR-TV.png" group-title="Dessin Animé",[FR] MANGAS SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832152.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="Dessin Animé",[FR] NICKELODEON FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832151.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON HD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="Dessin Animé",[FR] NICKELODEON HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832150.m3u8
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="Dessin Animé",[FR] NICKELODEON JUNIOR FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832149.m3u8
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR HD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="Dessin Animé",[FR] NICKELODEON JUNIOR HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832148.m3u8
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR SD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="Dessin Animé",[FR] NICKELODEON JUNIOR SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832147.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON SD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="Dessin Animé",[FR] NICKELODEON SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832146.m3u8
-#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="Dessin Animé",[FR] PITCHOUN TV FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832145.m3u8
-#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV HD" tvg-logo="http://103.176.90.118/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="Dessin Animé",[FR] PITCHOUN TV HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832144.m3u8
-#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV SD" tvg-logo="http://103.176.90.118/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="Dessin Animé",[FR] PITCHOUN TV SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832143.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/TIJI-FR-TV.png" group-title="Dessin Animé",[FR] TIJI FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832142.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI HD" tvg-logo="http://103.176.90.118/picons-dino/logos/TIJI-FR-TV.png" group-title="Dessin Animé",[FR] TIJI HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832141.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI SD" tvg-logo="http://103.176.90.118/picons-dino/logos/TIJI-FR-TV.png" group-title="Dessin Animé",[FR] TIJI SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832140.m3u8
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOONAMI-FR-TV.png" group-title="Dessin Animé",[FR] TOONAMI FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832139.m3u8
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI HD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOONAMI-FR-TV.png" group-title="Dessin Animé",[FR] TOONAMI HD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832138.m3u8
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI SD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOONAMI-FR-TV.png" group-title="Dessin Animé",[FR] TOONAMI SD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832137.m3u8
-#EXTINF:-1 tvg-name="[FR] Pyjamasques" tvg-logo="http://103.176.90.118/picons-dino/logos/Pyjamasques-FR-TV.png" group-title="Dessin Animé",[FR] Pyjamasques
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832136.m3u8
-#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BabyTV FHD" tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="Dessin Animé",[FR] BabyTV FHD
-http://line.lion-ott.com:80/live/852762995/ZpkJ4512/832135.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="[FR] CANAL+ KIDS FHD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="Kids TV",[FR] CANAL+ KIDS FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832196
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="[FR] CANAL J FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/CANAL-J-FR-TV.png" group-title="Kids TV",[FR] CANAL J FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832173
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="[FR] NICKELODEON FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="Kids TV",[FR] NICKELODEON FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832151
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="[FR] NICKELODEON JUNIOR FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="Kids TV",[FR] NICKELODEON JUNIOR FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832149
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="[FR] GAME ONE FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="Kids TV",[FR] GAME ONE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832183
+#EXTINF:-1 tvg-name="[FR] GAME TOON FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="Kids TV",[FR] GAME TOON FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832187
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="[FR] GULLI FHD" tvg-logo="http://103.176.90.118/piconsnew/gulli.png" group-title="Kids TV",[FR] GULLI FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832160
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="[FR] DISNEY CHANNEL FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="Kids TV",[FR] DISNEY CHANNEL FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832166
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="[FR] DISNEY JUNIOR FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="Kids TV",[FR] DISNEY JUNIOR FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832163
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="[FR] PIWI+ FHD" tvg-logo="http://103.176.90.118/piconsnew/piwiplus.png" group-title="Kids TV",[FR] PIWI+ FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832193
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="[FR] TIJI FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/TIJI-FR-TV.png" group-title="Kids TV",[FR] TIJI FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832142
+#EXTINF:-1 tvg-name="[FR] DUCK TV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/DUCK-TV-FR.jpeg" group-title="Kids TV",[FR] DUCK TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832190
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="Kids TV",[FR] BOING FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832179
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="[FR] BOING HD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="Kids TV",[FR] BOING HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832178
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="[FR] BOOMERANG FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="Kids TV",[FR] BOOMERANG FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832176
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="[FR] CARTOON NETWORK FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="Kids TV",[FR] CARTOON NETWORK FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832170
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name="[FR] J-ONE FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/J-ONE-FR-TV.png" group-title="Kids TV",[FR] J-ONE FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832157
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="[FR] MANGAS FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/MANGAS-FR-TV.png" group-title="Kids TV",[FR] MANGAS FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832154
+#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name="[FR] PITCHOUN TV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="Kids TV",[FR] PITCHOUN TV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832145
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="[FR] BabyTV FHD" tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="Kids TV",[FR] BabyTV FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832135
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="[FR] TOONAMI FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOONAMI-FR-TV.png" group-title="Kids TV",[FR] TOONAMI FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832139
+#EXTINF:-1 tvg-name="[FR] Pyjamasques" tvg-logo="http://103.176.90.118/picons-dino/logos/Pyjamasques-FR-TV.png" group-title="Kids TV",[FR] Pyjamasques
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832136
