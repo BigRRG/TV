@@ -217,16 +217,14 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/249869
 http://lion4.linkott.com:80/852762995/ZpkJ4512/788533
 #EXTINF:-1 tvg-name="[TN] IFMTV" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/IFMTV.png" group-title="تونس",[TN] IFMTV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/757617
-#EXTINF:-1 group-title=" الكأس",|AR.SPOR| AL KASS 1 HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/97396
-#EXTINF:-1 group-title=" الكأس",|AR.SPOR| AL KASS 2 HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/97397
-#EXTINF:-1 group-title=" الكأس",AR: Alkass 2 HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/69011
-#EXTINF:-1 group-title=" الكأس",|AR.SPOR| AL KASS 3 HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/97398
-#EXTINF:-1 group-title=" الكأس",|AR.SPOR| AL KASS 4 HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/97399
+#EXTINF:-1 tvg-name="[AR] AL KASS 1 HEVC" tvg-logo="https://logo.protv.cc/piconsnew/alkassonehd.png" group-title=" الكأس",[AR] AL KASS 1 HEVC
+http://lion5.linkott.com:80/852762995/ZpkJ4512/584498
+#EXTINF:-1 tvg-name="[AR] AL KASS 2 HEVC" tvg-logo="https://logo.protv.cc/piconsnew/alkasstwohd.png" group-title=" الكأس",[AR] AL KASS 2 HEVC
+http://lion5.linkott.com:80/852762995/ZpkJ4512/584496
+#EXTINF:-1 tvg-id="AlKassThree.qa" tvg-name="AR - AL KASS 3 HEVC" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALKASS-1-LQ.png" group-title=" الكأس",AR - AL KASS 3 HEVC
+http://lion5.linkott.com:80/852762995/ZpkJ4512/1205204
+#EXTINF:-1 tvg-name="[AR] AL KASS 4 HEVC" tvg-logo="https://logo.protv.cc/piconsnew/alkassfourhd.png" group-title=" الكأس",[AR] AL KASS 4 HEVC
+http://lion5.linkott.com:80/852762995/ZpkJ4512/584494
 #EXTINF:-1 group-title=" الكأس",|AR.SPOR| AL KASS 5 HD
 http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/97400
 #EXTINF:-1 group-title=" الكأس",|AR.SPOR| AL KASS 6 HD
@@ -236,11 +234,9 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/584498
 #EXTINF:-1 tvg-name="AL KASS 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/alkass2.png" group-title="Arabic SPORT",AL KASS 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/584496
 #EXTINF:-1 tvg-name="AL KASS 3" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",AL KASS 3
-http://lion4.linkott.com:80/852762995/ZpkJ4512/631032
-#EXTINF:-1 tvg-name="AL KASS 3" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",AL KASS 3.
-http://926944979948999436.ofded12.xyz:80/live/te1212095/7HpRXR7CmBYh/999436.ts
+http://lion5.linkott.com:80/852762995/ZpkJ4512/1205204
 #EXTINF:-1 tvg-name="AL KASS 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-KASS-4-HD.jpg" group-title="Arabic SPORT",AL KASS 4
-http://lion4.linkott.com:80/852762995/ZpkJ4512/584494
+http://lion5.linkott.com:80/852762995/ZpkJ4512/584494
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="AL KASS 5 " tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",AL KASS 5
 http://lion4.linkott.com:80/852762995/ZpkJ4512/854509
 #EXTINF:-1 tvg-name="AL KASS 6" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/AL-KASS.png" group-title="Arabic SPORT",AL KASS 6
