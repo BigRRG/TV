@@ -2385,3 +2385,51 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/832071
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832070
 #EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name=" RMC SPORT LIVE 10 " tvg-logo="http://logo.protv.cc/picons/logos/france/RMC-SPORT-LIVE.png" group-title="France TV", RMC SPORT LIVE 10 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832069
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name=" CANAL+ KIDS " tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="Kids", CANAL+ KIDS 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832196
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name=" PIWI+ " tvg-logo="http://103.176.90.118/piconsnew/piwiplus.png" group-title="Kids", PIWI+ 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832193
+#EXTINF:-1 tvg-name=" DUCK TV " tvg-logo="http://logo.protv.cc/piconsnew/ducktv.png" group-title="Kids", DUCK TV 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832190
+#EXTINF:-1 tvg-name=" GAME TOON " tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-TOON-FR-TV.png" group-title="Kids", GAME TOON 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832187
+#EXTINF:-1 tvg-name=" GAME ONE+1 " tvg-logo="http://103.176.90.118/picons/logos/france/GAME-ONE-1.png" group-title="Kids", GAME ONE+1 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832184
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name=" GAME ONE " tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="Kids", GAME ONE 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832183
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name=" BABY TV " tvg-logo="http://103.176.90.118/picons-dino/logos/laz.babytv.png" group-title="Kids", BABY TV 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832180
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name=" BOING " tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="Kids", BOING 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832179
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name=" BOOMERANG " tvg-logo="http://103.176.90.118/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="Kids", BOOMERANG 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832176
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name=" CANAL J " tvg-logo="http://103.176.90.118/picons-dino/logos/CANAL-J-FR-TV.png" group-title="Kids", CANAL J 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832173
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name=" CARTOON NETWORK " tvg-logo="http://103.176.90.118/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="Kids", CARTOON NETWORK 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832170
+#EXTINF:-1 tvg-name=" DISNEY CHANNEL +1 " tvg-logo="http://103.176.90.118/picons/logos/france/DISNEY-CHANNEL-1.png" group-title="Kids", DISNEY CHANNEL +1 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832167
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name=" DISNEY CHANNEL " tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="Kids", DISNEY CHANNEL 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832166
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name=" DISNEY JUNIOR " tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="Kids", DISNEY JUNIOR 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832163
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name=" GULLI " tvg-logo="http://103.176.90.118/piconsnew/gulli.png" group-title="Kids", GULLI 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832160
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name=" J-ONE " tvg-logo="http://103.176.90.118/picons-dino/logos/J-ONE-FR-TV.png" group-title="Kids", J-ONE 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832157
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name=" MANGAS " tvg-logo="http://103.176.90.118/picons-dino/logos/MANGAS-FR-TV.png" group-title="Kids", MANGAS 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832154
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name=" NICKELODEON " tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="Kids", NICKELODEON 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832151
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name=" NICKELODEON JUNIOR " tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="Kids", NICKELODEON JUNIOR 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832149
+#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name=" PITCHOUN TV " tvg-logo="http://103.176.90.118/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="Kids", PITCHOUN TV 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832145
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name=" TIJI " tvg-logo="http://103.176.90.118/picons-dino/logos/TIJI-FR-TV.png" group-title="Kids", TIJI 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832142
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name=" TOONAMI " tvg-logo="http://103.176.90.118/picons-dino/logos/TOONAMI-FR-TV.png" group-title="Kids", TOONAMI 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832139
+#EXTINF:-1 tvg-name=" PYJAMASQUES" tvg-logo="http://103.176.90.118/picons-dino/logos/Pyjamasques-FR-TV.png" group-title="Kids", PYJAMASQUES
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832136
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name=" BabyTV " tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="Kids", BabyTV 
+http://lion5.linkott.com:80/852762995/ZpkJ4512/832135
