@@ -2161,3 +2161,27 @@ http://lion5.linkott.com:80/852762995/ZpkJ4512/832139
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832136
 #EXTINF:-1 tvg-id="BabyTV.fr" tvg-name=" BabyTV " tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="Kids", BabyTV 
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832135
+#EXTINF:-1 tvg-id="1335321" tvg-name="[LOCAL] BEIN MAX 1 HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="CAN",[LOCAL] BEIN MAX 1 HEVC
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335321
+#EXTINF:-1 tvg-id="1335317" tvg-name="[LOCAL] BEIN MAX 2 HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="CAN",[LOCAL] BEIN MAX 2 HEVC
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335317
+#EXTINF:-1 tvg-id="1335313" tvg-name="[LOCAL] BEIN MAX 3 EN HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="CAN",[LOCAL] BEIN MAX 3 EN HEVC
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335313
+#EXTINF:-1 tvg-id="1335309" tvg-name="[LOCAL] BEIN MAX 4 FR HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="CAN",[LOCAL] BEIN MAX 4 FR HEVC
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335309
+#EXTINF:-1 tvg-id="1335306" tvg-name="[BE] BEIN MAX 01 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987800.png" group-title="CAN",[BE] BEIN MAX 01 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335306
+#EXTINF:-1 tvg-id="1335302" tvg-name="[BE]  BEIN MAX 02 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987796.png" group-title="CAN",[BE]  BEIN MAX 02 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335302
+#EXTINF:-1 tvg-id="1335298" tvg-name="[BE]  BEIN MAX 03 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987792.png" group-title="CAN",[BE]  BEIN MAX 03 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335298
+#EXTINF:-1 tvg-id="1335294" tvg-name="[BE] BEIN MAX 04 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987788.png" group-title="CAN",[BE] BEIN MAX 04 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1335294
+#EXTINF:-1 tvg-id="1334864" tvg-name="[NX] BEIN MAX 1 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987655.png" group-title="CAN",[NX] BEIN MAX 1 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1334864
+#EXTINF:-1 tvg-id="1334861" tvg-name="[NX] BEIN MAX 2 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987652.png" group-title="CAN",[NX] BEIN MAX 2 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1334861
+#EXTINF:-1 tvg-id="1334858" tvg-name="[NX] BEIN MAX 3 EN 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987649.png" group-title="CAN",[NX] BEIN MAX 3 EN 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1334858
+#EXTINF:-1 tvg-id="1334855" tvg-name="[NX] BEIN MAX 4 FR 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987646.png" group-title="CAN",[NX] BEIN MAX 4 FR 4K
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1334855
