@@ -76,7 +76,7 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/761735
 #EXTINF:-1 tvg-id="761736" tvg-name="[AR] STARZPLAY / AD SPORT 5 HD" tvg-logo="http://51.158.145.100/picons/logos/arabic/761736.png" group-title="SPORTS - رياضة",[AR] STARZPLAY / AD SPORT 5 HD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/761736
 #EXTINF:-1 tvg-id="249863" tvg-name=" HD الوطنيّة 1" tvg-logo="https://i.ibb.co/YBDQxRh7/TN1.png" group-title="تونس", HD الوطنيّة 1
-http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
+http://lion4.linkott.com:80/852762995/ZpkJ4512/249863
 #EXTINF:-1 tvg-id="719568" tvg-name=" HD الوطنيّة 2" tvg-logo="https://i.ibb.co/7NzzDWt3/TN2.png" group-title="تونس", HD الوطنيّة 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/788533
 #EXTINF:-1 tvg-id="249868" tvg-name=" AL HIWAR ETTOUNSI" tvg-logo="http://51.158.145.100/picons/logos/arabic/249868.png" group-title="تونس", AL HIWAR ETTOUNSI
@@ -85,7 +85,7 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/249868
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249871
 #EXTINF:-1 tvg-id="249878" tvg-name=" HANNIBAL" tvg-logo="https://i.ibb.co/bf6YJJd/hnbl.png" group-title="تونس", HANNIBAL
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249878
-#EXTINF:-1 tvg-id="689592" tvg-name=" NESSMA EJDIDA" tvg-logo="http://51.158.145.100/picons/logos/arabic/689592.png" group-title="تونس", NESSMA EJDIDA
+#EXTINF:-1 tvg-id="689592" tvg-name=" NESSMA EJDIDA" tvg-logo="https://qanawat.taghtia.com/assets/channels/nessma.png" group-title="تونس", NESSMA EJDIDA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/689592
 #EXTINF:-1 tvg-id="249874" tvg-name=" AL JANOUBIA" tvg-logo="http://51.158.145.100/picons/logos/arabic/249874.png" group-title="تونس", AL JANOUBIA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249874
@@ -108,7 +108,7 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/249869
 #EXTINF:-1 tvg-id="249864" tvg-name=" TUNISIA NATIONAL 2" tvg-logo="http://51.158.145.100/picons/logos/arabic/249864.png" group-title="تونس", SD الوطنيّة 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249864
 #EXTINF:-1 tvg-id=" HD الوطنيّة 1" tvg-name="TUNISIA 1" tvg-logo="https://i.ibb.co/YBDQxRh7/TN1.png" group-title="قنوات عربية", HD الوطنيّة 1
-http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
+http://lion4.linkott.com:80/852762995/ZpkJ4512/249863
 #EXTINF:-1 tvg-id="257322" tvg-name=" NATIONAL GEO ABU DHABI" tvg-logo="http://51.158.145.100/picons/logos/france/820803.png" group-title="قنوات عربية", NATIONAL GEO ABU DHABI
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257322
 #EXTINF:-1 tvg-id="250049" tvg-name=" MBC MASR " tvg-logo="http://51.158.145.100/picons/logos/arabic/250049.png" group-title="قنوات عربية", MBC MASR
@@ -1917,171 +1917,171 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/1006904
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1006901
 #EXTINF:-1 tvg-name=" TOM HANKS MOVIES+" tvg-logo="http://logo.protv.cc/picons/logos/AFRICA/TOM-HANKS.png" group-title="عربية + VOD", TOM HANKS MOVIES+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1006902
-#EXTINF:-1 tvg-id="1149250" tvg-name="TF1" tvg-logo="http://51.158.145.100/picons/logos/france/1149250.png" group-title="france TV",TF1
+#EXTINF:-1 tvg-id="1149250" tvg-name="TF1" tvg-logo="http://51.158.145.100/picons/logos/france/1149250.png" group-title="france TV 🇫🇷",TF1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1149250
-#EXTINF:-1 tvg-id="1149249" tvg-name="France 2" tvg-logo="http://51.158.145.100/picons/logos/france/1149249.png" group-title="france TV",France 2
+#EXTINF:-1 tvg-id="1149249" tvg-name="France 2" tvg-logo="http://51.158.145.100/picons/logos/france/1149249.png" group-title="france TV 🇫🇷",France 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820878
-#EXTINF:-1 tvg-id="1149247" tvg-name="France 3" tvg-logo="http://51.158.145.100/picons/logos/france/1149247.png" group-title="france TV",France 3
+#EXTINF:-1 tvg-id="1149247" tvg-name="France 3" tvg-logo="http://51.158.145.100/picons/logos/france/1149247.png" group-title="france TV 🇫🇷",France 3
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1149247
-#EXTINF:-1 tvg-id="820862" tvg-name=" RMC STORY " tvg-logo="http://51.158.145.100/picons/logos/france/820862.png" group-title="france TV", RMC STORY
+#EXTINF:-1 tvg-id="820862" tvg-name=" RMC STORY " tvg-logo="http://51.158.145.100/picons/logos/france/820862.png" group-title="france TV 🇫🇷", RMC STORY
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820862
-#EXTINF:-1 tvg-id="820801" tvg-name=" RMC DECOUVERTE " tvg-logo="http://51.158.145.100/picons/logos/france/820801.png" group-title="france TV", RMC DECOUVERTE
+#EXTINF:-1 tvg-id="820801" tvg-name=" RMC DECOUVERTE " tvg-logo="http://51.158.145.100/picons/logos/france/820801.png" group-title="france TV 🇫🇷", RMC DECOUVERTE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820801
-#EXTINF:-1 tvg-id="1149246" tvg-name=" M6" tvg-logo="http://51.158.145.100/picons/logos/france/1149246.png" group-title="france TV", M6
+#EXTINF:-1 tvg-id="1149246" tvg-name=" M6" tvg-logo="http://51.158.145.100/picons/logos/france/1149246.png" group-title="france TV 🇫🇷", M6
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1149246
-#EXTINF:-1 tvg-id="820803" tvg-name=" NAT GEO " tvg-logo="http://51.158.145.100/picons/logos/france/820803.png" group-title="france TV", NAT GEO
+#EXTINF:-1 tvg-id="820803" tvg-name=" NAT GEO " tvg-logo="http://51.158.145.100/picons/logos/france/820803.png" group-title="france TV 🇫🇷", NAT GEO
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820803
-#EXTINF:-1 tvg-id="820802" tvg-name=" NAT GEO WILD " tvg-logo="http://51.158.145.100/picons/logos/france/820802.png" group-title="france TV", NAT GEO WILD
+#EXTINF:-1 tvg-id="820802" tvg-name=" NAT GEO WILD " tvg-logo="http://51.158.145.100/picons/logos/france/820802.png" group-title="france TV 🇫🇷", NAT GEO WILD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820802
-#EXTINF:-1 tvg-id="820871" tvg-name=" W9 " tvg-logo="http://51.158.145.100/picons/logos/france/820871.png" group-title="france TV", W9
+#EXTINF:-1 tvg-id="820871" tvg-name=" W9 " tvg-logo="http://51.158.145.100/picons/logos/france/820871.png" group-title="france TV 🇫🇷", W9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
-#EXTINF:-1 tvg-id="820871" tvg-name=" W9 " tvg-logo="http://51.158.145.100/picons/logos/france/820871.png" group-title="france TV", W9
+#EXTINF:-1 tvg-id="820871" tvg-name=" W9 " tvg-logo="http://51.158.145.100/picons/logos/france/820871.png" group-title="france TV 🇫🇷", W9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
-#EXTINF:-1 tvg-id="820821" tvg-name=" RTL9 " tvg-logo="http://51.158.145.100/picons/logos/france/820821.png" group-title="france TV", RTL9
+#EXTINF:-1 tvg-id="820821" tvg-name=" RTL9 " tvg-logo="http://51.158.145.100/picons/logos/france/820821.png" group-title="france TV 🇫🇷", RTL9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820821
-#EXTINF:-1 tvg-id="820870" tvg-name=" TMC " tvg-logo="http://51.158.145.100/picons/logos/france/820870.png" group-title="france TV", TMC
+#EXTINF:-1 tvg-id="820870" tvg-name=" TMC " tvg-logo="http://51.158.145.100/picons/logos/france/820870.png" group-title="france TV 🇫🇷", TMC
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820870
-#EXTINF:-1 tvg-id="820870" tvg-name=" TMC " tvg-logo="http://51.158.145.100/picons/logos/france/820870.png" group-title="france TV", TMC
+#EXTINF:-1 tvg-id="820870" tvg-name=" TMC " tvg-logo="http://51.158.145.100/picons/logos/france/820870.png" group-title="france TV 🇫🇷", TMC
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820870
-#EXTINF:-1 tvg-id="820865" tvg-name=" 6TER " tvg-logo="http://51.158.145.100/picons/logos/france/820865.png" group-title="france TV", 6TER
+#EXTINF:-1 tvg-id="820865" tvg-name=" 6TER " tvg-logo="http://51.158.145.100/picons/logos/france/820865.png" group-title="france TV 🇫🇷", 6TER
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820865
-#EXTINF:-1 tvg-id="820867" tvg-name=" TF1 SERIES FILMS " tvg-logo="http://51.158.145.100/picons/logos/france/820867.png" group-title="france TV", TF1 SERIES FILMS
+#EXTINF:-1 tvg-id="820867" tvg-name=" TF1 SERIES FILMS " tvg-logo="http://51.158.145.100/picons/logos/france/820867.png" group-title="france TV 🇫🇷", TF1 SERIES FILMS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820867
-#EXTINF:-1 tvg-id="820869" tvg-name=" TFX " tvg-logo="http://51.158.145.100/picons/logos/france/820869.png" group-title="france TV", TFX
+#EXTINF:-1 tvg-id="820869" tvg-name=" TFX " tvg-logo="http://51.158.145.100/picons/logos/france/820869.png" group-title="france TV 🇫🇷", TFX
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820869
-#EXTINF:-1 tvg-id="820838" tvg-name=" ACTION " tvg-logo="http://51.158.145.100/picons/logos/france/820838.png" group-title="france TV", ACTION
+#EXTINF:-1 tvg-id="820838" tvg-name=" ACTION " tvg-logo="http://51.158.145.100/picons/logos/france/820838.png" group-title="france TV 🇫🇷", ACTION
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820838
-#EXTINF:-1 tvg-id="820858" tvg-name=" CANAL+ " tvg-logo="http://51.158.145.100/picons/logos/france/820858.png" group-title="france TV", CANAL+
+#EXTINF:-1 tvg-id="820858" tvg-name=" CANAL+ " tvg-logo="http://51.158.145.100/picons/logos/france/820858.png" group-title="france TV 🇫🇷", CANAL+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820858
-#EXTINF:-1 tvg-id="820864" tvg-name=" CSTAR " tvg-logo="http://51.158.145.100/picons/logos/france/820864.png" group-title="france TV", CSTAR
+#EXTINF:-1 tvg-id="820864" tvg-name=" CSTAR " tvg-logo="http://51.158.145.100/picons/logos/france/820864.png" group-title="france TV 🇫🇷", CSTAR
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820864
-#EXTINF:-1 tvg-id="820872" tvg-name="T18" tvg-logo="http://51.158.145.100/picons/logos/france/820872.png" group-title="france TV",T18
+#EXTINF:-1 tvg-id="820872" tvg-name="T18" tvg-logo="http://51.158.145.100/picons/logos/france/820872.png" group-title="france TV 🇫🇷",T18
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820872
-#EXTINF:-1 tvg-id="820835" tvg-name=" 13EME RUE " tvg-logo="http://51.158.145.100/picons/logos/france/820835.png" group-title="france TV", 13EME RUE
+#EXTINF:-1 tvg-id="820835" tvg-name=" 13EME RUE " tvg-logo="http://51.158.145.100/picons/logos/france/820835.png" group-title="france TV 🇫🇷", 13EME RUE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820835
-#EXTINF:-1 tvg-id="820868" tvg-name=" NRJ 12 " tvg-logo="http://51.158.145.100/picons/logos/france/820868.png" group-title="france TV", NRJ 12
+#EXTINF:-1 tvg-id="820868" tvg-name=" NRJ 12 " tvg-logo="http://51.158.145.100/picons/logos/france/820868.png" group-title="france TV 🇫🇷", NRJ 12
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820868
-#EXTINF:-1 tvg-id="820810" tvg-name=" PLANETE+ " tvg-logo="http://51.158.145.100/picons/logos/france/820810.png" group-title="france TV", PLANETE+
+#EXTINF:-1 tvg-id="820810" tvg-name=" PLANETE+ " tvg-logo="http://51.158.145.100/picons/logos/france/820810.png" group-title="france TV 🇫🇷", PLANETE+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820810
-#EXTINF:-1 tvg-id="820809" tvg-name=" PLANETE+ CRIME " tvg-logo="http://51.158.145.100/picons/logos/france/820809.png" group-title="france TV", PLANETE+ CRIME
+#EXTINF:-1 tvg-id="820809" tvg-name=" PLANETE+ CRIME " tvg-logo="http://51.158.145.100/picons/logos/france/820809.png" group-title="france TV 🇫🇷", PLANETE+ CRIME
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820809
-#EXTINF:-1 tvg-id="820808" tvg-name=" PLANETE+ AVENTURE " tvg-logo="http://51.158.145.100/picons/logos/france/820808.png" group-title="france TV", PLANETE+ AVENTURE
+#EXTINF:-1 tvg-id="820808" tvg-name=" PLANETE+ AVENTURE " tvg-logo="http://51.158.145.100/picons/logos/france/820808.png" group-title="france TV 🇫🇷", PLANETE+ AVENTURE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820808
-#EXTINF:-1 tvg-id="820807" tvg-name=" DISCOVERY CHANNEL " tvg-logo="http://51.158.145.100/picons/logos/france/820807.png" group-title="france TV", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="820807" tvg-name=" DISCOVERY CHANNEL " tvg-logo="http://51.158.145.100/picons/logos/france/820807.png" group-title="france TV 🇫🇷", DISCOVERY CHANNEL
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820807
-#EXTINF:-1 tvg-id="820806" tvg-name=" DISCOVERY SCIENCE " tvg-logo="http://51.158.145.100/picons/logos/france/820806.png" group-title="france TV", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="820806" tvg-name=" DISCOVERY SCIENCE " tvg-logo="http://51.158.145.100/picons/logos/france/820806.png" group-title="france TV 🇫🇷", DISCOVERY SCIENCE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820806
-#EXTINF:-1 tvg-id="820805" tvg-name=" DISCOVERY INVESTIGATION " tvg-logo="http://51.158.145.100/picons/logos/france/820805.png" group-title="france TV", DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-id="820805" tvg-name=" DISCOVERY INVESTIGATION " tvg-logo="http://51.158.145.100/picons/logos/france/820805.png" group-title="france TV 🇫🇷", DISCOVERY INVESTIGATION
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820805
-#EXTINF:-1 tvg-id="820804" tvg-name=" CRIME DISTRICT " tvg-logo="http://51.158.145.100/picons/logos/france/820804.png" group-title="france TV", CRIME DISTRICT
+#EXTINF:-1 tvg-id="820804" tvg-name=" CRIME DISTRICT " tvg-logo="http://51.158.145.100/picons/logos/france/820804.png" group-title="france TV 🇫🇷", CRIME DISTRICT
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820804
-#EXTINF:-1 tvg-id="820876" tvg-name="France 4 " tvg-logo="http://51.158.145.100/picons/logos/france/820876.png" group-title="france TV",France 4
+#EXTINF:-1 tvg-id="820876" tvg-name="France 4 " tvg-logo="http://51.158.145.100/picons/logos/france/820876.png" group-title="france TV 🇫🇷",France 4
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820876
-#EXTINF:-1 tvg-id="820875" tvg-name="France 5 " tvg-logo="http://51.158.145.100/picons/logos/france/820875.png" group-title="france TV",France 5
+#EXTINF:-1 tvg-id="820875" tvg-name="France 5 " tvg-logo="http://51.158.145.100/picons/logos/france/820875.png" group-title="france TV 🇫🇷",France 5
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820875
-#EXTINF:-1 tvg-id="820873" tvg-name=" ARTE " tvg-logo="http://51.158.145.100/picons/logos/france/820873.png" group-title="france TV", ARTE
+#EXTINF:-1 tvg-id="820873" tvg-name=" ARTE " tvg-logo="http://51.158.145.100/picons/logos/france/820873.png" group-title="france TV 🇫🇷", ARTE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820873
-#EXTINF:-1 tvg-id="820866" tvg-name=" CHERIE 25 " tvg-logo="http://51.158.145.100/picons/logos/france/820866.png" group-title="france TV", CHERIE 25
+#EXTINF:-1 tvg-id="820866" tvg-name=" CHERIE 25 " tvg-logo="http://51.158.145.100/picons/logos/france/820866.png" group-title="france TV 🇫🇷", CHERIE 25
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820866
-#EXTINF:-1 tvg-id="820800" tvg-name=" USHUAIA TV " tvg-logo="http://51.158.145.100/picons/logos/france/820800.png" group-title="france TV", USHUAIA TV
+#EXTINF:-1 tvg-id="820800" tvg-name=" USHUAIA TV " tvg-logo="http://51.158.145.100/picons/logos/france/820800.png" group-title="france TV 🇫🇷", USHUAIA TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820800
-#EXTINF:-1 tvg-id="820799" tvg-name=" HISTOIRE " tvg-logo="http://51.158.145.100/picons/logos/france/820799.png" group-title="france TV", HISTOIRE
+#EXTINF:-1 tvg-id="820799" tvg-name=" HISTOIRE " tvg-logo="http://51.158.145.100/picons/logos/france/820799.png" group-title="france TV 🇫🇷", HISTOIRE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820799
-#EXTINF:-1 tvg-id="820798" tvg-name=" TOUTE L'HISTOIRE " tvg-logo="http://51.158.145.100/picons/logos/france/820798.png" group-title="france TV", TOUTE L'HISTOIRE
+#EXTINF:-1 tvg-id="820798" tvg-name=" TOUTE L'HISTOIRE " tvg-logo="http://51.158.145.100/picons/logos/france/820798.png" group-title="france TV 🇫🇷", TOUTE L'HISTOIRE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820798
-#EXTINF:-1 tvg-id="820797" tvg-name=" SCIENCE & VIE TV " tvg-logo="http://51.158.145.100/picons/logos/france/820797.png" group-title="france TV", SCIENCE & VIE TV
+#EXTINF:-1 tvg-id="820797" tvg-name=" SCIENCE & VIE TV " tvg-logo="http://51.158.145.100/picons/logos/france/820797.png" group-title="france TV 🇫🇷", SCIENCE & VIE TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820797
-#EXTINF:-1 tvg-id="831983" tvg-name="L'EQUIPE 21" tvg-logo="http://51.158.145.100/picons/logos/france/831983.png" group-title="france TV",L'EQUIPE 21
+#EXTINF:-1 tvg-id="831983" tvg-name="L'EQUIPE 21" tvg-logo="http://51.158.145.100/picons/logos/france/831983.png" group-title="france TV 🇫🇷",L'EQUIPE 21
 http://lion4.linkott.com:80/852762995/ZpkJ4512/831983
-#EXTINF:-1 tvg-id="820811" tvg-name=" CANAL + DOCS " tvg-logo="http://51.158.145.100/picons/logos/france/820811.png" group-title="france TV", CANAL + DOCS
+#EXTINF:-1 tvg-id="820811" tvg-name=" CANAL + DOCS " tvg-logo="http://51.158.145.100/picons/logos/france/820811.png" group-title="france TV 🇫🇷", CANAL + DOCS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820811
-#EXTINF:-1 tvg-id="820857" tvg-name=" CANAL+ CINEMA " tvg-logo="http://51.158.145.100/picons/logos/france/820857.png" group-title="france TV", CANAL+ CINEMA
+#EXTINF:-1 tvg-id="820857" tvg-name=" CANAL+ CINEMA " tvg-logo="http://51.158.145.100/picons/logos/france/820857.png" group-title="france TV 🇫🇷", CANAL+ CINEMA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820857
-#EXTINF:-1 tvg-id="820789" tvg-name=" CANAL+ BOX OFFICE " tvg-logo="http://51.158.145.100/picons/logos/france/820789.png" group-title="france TV", CANAL+ BOX OFFICE
+#EXTINF:-1 tvg-id="820789" tvg-name=" CANAL+ BOX OFFICE " tvg-logo="http://51.158.145.100/picons/logos/france/820789.png" group-title="france TV 🇫🇷", CANAL+ BOX OFFICE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820789
-#EXTINF:-1 tvg-id="820856" tvg-name=" CANAL+ SPORT " tvg-logo="http://51.158.145.100/picons/logos/france/820856.png" group-title="france TV", CANAL+ SPORT
+#EXTINF:-1 tvg-id="820856" tvg-name=" CANAL+ SPORT " tvg-logo="http://51.158.145.100/picons/logos/france/820856.png" group-title="france TV 🇫🇷", CANAL+ SPORT
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820856
-#EXTINF:-1 tvg-id="820855" tvg-name=" CANAL+ SERIES " tvg-logo="http://51.158.145.100/picons/logos/france/820855.png" group-title="france TV", CANAL+ SERIES
+#EXTINF:-1 tvg-id="820855" tvg-name=" CANAL+ SERIES " tvg-logo="http://51.158.145.100/picons/logos/france/820855.png" group-title="france TV 🇫🇷", CANAL+ SERIES
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820855
-#EXTINF:-1 tvg-id="820854" tvg-name=" CANAL+ GRAND ECRAN " tvg-logo="http://51.158.145.100/picons/logos/france/820854.png" group-title="france TV", CANAL+ GRAND ECRAN
+#EXTINF:-1 tvg-id="820854" tvg-name=" CANAL+ GRAND ECRAN " tvg-logo="http://51.158.145.100/picons/logos/france/820854.png" group-title="france TV 🇫🇷", CANAL+ GRAND ECRAN
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820854
-#EXTINF:-1 tvg-id="820853" tvg-name=" CANAL+ KIDS " tvg-logo="http://51.158.145.100/picons/logos/france/820853.png" group-title="france TV", CANAL+ KIDS
+#EXTINF:-1 tvg-id="820853" tvg-name=" CANAL+ KIDS " tvg-logo="http://51.158.145.100/picons/logos/france/820853.png" group-title="france TV 🇫🇷", CANAL+ KIDS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820853
-#EXTINF:-1 tvg-id="820851" tvg-name=" CINE+ PREMIER " tvg-logo="http://51.158.145.100/picons/logos/france/820851.png" group-title="france TV", CINE+ PREMIER
+#EXTINF:-1 tvg-id="820851" tvg-name=" CINE+ PREMIER " tvg-logo="http://51.158.145.100/picons/logos/france/820851.png" group-title="france TV 🇫🇷", CINE+ PREMIER
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820851
-#EXTINF:-1 tvg-id="820850" tvg-name=" CINE+ ISSON " tvg-logo="http://51.158.145.100/picons/logos/france/820850.png" group-title="france TV", CINE+ ISSON
+#EXTINF:-1 tvg-id="820850" tvg-name=" CINE+ ISSON " tvg-logo="http://51.158.145.100/picons/logos/france/820850.png" group-title="france TV 🇫🇷", CINE+ ISSON
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820850
-#EXTINF:-1 tvg-id="820849" tvg-name=" CINE+ EMOTION " tvg-logo="http://51.158.145.100/picons/logos/france/820849.png" group-title="france TV", CINE+ EMOTION
+#EXTINF:-1 tvg-id="820849" tvg-name=" CINE+ EMOTION " tvg-logo="http://51.158.145.100/picons/logos/france/820849.png" group-title="france TV 🇫🇷", CINE+ EMOTION
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820849
-#EXTINF:-1 tvg-id="820848" tvg-name=" CINE+ FAMIZ " tvg-logo="http://51.158.145.100/picons/logos/france/820848.png" group-title="france TV", CINE+ FAMIZ
+#EXTINF:-1 tvg-id="820848" tvg-name=" CINE+ FAMIZ " tvg-logo="http://51.158.145.100/picons/logos/france/820848.png" group-title="france TV 🇫🇷", CINE+ FAMIZ
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820848
-#EXTINF:-1 tvg-id="820847" tvg-name="CINE+ CLUB " tvg-logo="http://51.158.145.100/picons/logos/france/820847.png" group-title="france TV",CINE+ CLUB
+#EXTINF:-1 tvg-id="820847" tvg-name="CINE+ CLUB " tvg-logo="http://51.158.145.100/picons/logos/france/820847.png" group-title="france TV 🇫🇷",CINE+ CLUB
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820847
-#EXTINF:-1 tvg-id="820846" tvg-name="CINE+ CLASSIC " tvg-logo="http://51.158.145.100/picons/logos/france/820846.png" group-title="france TV",CINE+ CLASSIC
+#EXTINF:-1 tvg-id="820846" tvg-name="CINE+ CLASSIC " tvg-logo="http://51.158.145.100/picons/logos/france/820846.png" group-title="france TV 🇫🇷",CINE+ CLASSIC
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820846
-#EXTINF:-1 tvg-id="820843" tvg-name=" OCS CHOC " tvg-logo="http://51.158.145.100/picons/logos/france/820843.png" group-title="france TV", OCS CHOC
+#EXTINF:-1 tvg-id="820843" tvg-name=" OCS CHOC " tvg-logo="http://51.158.145.100/picons/logos/france/820843.png" group-title="france TV 🇫🇷", OCS CHOC
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820843
-#EXTINF:-1 tvg-id="820841" tvg-name=" TCM CINEMA " tvg-logo="http://51.158.145.100/picons/logos/france/820841.png" group-title="france TV", TCM CINEMA
+#EXTINF:-1 tvg-id="820841" tvg-name=" TCM CINEMA " tvg-logo="http://51.158.145.100/picons/logos/france/820841.png" group-title="france TV 🇫🇷", TCM CINEMA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820841
-#EXTINF:-1 tvg-id="820831" tvg-name=" SERIE CLUB " tvg-logo="http://51.158.145.100/picons/logos/france/820831.png" group-title="france TV", SERIE CLUB
+#EXTINF:-1 tvg-id="820831" tvg-name=" SERIE CLUB " tvg-logo="http://51.158.145.100/picons/logos/france/820831.png" group-title="france TV 🇫🇷", SERIE CLUB
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820831
-#EXTINF:-1 tvg-id="820840" tvg-name=" PARAMOUNT DECALE " tvg-logo="http://51.158.145.100/picons/logos/france/820840.png" group-title="france TV", PARAMOUNT DECALE
+#EXTINF:-1 tvg-id="820840" tvg-name=" PARAMOUNT DECALE " tvg-logo="http://51.158.145.100/picons/logos/france/820840.png" group-title="france TV 🇫🇷", PARAMOUNT DECALE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820840
-#EXTINF:-1 tvg-id="820839" tvg-name=" PARAMOUNT CHANNEL " tvg-logo="http://51.158.145.100/picons/logos/france/820839.png" group-title="france TV", PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="820839" tvg-name=" PARAMOUNT CHANNEL " tvg-logo="http://51.158.145.100/picons/logos/france/820839.png" group-title="france TV 🇫🇷", PARAMOUNT CHANNEL
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820839
-#EXTINF:-1 tvg-id="820822" tvg-name=" PARIS PREMIERE " tvg-logo="http://51.158.145.100/picons/logos/france/820822.png" group-title="france TV", PARIS PREMIERE
+#EXTINF:-1 tvg-id="820822" tvg-name=" PARIS PREMIERE " tvg-logo="http://51.158.145.100/picons/logos/france/820822.png" group-title="france TV 🇫🇷", PARIS PREMIERE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820822
-#EXTINF:-1 tvg-id="820834" tvg-name=" COMEDIE+ " tvg-logo="http://51.158.145.100/picons/logos/france/820834.png" group-title="france TV", COMEDIE+
+#EXTINF:-1 tvg-id="820834" tvg-name=" COMEDIE+ " tvg-logo="http://51.158.145.100/picons/logos/france/820834.png" group-title="france TV 🇫🇷", COMEDIE+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820834
-#EXTINF:-1 tvg-id="820833" tvg-name=" POLAR+ " tvg-logo="http://51.158.145.100/picons/logos/france/820833.png" group-title="france TV", POLAR+
+#EXTINF:-1 tvg-id="820833" tvg-name=" POLAR+ " tvg-logo="http://51.158.145.100/picons/logos/france/820833.png" group-title="france TV 🇫🇷", POLAR+
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820833
-#EXTINF:-1 tvg-id="820832" tvg-name=" WARNER TV " tvg-logo="http://51.158.145.100/picons/logos/france/820832.png" group-title="france TV", WARNER TV
+#EXTINF:-1 tvg-id="820832" tvg-name=" WARNER TV " tvg-logo="http://51.158.145.100/picons/logos/france/820832.png" group-title="france TV 🇫🇷", WARNER TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820832
-#EXTINF:-1 tvg-id="820830" tvg-name=" MTV " tvg-logo="http://51.158.145.100/picons/logos/france/820830.png" group-title="france TV", MTV
+#EXTINF:-1 tvg-id="820830" tvg-name=" MTV " tvg-logo="http://51.158.145.100/picons/logos/france/820830.png" group-title="france TV 🇫🇷", MTV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820830
-#EXTINF:-1 tvg-id="820829" tvg-name=" E! " tvg-logo="http://51.158.145.100/picons/logos/france/820829.png" group-title="france TV", E!
+#EXTINF:-1 tvg-id="820829" tvg-name=" E! " tvg-logo="http://51.158.145.100/picons/logos/france/820829.png" group-title="france TV 🇫🇷", E!
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820829
-#EXTINF:-1 tvg-id="820828" tvg-name=" NOVELAS TV " tvg-logo="http://51.158.145.100/picons/logos/france/820828.png" group-title="france TV", NOVELAS TV
+#EXTINF:-1 tvg-id="820828" tvg-name=" NOVELAS TV " tvg-logo="http://51.158.145.100/picons/logos/france/820828.png" group-title="france TV 🇫🇷", NOVELAS TV
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820828
-#EXTINF:-1 tvg-id="820825" tvg-name=" AB1 " tvg-logo="http://51.158.145.100/picons/logos/france/820825.png" group-title="france TV", AB1
+#EXTINF:-1 tvg-id="820825" tvg-name=" AB1 " tvg-logo="http://51.158.145.100/picons/logos/france/820825.png" group-title="france TV 🇫🇷", AB1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820825
-#EXTINF:-1 tvg-id="820824" tvg-name=" TV BREIZH " tvg-logo="http://51.158.145.100/picons/logos/france/820824.png" group-title="france TV", TV BREIZH
+#EXTINF:-1 tvg-id="820824" tvg-name=" TV BREIZH " tvg-logo="http://51.158.145.100/picons/logos/france/820824.png" group-title="france TV 🇫🇷", TV BREIZH
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820824
-#EXTINF:-1 tvg-id="820823" tvg-name=" TEVA " tvg-logo="http://51.158.145.100/picons/logos/france/820823.png" group-title="france TV", TEVA
+#EXTINF:-1 tvg-id="820823" tvg-name=" TEVA " tvg-logo="http://51.158.145.100/picons/logos/france/820823.png" group-title="france TV 🇫🇷", TEVA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820823
-#EXTINF:-1 tvg-id="820820" tvg-name="  SYFY " tvg-logo="http://51.158.145.100/picons/logos/france/820820.png" group-title="france TV",  SYFY
+#EXTINF:-1 tvg-id="820820" tvg-name="  SYFY " tvg-logo="http://51.158.145.100/picons/logos/france/820820.png" group-title="france TV 🇫🇷",  SYFY
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820820
-#EXTINF:-1 tvg-id="820819" tvg-name=" BET " tvg-logo="http://51.158.145.100/picons/logos/france/820819.png" group-title="france TV", BET
+#EXTINF:-1 tvg-id="820819" tvg-name=" BET " tvg-logo="http://51.158.145.100/picons/logos/france/820819.png" group-title="france TV 🇫🇷", BET
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820819
-#EXTINF:-1 tvg-id="820796" tvg-name=" ANIMAUX " tvg-logo="http://51.158.145.100/picons/logos/france/820796.png" group-title="france TV", ANIMAUX
+#EXTINF:-1 tvg-id="820796" tvg-name=" ANIMAUX " tvg-logo="http://51.158.145.100/picons/logos/france/820796.png" group-title="france TV 🇫🇷", ANIMAUX
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820796
-#EXTINF:-1 tvg-id="820818" tvg-name=" TV5 MONDE " tvg-logo="http://51.158.145.100/picons/logos/france/820818.png" group-title="france TV", TV5 MONDE
+#EXTINF:-1 tvg-id="820818" tvg-name=" TV5 MONDE " tvg-logo="http://51.158.145.100/picons/logos/france/820818.png" group-title="france TV 🇫🇷", TV5 MONDE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820818
-#EXTINF:-1 tvg-id="820816" tvg-name=" COMEDY CENTRAL " tvg-logo="http://51.158.145.100/picons/logos/france/820816.png" group-title="france TV", COMEDY CENTRAL
+#EXTINF:-1 tvg-id="820816" tvg-name=" COMEDY CENTRAL " tvg-logo="http://51.158.145.100/picons/logos/france/820816.png" group-title="france TV 🇫🇷", COMEDY CENTRAL
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820816
-#EXTINF:-1 tvg-id="820813" tvg-name=" MYZEN FIT " tvg-logo="http://51.158.145.100/picons/logos/france/820813.png" group-title="france TV", MYZEN FIT
+#EXTINF:-1 tvg-id="820813" tvg-name=" MYZEN FIT " tvg-logo="http://51.158.145.100/picons/logos/france/820813.png" group-title="france TV 🇫🇷", MYZEN FIT
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820813
-#EXTINF:-1 tvg-id="820795" tvg-name=" TREK " tvg-logo="http://51.158.145.100/picons/logos/france/820795.png" group-title="france TV", TREK
+#EXTINF:-1 tvg-id="820795" tvg-name=" TREK " tvg-logo="http://51.158.145.100/picons/logos/france/820795.png" group-title="france TV 🇫🇷", TREK
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820795
-#EXTINF:-1 tvg-id="820794" tvg-name=" SEASONS " tvg-logo="http://51.158.145.100/picons/logos/france/820794.png" group-title="france TV", SEASONS
+#EXTINF:-1 tvg-id="820794" tvg-name=" SEASONS " tvg-logo="http://51.158.145.100/picons/logos/france/820794.png" group-title="france TV 🇫🇷", SEASONS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820794
-#EXTINF:-1 tvg-id="820793" tvg-name=" CHASSE & PECHE " tvg-logo="http://51.158.145.100/picons/logos/france/820793.png" group-title="france TV", CHASSE & PECHE
+#EXTINF:-1 tvg-id="820793" tvg-name=" CHASSE & PECHE " tvg-logo="http://51.158.145.100/picons/logos/france/820793.png" group-title="france TV 🇫🇷", CHASSE & PECHE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820793
-#EXTINF:-1 tvg-id="820790" tvg-name=" MUSEUM CHANNEL " tvg-logo="http://51.158.145.100/picons/logos/france/820790.png" group-title="france TV", MUSEUM CHANNEL
+#EXTINF:-1 tvg-id="820790" tvg-name=" MUSEUM CHANNEL " tvg-logo="http://51.158.145.100/picons/logos/france/820790.png" group-title="france TV 🇫🇷", MUSEUM CHANNEL
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820790
-#EXTINF:-1 tvg-id="820765" tvg-name=" MTV HITS " tvg-logo="http://51.158.145.100/picons/logos/france/820765.png" group-title="france TV", MTV HITS
+#EXTINF:-1 tvg-id="820765" tvg-name=" MTV HITS " tvg-logo="http://51.158.145.100/picons/logos/france/820765.png" group-title="france TV 🇫🇷", MTV HITS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820765
-#EXTINF:-1 tvg-id="820764" tvg-name=" MCM " tvg-logo="http://51.158.145.100/picons/logos/france/820764.png" group-title="france TV", MCM
+#EXTINF:-1 tvg-id="820764" tvg-name=" MCM " tvg-logo="http://51.158.145.100/picons/logos/france/820764.png" group-title="france TV 🇫🇷", MCM
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820764
-#EXTINF:-1 tvg-id="820763" tvg-name=" MCM TOP " tvg-logo="http://51.158.145.100/picons/logos/france/820763.png" group-title="france TV", MCM TOP
+#EXTINF:-1 tvg-id="820763" tvg-name=" MCM TOP " tvg-logo="http://51.158.145.100/picons/logos/france/820763.png" group-title="france TV 🇫🇷", MCM TOP
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820763
-#EXTINF:-1 tvg-id="820762" tvg-name="  M6 MUSIC " tvg-logo="http://51.158.145.100/picons/logos/france/820762.png" group-title="france TV",  M6 MUSIC
+#EXTINF:-1 tvg-id="820762" tvg-name="  M6 MUSIC " tvg-logo="http://51.158.145.100/picons/logos/france/820762.png" group-title="france TV 🇫🇷",  M6 MUSIC
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820762
-#EXTINF:-1 tvg-id="820761" tvg-name=" TRACE URBAN " tvg-logo="http://51.158.145.100/picons/logos/france/820761.png" group-title="france TV", TRACE URBAN
+#EXTINF:-1 tvg-id="820761" tvg-name=" TRACE URBAN " tvg-logo="http://51.158.145.100/picons/logos/france/820761.png" group-title="france TV 🇫🇷", TRACE URBAN
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820761
-#EXTINF:-1 tvg-id="820760" tvg-name=" TRACE LATINA " tvg-logo="http://51.158.145.100/picons/logos/france/820760.png" group-title="france TV", TRACE LATINA
+#EXTINF:-1 tvg-id="820760" tvg-name=" TRACE LATINA " tvg-logo="http://51.158.145.100/picons/logos/france/820760.png" group-title="france TV 🇫🇷", TRACE LATINA
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820760
-#EXTINF:-1 tvg-id="820755" tvg-name=" CSTAR HITS " tvg-logo="http://51.158.145.100/picons/logos/france/820755.png" group-title="france TV", CSTAR HITS
+#EXTINF:-1 tvg-id="820755" tvg-name=" CSTAR HITS " tvg-logo="http://51.158.145.100/picons/logos/france/820755.png" group-title="france TV 🇫🇷", CSTAR HITS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820755
 #EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name=" CANAL+ KIDS " tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="Kids", CANAL+ KIDS 
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832196
