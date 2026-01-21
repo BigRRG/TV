@@ -1,28 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="987845" tvg-name="BEIN SPORTS 1 " tvg-logo="http://51.158.145.100/picons/logos/bein/987845.png" group-title="⚽ رياضة",BEIN SPORTS 1 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987845
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016907
 #EXTINF:-1 tvg-id="987844" tvg-name="BEIN SPORTS 2 " tvg-logo="http://51.158.145.100/picons/logos/bein/987844.png" group-title="⚽ رياضة",BEIN SPORTS 2 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987844
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016908
 #EXTINF:-1 tvg-id="987843" tvg-name="BEIN SPORTS 3 " tvg-logo="http://51.158.145.100/picons/logos/bein/987843.png" group-title="⚽ رياضة",BEIN SPORTS 3 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987843
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016909
 #EXTINF:-1 tvg-id="987842" tvg-name="BEIN SPORTS 4 " tvg-logo="http://51.158.145.100/picons/logos/bein/987842.png" group-title="⚽ رياضة",BEIN SPORTS 4 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987842
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016910
 #EXTINF:-1 tvg-id="987841" tvg-name="BEIN SPORTS 5 " tvg-logo="http://51.158.145.100/picons/logos/bein/987841.png" group-title="⚽ رياضة",BEIN SPORTS 5 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987841
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016911
 #EXTINF:-1 tvg-id="987840" tvg-name="BEIN SPORTS 6 " tvg-logo="http://51.158.145.100/picons/logos/bein/987840.png" group-title="⚽ رياضة",BEIN SPORTS 6 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987840
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016912
 #EXTINF:-1 tvg-id="987839" tvg-name="BEIN SPORTS 7 " tvg-logo="http://51.158.145.100/picons/logos/bein/987839.png" group-title="⚽ رياضة",BEIN SPORTS 7 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987839
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016913
 #EXTINF:-1 tvg-id="987838" tvg-name="BEIN SPORTS 8 " tvg-logo="http://51.158.145.100/picons/logos/bein/987838.png" group-title="⚽ رياضة",BEIN SPORTS 8 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987838
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016914
 #EXTINF:-1 tvg-id="987837" tvg-name="BEIN SPORTS 9 " tvg-logo="http://51.158.145.100/picons/logos/bein/987837.png" group-title="⚽ رياضة",BEIN SPORTS 9 
-http://lion4.linkott.com:80/852762995/ZpkJ4512/987837
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1016915
 #EXTINF:-1 tvg-id="1178455" tvg-name="BEIN SPORTS NEWS" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178455.png" group-title="⚽ رياضة",BEIN SPORTS NEWS 
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1178455
 #EXTINF:-1 tvg-id="1178454" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="http://51.158.145.100/picons/logos/bein/1178454.png" group-title="⚽ رياضة",BEIN SPORTS GLOBAL
 http://lion4.linkott.com:80/852762995/ZpkJ4512/1178454
-#EXTINF:-1 tvg-id="1338926" tvg-name="CANAL+ CAN" tvg-logo="http://51.158.145.100/picons/logos/logos/1338926.png" group-title="⚽ رياضة",CANAL+ CAN
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1338926
 #EXTINF:-1 tvg-id="832068" tvg-name="BEIN Sports 1 FR" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178372.png" group-title="⚽ رياضة",BEIN Sports 1 FR
 http://lion4.linkott.com:80/live/852762995/ZpkJ4512/832065.ts
 #EXTINF:-1 tvg-id="832064" tvg-name="BEIN Sports 2 FR" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178371.png" group-title="⚽ رياضة",BEIN Sports 2 FR
@@ -31,10 +29,40 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/832064
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832060
 #EXTINF:-1 tvg-id="832106" tvg-name="CANAL+ FOOT" tvg-logo="http://51.158.145.100/picons/logos/france/832106.png" group-title="⚽ رياضة",CANAL+ FOOT
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832106
+#EXTINF:-1 tvg-id="832102" tvg-name="[FR] CANAL+ SPORT HD" tvg-logo="http://51.158.145.100/picons/logos/france/832102.png" group-title="⚽ رياضة",[FR] CANAL+ SPORT HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832102
 #EXTINF:-1 tvg-id="832101" tvg-name="CANAL+ FOOT 360" tvg-logo="http://51.158.145.100/picons/logos/france/832101.png" group-title="⚽ رياضة",CANAL+ FOOT 360
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832101
 #EXTINF:-1 tvg-id="832098" tvg-name="CANAL+ PREMIERE LEAGUE" tvg-logo="http://51.158.145.100/picons/logos/france/832098.png" group-title="⚽ رياضة",CANAL+ PREMIERE LEAGUE
 http://lion4.linkott.com:80/852762995/ZpkJ4512/832098
+#EXTINF:-1 tvg-id="832093" tvg-name="[FR] RMC SPORT 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/832093.png" group-title="⚽ رياضة",[FR] RMC SPORT 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832093
+#EXTINF:-1 tvg-id="832092" tvg-name="[FR] RMC SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/france/832092.png" group-title="⚽ رياضة",[FR] RMC SPORT 1 HD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832092
+#EXTINF:-1 tvg-id="832090" tvg-name="[FR]  RMC SPORT 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/832090.png" group-title="⚽ رياضة",[FR]  RMC SPORT 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832090
+#EXTINF:-1 tvg-id="832086" tvg-name="[FR] RMC SPORT 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/832086.png" group-title="⚽ رياضة",[FR] RMC SPORT 3 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832086
+#EXTINF:-1 tvg-id="1150880" tvg-name="[FR] CANAL+ LIVE 1" tvg-logo="http://51.158.145.100/picons/logos/france/1150880.png" group-title="⚽ رياضة",[FR] CANAL+ LIVE 1
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1150880
+#EXTINF:-1 tvg-id="1150879" tvg-name="[FR] CANAL+ LIVE 2" tvg-logo="http://51.158.145.100/picons/logos/france/1150879.png" group-title="⚽ رياضة",[FR] CANAL+ LIVE 2
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1150879
+#EXTINF:-1 tvg-id="1150878" tvg-name="[FR] CANAL+ LIVE 3" tvg-logo="http://51.158.145.100/picons/logos/france/1150878.png" group-title="⚽ رياضة",[FR] CANAL+ LIVE 3
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1150878
+#EXTINF:-1 tvg-id="832126" tvg-name="[FR] L'EQUIPE 21 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/832126.png" group-title="⚽ رياضة",[FR] L'EQUIPE 21 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832126
+#EXTINF:-1 tvg-id="1191124" tvg-name="[FR] L'ÉQUIPE LIVE 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/LEQUIPE.png" group-title="⚽ رياضة",[FR] L'ÉQUIPE LIVE 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1191124
+#EXTINF:-1 tvg-id="1191123" tvg-name="[FR] L'ÉQUIPE LIVE 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/LEQUIPE.png" group-title="⚽ رياضة",[FR] L'ÉQUIPE LIVE 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1191123
+#EXTINF:-1 tvg-id="1299856" tvg-name="LIGUE1+" tvg-logo="http://51.158.145.100/picons/logos/france/1902436.png" group-title="⚽ رياضة",LIGUE1+
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1299856
+#EXTINF:-1 tvg-id="832116" tvg-name="[FR] EUROSPORT 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/832116.png" group-title="⚽ رياضة",[FR] EUROSPORT 1 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832116
+#EXTINF:-1 tvg-id="832112" tvg-name="[FR] EUROSPORT 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/832112.png" group-title="⚽ رياضة",[FR] EUROSPORT 2 FHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/832112
+#EXTINF:-1 tvg-id="543422" tvg-name="[FR] EUROSPORT 360 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/france/543422.png" group-title="⚽ رياضة",[FR] EUROSPORT 360 1 UHD
+http://lion4.linkott.com:80/852762995/ZpkJ4512/543422
 #EXTINF:-1 tvg-id="584498" tvg-name="AL KASS 1" tvg-logo="http://51.158.145.100/picons/logos/arabic/584498.png" group-title="⚽ رياضة",AL KASS 1
 http://lion4.linkott.com:80/852762995/ZpkJ4512/584498
 #EXTINF:-1 tvg-id="584496" tvg-name="AL KASS 2" tvg-logo="http://51.158.145.100/picons/logos/arabic/584496.png" group-title="⚽ رياضة",AL KASS 2
@@ -75,8 +103,28 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/761734
 http://lion4.linkott.com:80/852762995/ZpkJ4512/761735
 #EXTINF:-1 tvg-id="761736" tvg-name="[AR] STARZPLAY / AD SPORT 5 HD" tvg-logo="http://51.158.145.100/picons/logos/arabic/761736.png" group-title="⚽ رياضة",[AR] STARZPLAY / AD SPORT 5 HD
 http://lion4.linkott.com:80/852762995/ZpkJ4512/761736
+#EXTINF:-1 tvg-id="1178456" tvg-name="####### BEIN SPORTS ⁴ #######" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178456.png" group-title="⚽ رياضة",####### BEIN SPORTS ⁴ #######
+http://lion4.linkott.com:80/852762995/ZpkJ4512/1178456
+#EXTINF:-1 tvg-id="987845" tvg-name="BEIN SPORTS 1 " tvg-logo="http://51.158.145.100/picons/logos/bein/987845.png" group-title="⚽ رياضة",BEIN SPORTS 1
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987845
+#EXTINF:-1 tvg-id="987844" tvg-name="BEIN SPORTS 2 " tvg-logo="http://51.158.145.100/picons/logos/bein/987844.png" group-title="⚽ رياضة",BEIN SPORTS 2
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987844
+#EXTINF:-1 tvg-id="987843" tvg-name="BEIN SPORTS 3 " tvg-logo="http://51.158.145.100/picons/logos/bein/987843.png" group-title="⚽ رياضة",BEIN SPORTS 3
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987843
+#EXTINF:-1 tvg-id="987842" tvg-name="BEIN SPORTS 4 " tvg-logo="http://51.158.145.100/picons/logos/bein/987842.png" group-title="⚽ رياضة",BEIN SPORTS 4
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987842
+#EXTINF:-1 tvg-id="987841" tvg-name="BEIN SPORTS 5 " tvg-logo="http://51.158.145.100/picons/logos/bein/987841.png" group-title="⚽ رياضة",BEIN SPORTS 5
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987841
+#EXTINF:-1 tvg-id="987840" tvg-name="BEIN SPORTS 6 " tvg-logo="http://51.158.145.100/picons/logos/bein/987840.png" group-title="⚽ رياضة",BEIN SPORTS 6
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987840
+#EXTINF:-1 tvg-id="987839" tvg-name="BEIN SPORTS 7 " tvg-logo="http://51.158.145.100/picons/logos/bein/987839.png" group-title="⚽ رياضة",BEIN SPORTS 7
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987839
+#EXTINF:-1 tvg-id="987838" tvg-name="BEIN SPORTS 8 " tvg-logo="http://51.158.145.100/picons/logos/bein/987838.png" group-title="⚽ رياضة",BEIN SPORTS 8
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987838
+#EXTINF:-1 tvg-id="987837" tvg-name="BEIN SPORTS 9 " tvg-logo="http://51.158.145.100/picons/logos/bein/987837.png" group-title="⚽ رياضة",BEIN SPORTS 9
+http://lion4.linkott.com:80/852762995/ZpkJ4512/987837
 #EXTINF:-1 tvg-id="249863" tvg-name=" HD الوطنيّة 1" tvg-logo="https://i.ibb.co/YBDQxRh7/TN1.png" group-title="تونس 🇹🇳", HD الوطنيّة 1
-http://lion4.linkott.com:80/852762995/ZpkJ4512/249863
+http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
 #EXTINF:-1 tvg-id="719568" tvg-name=" HD الوطنيّة 2" tvg-logo="https://i.ibb.co/7NzzDWt3/TN2.png" group-title="تونس 🇹🇳", HD الوطنيّة 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/788533
 #EXTINF:-1 tvg-id="249868" tvg-name=" AL HIWAR ETTOUNSI" tvg-logo="http://51.158.145.100/picons/logos/arabic/249868.png" group-title="تونس 🇹🇳", AL HIWAR ETTOUNSI
@@ -108,7 +156,7 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/249869
 #EXTINF:-1 tvg-id="249864" tvg-name=" TUNISIA NATIONAL 2" tvg-logo="http://51.158.145.100/picons/logos/arabic/249864.png" group-title="تونس 🇹🇳", SD الوطنيّة 2
 http://lion4.linkott.com:80/852762995/ZpkJ4512/249864
 #EXTINF:-1 tvg-id=" HD الوطنيّة 1" tvg-name="TUNISIA 1" tvg-logo="https://i.ibb.co/YBDQxRh7/TN1.png" group-title="قنوات عربية", HD الوطنيّة 1
-http://lion4.linkott.com:80/852762995/ZpkJ4512/249863
+http://lion4.linkott.com:80/852762995/ZpkJ4512/668470
 #EXTINF:-1 tvg-id="257322" tvg-name=" NATIONAL GEO ABU DHABI" tvg-logo="http://51.158.145.100/picons/logos/france/820803.png" group-title="قنوات عربية", NATIONAL GEO ABU DHABI
 http://lion4.linkott.com:80/852762995/ZpkJ4512/257322
 #EXTINF:-1 tvg-id="250049" tvg-name=" MBC MASR " tvg-logo="http://51.158.145.100/picons/logos/arabic/250049.png" group-title="قنوات عربية", MBC MASR
@@ -1935,8 +1983,6 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/820803
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820802
 #EXTINF:-1 tvg-id="820871" tvg-name=" W9 " tvg-logo="http://51.158.145.100/picons/logos/france/820871.png" group-title="France TV 🇫🇷", W9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
-#EXTINF:-1 tvg-id="820871" tvg-name=" W9 " tvg-logo="http://51.158.145.100/picons/logos/france/820871.png" group-title="France TV 🇫🇷", W9
-http://lion4.linkott.com:80/852762995/ZpkJ4512/820871
 #EXTINF:-1 tvg-id="820821" tvg-name=" RTL9 " tvg-logo="http://51.158.145.100/picons/logos/france/820821.png" group-title="France TV 🇫🇷", RTL9
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820821
 #EXTINF:-1 tvg-id="820870" tvg-name=" TMC " tvg-logo="http://51.158.145.100/picons/logos/france/820870.png" group-title="France TV 🇫🇷", TMC
@@ -2083,73 +2129,51 @@ http://lion4.linkott.com:80/852762995/ZpkJ4512/820761
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820760
 #EXTINF:-1 tvg-id="820755" tvg-name=" CSTAR HITS " tvg-logo="http://51.158.145.100/picons/logos/france/820755.png" group-title="France TV 🇫🇷", CSTAR HITS
 http://lion4.linkott.com:80/852762995/ZpkJ4512/820755
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name=" CANAL+ KIDS " tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="Kids", CANAL+ KIDS 
+#EXTINF:-1 tvg-id="249862" tvg-name="##### FR - KIDS #####" tvg-logo="http://51.158.145.100/picons/logos/arabic/249862.png" group-title="France TV 🇫🇷",##### FR - KIDS #####
+http://lion4.linkott.com:80/852762995/ZpkJ4512/249862
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name=" CANAL+ KIDS " tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-KIDS.png" group-title="France TV 🇫🇷", CANAL+ KIDS
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832196
-#EXTINF:-1 tvg-name=" DREAMWORKS" tvg-logo="http://103.176.90.118/picons/logos/24.7/DREAMWORKS.png" group-title="Kids", DREAMWORKS
+#EXTINF:-1 tvg-name=" DREAMWORKS" tvg-logo="http://103.176.90.118/picons/logos/24.7/DREAMWORKS.png" group-title="France TV 🇫🇷", DREAMWORKS
 http://lion5.linkott.com:80/852762995/ZpkJ4512/947757
-#EXTINF:-1 tvg-id="PIWI.fr" tvg-name=" PIWI+ " tvg-logo="http://103.176.90.118/piconsnew/piwiplus.png" group-title="Kids", PIWI+ 
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name=" PIWI+ " tvg-logo="http://103.176.90.118/piconsnew/piwiplus.png" group-title="France TV 🇫🇷", PIWI+
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832193
-#EXTINF:-1 tvg-name=" GAME ONE+1 " tvg-logo="http://103.176.90.118/picons/logos/france/GAME-ONE-1.png" group-title="Kids", GAME ONE+1 
+#EXTINF:-1 tvg-name=" GAME ONE+1 " tvg-logo="http://103.176.90.118/picons/logos/france/GAME-ONE-1.png" group-title="France TV 🇫🇷", GAME ONE+1
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832184
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name=" GAME ONE " tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="Kids", GAME ONE 
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name=" GAME ONE " tvg-logo="http://103.176.90.118/picons-dino/logos/GAME-ONE-FR-TV.png" group-title="France TV 🇫🇷", GAME ONE
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832183
-#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name=" BABY TV " tvg-logo="http://103.176.90.118/picons-dino/logos/laz.babytv.png" group-title="Kids", BABY TV 
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name=" BABY TV " tvg-logo="http://103.176.90.118/picons-dino/logos/laz.babytv.png" group-title="France TV 🇫🇷", BABY TV
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832180
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name=" BOING " tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="Kids", BOING 
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name=" BOING " tvg-logo="http://103.176.90.118/picons-dino/logos/BOING-FR-TV.png" group-title="France TV 🇫🇷", BOING
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832179
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name=" BOOMERANG " tvg-logo="http://103.176.90.118/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="Kids", BOOMERANG 
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name=" BOOMERANG " tvg-logo="http://103.176.90.118/picons-dino/logos/BOOMERANG-POLSKA.png" group-title="France TV 🇫🇷", BOOMERANG
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832176
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name=" CANAL J " tvg-logo="http://103.176.90.118/picons-dino/logos/CANAL-J-FR-TV.png" group-title="Kids", CANAL J 
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name=" CANAL J " tvg-logo="http://103.176.90.118/picons-dino/logos/CANAL-J-FR-TV.png" group-title="France TV 🇫🇷", CANAL J
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832173
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name=" CARTOON NETWORK " tvg-logo="http://103.176.90.118/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="Kids", CARTOON NETWORK 
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name=" CARTOON NETWORK " tvg-logo="http://103.176.90.118/picons-dino/logos/CARTOON-NETWORK-POLSKA.png" group-title="France TV 🇫🇷", CARTOON NETWORK
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832170
-#EXTINF:-1 tvg-name=" DISNEY CHANNEL +1 " tvg-logo="http://103.176.90.118/picons/logos/france/DISNEY-CHANNEL-1.png" group-title="Kids", DISNEY CHANNEL +1 
+#EXTINF:-1 tvg-name=" DISNEY CHANNEL +1 " tvg-logo="http://103.176.90.118/picons/logos/france/DISNEY-CHANNEL-1.png" group-title="France TV 🇫🇷", DISNEY CHANNEL +1
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832167
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name=" DISNEY CHANNEL " tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="Kids", DISNEY CHANNEL 
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name=" DISNEY CHANNEL " tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CHANNEL-POLSKA.png" group-title="France TV 🇫🇷", DISNEY CHANNEL
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832166
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name=" DISNEY JUNIOR " tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="Kids", DISNEY JUNIOR 
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name=" DISNEY JUNIOR " tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-JUNIOR-POLSKA.png" group-title="France TV 🇫🇷", DISNEY JUNIOR
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832163
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name=" GULLI " tvg-logo="http://103.176.90.118/piconsnew/gulli.png" group-title="Kids", GULLI 
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name=" GULLI " tvg-logo="http://103.176.90.118/piconsnew/gulli.png" group-title="France TV 🇫🇷", GULLI
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832160
-#EXTINF:-1 tvg-id="JONE.fr" tvg-name=" J-ONE " tvg-logo="http://103.176.90.118/picons-dino/logos/J-ONE-FR-TV.png" group-title="Kids", J-ONE 
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name=" J-ONE " tvg-logo="http://103.176.90.118/picons-dino/logos/J-ONE-FR-TV.png" group-title="France TV 🇫🇷", J-ONE
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832157
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name=" MANGAS " tvg-logo="http://103.176.90.118/picons-dino/logos/MANGAS-FR-TV.png" group-title="Kids", MANGAS 
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name=" MANGAS " tvg-logo="http://103.176.90.118/picons-dino/logos/MANGAS-FR-TV.png" group-title="France TV 🇫🇷", MANGAS
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832154
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name=" NICKELODEON " tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="Kids", NICKELODEON 
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name=" NICKELODEON " tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-FR-TV.png" group-title="France TV 🇫🇷", NICKELODEON
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832151
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name=" NICKELODEON JUNIOR " tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="Kids", NICKELODEON JUNIOR 
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name=" NICKELODEON JUNIOR " tvg-logo="http://103.176.90.118/picons-dino/logos/NICKELODEON-JUNIOR-FR-TV.png" group-title="France TV 🇫🇷", NICKELODEON JUNIOR
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832149
-#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name=" PITCHOUN TV " tvg-logo="http://103.176.90.118/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="Kids", PITCHOUN TV 
+#EXTINF:-1 tvg-id="Pitchoun.fr" tvg-name=" PITCHOUN TV " tvg-logo="http://103.176.90.118/picons-dino/logos/PITCHOUN-FR-TV.png" group-title="France TV 🇫🇷", PITCHOUN TV
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832145
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name=" TIJI " tvg-logo="http://103.176.90.118/picons-dino/logos/TIJI-FR-TV.png" group-title="Kids", TIJI 
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name=" TIJI " tvg-logo="http://103.176.90.118/picons-dino/logos/TIJI-FR-TV.png" group-title="France TV 🇫🇷", TIJI
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832142
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name=" TOONAMI " tvg-logo="http://103.176.90.118/picons-dino/logos/TOONAMI-FR-TV.png" group-title="Kids", TOONAMI 
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name=" TOONAMI " tvg-logo="http://103.176.90.118/picons-dino/logos/TOONAMI-FR-TV.png" group-title="France TV 🇫🇷", TOONAMI
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832139
-#EXTINF:-1 tvg-name=" PYJAMASQUES" tvg-logo="http://103.176.90.118/picons-dino/logos/Pyjamasques-FR-TV.png" group-title="Kids", PYJAMASQUES
+#EXTINF:-1 tvg-name=" PYJAMASQUES" tvg-logo="http://103.176.90.118/picons-dino/logos/Pyjamasques-FR-TV.png" group-title="France TV 🇫🇷", PYJAMASQUES
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832136
-#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name=" BabyTV " tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="Kids", BabyTV 
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name=" BabyTV " tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="France TV 🇫🇷", BabyTV
 http://lion5.linkott.com:80/852762995/ZpkJ4512/832135
-#EXTINF:-1 tvg-id="1335321" tvg-name="[LOCAL] BEIN MAX 1 HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="CAN",[LOCAL] BEIN MAX 1 HEVC
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335321
-#EXTINF:-1 tvg-id="1335317" tvg-name="[LOCAL] BEIN MAX 2 HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="CAN",[LOCAL] BEIN MAX 2 HEVC
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335317
-#EXTINF:-1 tvg-id="1335313" tvg-name="[LOCAL] BEIN MAX 3 EN HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="CAN",[LOCAL] BEIN MAX 3 EN HEVC
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335313
-#EXTINF:-1 tvg-id="1335309" tvg-name="[LOCAL] BEIN MAX 4 FR HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="CAN",[LOCAL] BEIN MAX 4 FR HEVC
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335309
-#EXTINF:-1 tvg-id="1335306" tvg-name="[BE] BEIN MAX 01 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987800.png" group-title="CAN",[BE] BEIN MAX 01 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335306
-#EXTINF:-1 tvg-id="1335302" tvg-name="[BE]  BEIN MAX 02 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987796.png" group-title="CAN",[BE]  BEIN MAX 02 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335302
-#EXTINF:-1 tvg-id="1335298" tvg-name="[BE]  BEIN MAX 03 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987792.png" group-title="CAN",[BE]  BEIN MAX 03 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335298
-#EXTINF:-1 tvg-id="1335294" tvg-name="[BE] BEIN MAX 04 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987788.png" group-title="CAN",[BE] BEIN MAX 04 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1335294
-#EXTINF:-1 tvg-id="1334864" tvg-name="[NX] BEIN MAX 1 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987655.png" group-title="CAN",[NX] BEIN MAX 1 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1334864
-#EXTINF:-1 tvg-id="1334861" tvg-name="[NX] BEIN MAX 2 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987652.png" group-title="CAN",[NX] BEIN MAX 2 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1334861
-#EXTINF:-1 tvg-id="1334858" tvg-name="[NX] BEIN MAX 3 EN 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987649.png" group-title="CAN",[NX] BEIN MAX 3 EN 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1334858
-#EXTINF:-1 tvg-id="1334855" tvg-name="[NX] BEIN MAX 4 FR 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1987646.png" group-title="CAN",[NX] BEIN MAX 4 FR 4K
-http://lion4.linkott.com:80/852762995/ZpkJ4512/1334855
