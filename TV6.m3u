@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://44.tvdragon.com/get.php?username=852762995&password=ZpkJ4512&type=m3u_plus&output=ts"
+
 #EXTINF:-1 tvg-id="249863" tvg-name="  الوطنيّة 1" tvg-logo="https://i.ibb.co/YBDQxRh7/TN1.png" group-title=" رياضة",  الوطنيّة 1
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1358931.ts
 #EXTINF:-1 tvg-id="719568" tvg-name="  الوطنيّة 2" tvg-logo="https://i.ibb.co/7NzzDWt3/TN2.png" group-title=" رياضة",  الوطنيّة 2
