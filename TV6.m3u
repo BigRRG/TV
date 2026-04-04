@@ -1,9 +1,10 @@
-#EXTM3U url-tvg="http://44.tvdragon.com/get.php?username=852762995&password=ZpkJ4512&type=m3u_plus&output=ts"
-
+#EXTM3U
 #EXTINF:-1 tvg-id="249863" tvg-name="  الوطنيّة 1" tvg-logo="https://i.ibb.co/YBDQxRh7/TN1.png" group-title=" رياضة",  الوطنيّة 1
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1358931.ts
 #EXTINF:-1 tvg-id="719568" tvg-name="  الوطنيّة 2" tvg-logo="https://i.ibb.co/7NzzDWt3/TN2.png" group-title=" رياضة",  الوطنيّة 2
 http://44.tvdragon.com/live/852762995/ZpkJ4512/788533.ts
+#EXTINF:-1 tvg-id="249864" tvg-name=" Sport الوطنيّة " tvg-logo="https://i.ibb.co/934KcsD5/WSport.png" group-title=" رياضة", Sport الوطنيّة
+http://44.tvdragon.com/live/852762995/ZpkJ4512/1377456.ts
 #EXTINF:-1 tvg-id="987845" tvg-name="BEIN SPORTS 1 " tvg-logo="http://51.158.145.100/picons/logos/bein/987845.png" group-title=" رياضة",BEIN SPORTS 1 
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1016907.ts
 #EXTINF:-1 tvg-id="987844" tvg-name="BEIN SPORTS 2 " tvg-logo="http://51.158.145.100/picons/logos/bein/987844.png" group-title=" رياضة",BEIN SPORTS 2 
@@ -27,7 +28,7 @@ http://44.tvdragon.com/live/852762995/ZpkJ4512/1178455.ts
 #EXTINF:-1 tvg-id="1178454" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="http://51.158.145.100/picons/logos/bein/1178454.png" group-title=" رياضة",BEIN SPORTS GLOBAL
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1178454.ts
 #EXTINF:-1 tvg-id="832068" tvg-name="BEIN Sports 1 FR" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178372.png" group-title=" رياضة",BEIN Sports 1 FR
-http://44.tvdragon.com/live/live/852762995/ZpkJ4512/832065.ts
+http://44.tvdragon.com/live/852762995/ZpkJ4512/832067.ts
 #EXTINF:-1 tvg-id="832064" tvg-name="BEIN Sports 2 FR" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178371.png" group-title=" رياضة",BEIN Sports 2 FR
 http://44.tvdragon.com/live/852762995/ZpkJ4512/832064.ts
 #EXTINF:-1 tvg-id="832060" tvg-name="BEIN Sports 3 FR" tvg-logo="http://51.158.145.100/picons/logos/france/832060.png" group-title=" رياضة",BEIN Sports 3 FR
@@ -130,8 +131,8 @@ http://44.tvdragon.com/live/852762995/ZpkJ4512/987837.ts
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1358931.ts
 #EXTINF:-1 tvg-id="719568" tvg-name="  الوطنيّة 2" tvg-logo="https://i.ibb.co/7NzzDWt3/TN2.png" group-title="تونس 🇹🇳",  الوطنيّة 2
 http://44.tvdragon.com/live/852762995/ZpkJ4512/788533.ts
-#EXTINF:-1 tvg-id="249864" tvg-name=" TUNISIA NATIONAL 2" tvg-logo="http://51.158.145.100/picons/logos/arabic/249864.png" group-title="تونس 🇹🇳", SD الوطنيّة 2
-http://44.tvdragon.com/live/852762995/ZpkJ4512/249864.ts
+#EXTINF:-1 tvg-id="249864" tvg-name=" Sport الوطنيّة " tvg-logo="https://i.ibb.co/934KcsD5/WSport.png" group-title="تونس 🇹🇳", Sport الوطنيّة 
+http://44.tvdragon.com/live/852762995/ZpkJ4512/1377456.m3u8
 #EXTINF:-1 tvg-id="249868" tvg-name=" AL HIWAR ETTOUNSI" tvg-logo="http://51.158.145.100/picons/logos/arabic/249868.png" group-title="تونس 🇹🇳", AL HIWAR ETTOUNSI
 http://44.tvdragon.com/live/852762995/ZpkJ4512/249868.ts
 #EXTINF:-1 tvg-id="249871" tvg-name=" ATTESSIA TV" tvg-logo="http://51.158.145.100/picons/logos/arabic/249871.png" group-title="تونس 🇹🇳", ATTESSIA TV
