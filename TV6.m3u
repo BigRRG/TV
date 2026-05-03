@@ -2161,6 +2161,8 @@ http://44.tvdragon.com/852762995/ZpkJ4512/1150880
 http://44.tvdragon.com/852762995/ZpkJ4512/1150879
 #EXTINF:-1 tvg-id="1150878" tvg-name=" CANAL+ LIVE 3" tvg-logo="http://51.158.145.100/picons/logos/france/1150878.png" group-title="⚽ Sports 🇫🇷", CANAL+ LIVE 3
 http://44.tvdragon.com/852762995/ZpkJ4512/1150878
+#EXTINF:-1 tvg-id="832126" tvg-name=" L'EQUIPE 21 " tvg-logo="http://51.158.145.100/picons/logos/france/832126.png" group-title="⚽ Sports 🇫🇷", L'EQUIPE 21
+http://44.tvdragon.com/852762995/ZpkJ4512/832126
 #EXTINF:-1 tvg-id="832093" tvg-name=" RMC SPORT 1 " tvg-logo="http://51.158.145.100/picons/logos/france/832093.png" group-title="⚽ Sports 🇫🇷", RMC SPORT 1
 http://44.tvdragon.com/852762995/ZpkJ4512/832093
 #EXTINF:-1 tvg-id="832090" tvg-name="  RMC SPORT 2 " tvg-logo="http://51.158.145.100/picons/logos/france/832090.png" group-title="⚽ Sports 🇫🇷",  RMC SPORT 2
@@ -2169,6 +2171,18 @@ http://44.tvdragon.com/852762995/ZpkJ4512/832090
 http://44.tvdragon.com/852762995/ZpkJ4512/832086
 #EXTINF:-1 tvg-id="832083" tvg-name=" RMC SPORT 4 " tvg-logo="http://51.158.145.100/picons/logos/france/RMCSPORT.png" group-title="⚽ Sports 🇫🇷", RMC SPORT 4
 http://44.tvdragon.com/852762995/ZpkJ4512/832083
+#EXTINF:-1 tvg-id="832133" tvg-name=" SPORT EN FRANCE " tvg-logo="http://51.158.145.100/picons/logos/france/832133.png" group-title="⚽ Sports 🇫🇷", SPORT EN FRANCE
+http://44.tvdragon.com/852762995/ZpkJ4512/832133
+#EXTINF:-1 tvg-id="832125" tvg-name="  INFOSPORT+ " tvg-logo="http://51.158.145.100/picons/logos/france/832125.png" group-title="⚽ Sports 🇫🇷",  INFOSPORT+
+http://44.tvdragon.com/852762995/ZpkJ4512/832125
+#EXTINF:-1 tvg-id="832132" tvg-name=" AUTOMOTO " tvg-logo="http://51.158.145.100/picons/logos/france/832132.png" group-title="⚽ Sports 🇫🇷", AUTOMOTO
+http://44.tvdragon.com/852762995/ZpkJ4512/832132
+#EXTINF:-1 tvg-id="832121" tvg-name=" GOLF+ " tvg-logo="http://51.158.145.100/picons/logos/france/832121.png" group-title="⚽ Sports 🇫🇷", GOLF+
+http://44.tvdragon.com/852762995/ZpkJ4512/832121
+#EXTINF:-1 tvg-id="832116" tvg-name=" EUROSPORT 1 " tvg-logo="http://51.158.145.100/picons/logos/france/832116.png" group-title="⚽ Sports 🇫🇷", EUROSPORT 1
+http://44.tvdragon.com/852762995/ZpkJ4512/832116
+#EXTINF:-1 tvg-id="832112" tvg-name=" EUROSPORT 2 " tvg-logo="http://51.158.145.100/picons/logos/france/832112.png" group-title="⚽ Sports 🇫🇷", EUROSPORT 2
+http://44.tvdragon.com/852762995/ZpkJ4512/832112
 #EXTINF:-1 tvg-id="1143618" tvg-name=" LIGUE1 + 4" tvg-logo="http://51.158.145.100/picons/logos/logos/ligue1.png" group-title="⚽ Sports 🇫🇷", LIGUE1 + 4
 http://44.tvdragon.com/852762995/ZpkJ4512/1143618
 #EXTINF:-1 tvg-id="1143617" tvg-name=" LIGUE1 + 5" tvg-logo="http://51.158.145.100/picons/logos/logos/ligue1.png" group-title="⚽ Sports 🇫🇷", LIGUE1 + 5
@@ -2233,32 +2247,10 @@ http://44.tvdragon.com/852762995/ZpkJ4512/832077
 http://44.tvdragon.com/852762995/ZpkJ4512/832080
 #EXTINF:-1 tvg-id="832077" tvg-name=" RMC SPORT LIVE 6 " tvg-logo="http://51.158.145.100/picons/logos/france/RMCSPORT.png" group-title="⚽ Sports 🇫🇷", RMC SPORT LIVE 6
 http://44.tvdragon.com/852762995/ZpkJ4512/832077
-#EXTINF:-1 tvg-id="1122216" tvg-name=" L'ÉQUIPE LIVE FOOT " tvg-logo="http://51.158.145.100/picons/logos/PPV/LEQUIPE.png" group-title="⚽ Sports 🇫🇷", L'ÉQUIPE LIVE FOOT
-http://44.tvdragon.com/852762995/ZpkJ4512/1122216
-#EXTINF:-1 tvg-id="1191124" tvg-name=" L'ÉQUIPE LIVE 1 " tvg-logo="http://51.158.145.100/picons/logos/PPV/LEQUIPE.png" group-title="⚽ Sports 🇫🇷", L'ÉQUIPE LIVE 1
-http://44.tvdragon.com/852762995/ZpkJ4512/1191124
-#EXTINF:-1 tvg-id="1191123" tvg-name=" L'ÉQUIPE LIVE 2 " tvg-logo="http://51.158.145.100/picons/logos/PPV/LEQUIPE.png" group-title="⚽ Sports 🇫🇷", L'ÉQUIPE LIVE 2
-http://44.tvdragon.com/852762995/ZpkJ4512/1191123
-#EXTINF:-1 tvg-id="1191122" tvg-name=" L'ÉQUIPE LIVE 3 " tvg-logo="http://51.158.145.100/picons/logos/PPV/LEQUIPE.png" group-title="⚽ Sports 🇫🇷", L'ÉQUIPE LIVE 3
-http://44.tvdragon.com/852762995/ZpkJ4512/1191122
 #EXTINF:-1 tvg-id="1270824" tvg-name="  ROLAND GARROS 1 " tvg-logo="http://51.158.145.100/picons/logos/logos/FRANCE-TV-ROLAND-GARROS.png" group-title="⚽ Sports 🇫🇷",  ROLAND GARROS 1
 http://44.tvdragon.com/852762995/ZpkJ4512/1270824
 #EXTINF:-1 tvg-id="1270822" tvg-name="  ROLAND GARROS 2 " tvg-logo="http://51.158.145.100/picons/logos/logos/FRANCE-TV-ROLAND-GARROS.png" group-title="⚽ Sports 🇫🇷",  ROLAND GARROS 2
 http://44.tvdragon.com/852762995/ZpkJ4512/1270822
-#EXTINF:-1 tvg-id="832133" tvg-name=" SPORT EN FRANCE " tvg-logo="http://51.158.145.100/picons/logos/france/832133.png" group-title="⚽ Sports 🇫🇷", SPORT EN FRANCE
-http://44.tvdragon.com/852762995/ZpkJ4512/832133
-#EXTINF:-1 tvg-id="832132" tvg-name=" AUTOMOTO " tvg-logo="http://51.158.145.100/picons/logos/france/832132.png" group-title="⚽ Sports 🇫🇷", AUTOMOTO
-http://44.tvdragon.com/852762995/ZpkJ4512/832132
-#EXTINF:-1 tvg-id="832126" tvg-name=" L'EQUIPE 21 " tvg-logo="http://51.158.145.100/picons/logos/france/832126.png" group-title="⚽ Sports 🇫🇷", L'EQUIPE 21
-http://44.tvdragon.com/852762995/ZpkJ4512/832126
-#EXTINF:-1 tvg-id="832125" tvg-name="  INFOSPORT+ " tvg-logo="http://51.158.145.100/picons/logos/france/832125.png" group-title="⚽ Sports 🇫🇷",  INFOSPORT+
-http://44.tvdragon.com/852762995/ZpkJ4512/832125
-#EXTINF:-1 tvg-id="832121" tvg-name=" GOLF+ " tvg-logo="http://51.158.145.100/picons/logos/france/832121.png" group-title="⚽ Sports 🇫🇷", GOLF+
-http://44.tvdragon.com/852762995/ZpkJ4512/832121
-#EXTINF:-1 tvg-id="832116" tvg-name=" EUROSPORT 1 " tvg-logo="http://51.158.145.100/picons/logos/france/832116.png" group-title="⚽ Sports 🇫🇷", EUROSPORT 1
-http://44.tvdragon.com/852762995/ZpkJ4512/832116
-#EXTINF:-1 tvg-id="832112" tvg-name=" EUROSPORT 2 " tvg-logo="http://51.158.145.100/picons/logos/france/832112.png" group-title="⚽ Sports 🇫🇷", EUROSPORT 2
-http://44.tvdragon.com/852762995/ZpkJ4512/832112
 #EXTINF:-1 tvg-id="543422" tvg-name=" EUROSPORT 360 1 " tvg-logo="http://51.158.145.100/picons/logos/france/543422.png" group-title="⚽ Sports 🇫🇷", EUROSPORT 360 1
 http://44.tvdragon.com/852762995/ZpkJ4512/543422
 #EXTINF:-1 tvg-id="543423" tvg-name=" EUROSPORT 360 2 " tvg-logo="http://51.158.145.100/picons/logos/france/543423.png" group-title="⚽ Sports 🇫🇷", EUROSPORT 360 2
