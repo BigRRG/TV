@@ -5,8 +5,12 @@ http://44.tvdragon.com/live/852762995/ZpkJ4512/1358931.ts
 http://44.tvdragon.com/live/852762995/ZpkJ4512/788533.ts
 #EXTINF:-1 tvg-id="249864" tvg-name=" Sport الوطنيّة " tvg-logo="https://i.ibb.co/934KcsD5/WSport.png" group-title=" رياضة", Sport الوطنيّة
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1377456.ts
+#EXTINF:-1 tvg-id="1320172" tvg-name="DIWAN SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/arabic/1955268.png" group-title=" رياضة",DIWAN SPORT 2
+http://44.tvdragon.com/852762995/ZpkJ4512/1320172
+#EXTINF:-1 tvg-id="1320173" tvg-name="DIWAN SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/arabic/1955269.png" group-title=" رياضة",DIWAN SPORT 1
+http://44.tvdragon.com/852762995/ZpkJ4512/1320173
 #EXTINF:-1 tvg-id="987845" tvg-name="BEIN SPORTS 1 " tvg-logo="http://51.158.145.100/picons/logos/bein/987845.png" group-title=" رياضة",BEIN SPORTS 1 
-http://44.tvdragon.com/852762995/ZpkJ4512/832065
+http://44.tvdragon.com/852762995/ZpkJ4512/1016907
 #EXTINF:-1 tvg-id="987844" tvg-name="BEIN SPORTS 2 " tvg-logo="http://51.158.145.100/picons/logos/bein/987844.png" group-title=" رياضة",BEIN SPORTS 2 
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1016908.ts
 #EXTINF:-1 tvg-id="987843" tvg-name="BEIN SPORTS 3 " tvg-logo="http://51.158.145.100/picons/logos/bein/987843.png" group-title=" رياضة",BEIN SPORTS 3 
