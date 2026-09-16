@@ -5,10 +5,10 @@ http://44.tvdragon.com/live/852762995/ZpkJ4512/1358931.ts
 http://44.tvdragon.com/live/852762995/ZpkJ4512/788533.ts
 #EXTINF:-1 tvg-id="249864" tvg-name=" Sport الوطنيّة " tvg-logo="https://i.ibb.co/934KcsD5/WSport.png" group-title=" رياضة", Sport الوطنيّة
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1377456.ts
-#EXTINF:-1 tvg-id="1320172" tvg-name="DIWAN SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/arabic/1955268.png" group-title=" رياضة",DIWAN SPORT 2
-http://44.tvdragon.com/852762995/ZpkJ4512/1320172
 #EXTINF:-1 tvg-id="1320173" tvg-name="DIWAN SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/arabic/1955269.png" group-title=" رياضة",DIWAN SPORT 1
 http://44.tvdragon.com/852762995/ZpkJ4512/1320173
+#EXTINF:-1 tvg-id="1320172" tvg-name="DIWAN SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/arabic/1955268.png" group-title=" رياضة",DIWAN SPORT 2
+http://44.tvdragon.com/852762995/ZpkJ4512/1320172
 #EXTINF:-1 tvg-id="987845" tvg-name="BEIN SPORTS 1 " tvg-logo="http://51.158.145.100/picons/logos/bein/987845.png" group-title=" رياضة",BEIN SPORTS 1 
 http://44.tvdragon.com/852762995/ZpkJ4512/1016907
 #EXTINF:-1 tvg-id="987844" tvg-name="BEIN SPORTS 2 " tvg-logo="http://51.158.145.100/picons/logos/bein/987844.png" group-title=" رياضة",BEIN SPORTS 2 
@@ -91,30 +91,6 @@ http://44.tvdragon.com/live/852762995/ZpkJ4512/987839.ts
 http://44.tvdragon.com/live/852762995/ZpkJ4512/987838.ts
 #EXTINF:-1 tvg-id="987837" tvg-name="BEIN SPORTS 9 " tvg-logo="http://51.158.145.100/picons/logos/bein/987837.png" group-title=" رياضة",BEIN SPORTS 9
 http://44.tvdragon.com/live/852762995/ZpkJ4512/987837.ts
-#EXTINF:-1 tvg-id="1389600" tvg-name="BEIN SPORTS MAX 1 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="Coupe du monde",BEIN SPORTS MAX 1 4K
-http://44.tvdragon.com/852762995/ZpkJ4512/1389600
-#EXTINF:-1 tvg-id="1389599" tvg-name="BEIN SPORTS MAX 2 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="Coupe du monde",BEIN SPORTS MAX 2 4K
-http://44.tvdragon.com/852762995/ZpkJ4512/1389599
-#EXTINF:-1 tvg-id="1389598" tvg-name="BEIN SPORTS MAX 3 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="Coupe du monde",BEIN SPORTS MAX 3 4K
-http://44.tvdragon.com/852762995/ZpkJ4512/1389598
-#EXTINF:-1 tvg-id="1389597" tvg-name="BEIN SPORTS MAX 4 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="Coupe du monde",BEIN SPORTS MAX 4 4K
-http://44.tvdragon.com/852762995/ZpkJ4512/1389597
-#EXTINF:-1 tvg-id="1389596" tvg-name="BEIN SPORTS MAX 5 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="Coupe du monde",BEIN SPORTS MAX 5 4K
-http://44.tvdragon.com/852762995/ZpkJ4512/1389596
-#EXTINF:-1 tvg-id="1389595" tvg-name="BEIN SPORTS MAX 6 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="Coupe du monde",BEIN SPORTS MAX 6 4K
-http://44.tvdragon.com/852762995/ZpkJ4512/1389595
-#EXTINF:-1 tvg-id="1389594" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="Coupe du monde",BEIN SPORTS MAX 1 FHD
-http://44.tvdragon.com/852762995/ZpkJ4512/1389594
-#EXTINF:-1 tvg-id="1389593" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="Coupe du monde",BEIN SPORTS MAX 2 FHD
-http://44.tvdragon.com/852762995/ZpkJ4512/1389593
-#EXTINF:-1 tvg-id="1389592" tvg-name="BEIN SPORTS MAX 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="Coupe du monde",BEIN SPORTS MAX 3 FHD
-http://44.tvdragon.com/852762995/ZpkJ4512/1389592
-#EXTINF:-1 tvg-id="1389591" tvg-name="BEIN SPORTS MAX 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="Coupe du monde",BEIN SPORTS MAX 4 FHD
-http://44.tvdragon.com/852762995/ZpkJ4512/1389591
-#EXTINF:-1 tvg-id="1389590" tvg-name="BEIN SPORTS MAX 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="Coupe du monde",BEIN SPORTS MAX 5 FHD
-http://44.tvdragon.com/852762995/ZpkJ4512/1389590
-#EXTINF:-1 tvg-id="1389589" tvg-name="BEIN SPORTS MAX 6 FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="Coupe du monde",BEIN SPORTS MAX 6 FHD
-http://44.tvdragon.com/852762995/ZpkJ4512/1389589
 #EXTINF:-1 tvg-id="249863" tvg-name="  الوطنيّة 1" tvg-logo="https://i.ibb.co/YBDQxRh7/TN1.png" group-title="قنوات عربية",  الوطنيّة 1
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1358931.ts
 #EXTINF:-1 tvg-id="719568" tvg-name="  الوطنيّة 2" tvg-logo="https://i.ibb.co/7NzzDWt3/TN2.png" group-title="قنوات عربية",  الوطنيّة 2
