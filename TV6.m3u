@@ -5,10 +5,6 @@ http://44.tvdragon.com/live/852762995/ZpkJ4512/1358931.ts
 http://44.tvdragon.com/live/852762995/ZpkJ4512/788533.ts
 #EXTINF:-1 tvg-id="249864" tvg-name=" Sport الوطنيّة " tvg-logo="https://i.ibb.co/934KcsD5/WSport.png" group-title=" رياضة", Sport الوطنيّة
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1377456.ts
-#EXTINF:-1 tvg-id="1320173" tvg-name="DIWAN SPORT 1" tvg-logo="http://103.176.90.154/picons/logos/arabic/1955269.png" group-title=" رياضة",DIWAN SPORT 1
-http://44.tvdragon.com/852762995/ZpkJ4512/1320173
-#EXTINF:-1 tvg-id="1320172" tvg-name="DIWAN SPORT 2" tvg-logo="http://103.176.90.154/picons/logos/arabic/1955268.png" group-title=" رياضة",DIWAN SPORT 2
-http://44.tvdragon.com/852762995/ZpkJ4512/1320172
 #EXTINF:-1 tvg-id="987845" tvg-name="BEIN SPORTS 1 " tvg-logo="http://103.176.90.154/picons/logos/bein/987845.png" group-title=" رياضة",BEIN SPORTS 1
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1156631.m3u8
 #EXTINF:-1 tvg-id="987844" tvg-name="BEIN SPORTS 2 " tvg-logo="http://103.176.90.154/picons/logos/bein/987844.png" group-title=" رياضة",BEIN SPORTS 2
@@ -31,6 +27,10 @@ http://44.tvdragon.com/live/852762995/ZpkJ4512/987837.ts
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1178455.ts
 #EXTINF:-1 tvg-id="1178454" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="http://103.176.90.154/picons/logos/bein/1178454.png" group-title=" رياضة",BEIN SPORTS GLOBAL
 http://44.tvdragon.com/live/852762995/ZpkJ4512/1178454.ts
+#EXTINF:-1 tvg-id="1320173" tvg-name="DIWAN SPORT 1" tvg-logo="http://103.176.90.154/picons/logos/arabic/1955269.png" group-title=" رياضة",DIWAN SPORT 1
+http://44.tvdragon.com/852762995/ZpkJ4512/1320173
+#EXTINF:-1 tvg-id="1320172" tvg-name="DIWAN SPORT 2" tvg-logo="http://103.176.90.154/picons/logos/arabic/1955268.png" group-title=" رياضة",DIWAN SPORT 2
+http://44.tvdragon.com/852762995/ZpkJ4512/1320172
 #EXTINF:-1 tvg-id="584498" tvg-name="AL KASS 1" tvg-logo="http://103.176.90.154/picons/logos/arabic/584498.png" group-title=" رياضة",AL KASS 1
 http://44.tvdragon.com/live/852762995/ZpkJ4512/584498.ts
 #EXTINF:-1 tvg-id="584496" tvg-name="AL KASS 2" tvg-logo="http://103.176.90.154/picons/logos/arabic/584496.png" group-title=" رياضة",AL KASS 2
